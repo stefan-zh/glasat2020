@@ -38,10 +38,6 @@ module.exports = {
     contentBase: path.join(__dirname, 'dist'),
     compress: true,
     hot: true,
-    open: true,
-    port: 3000,
-    proxy: {
-      '*': 'http://localhost:5000'
-    }
+    port: 3000
   }
 };

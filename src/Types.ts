@@ -63,6 +63,8 @@ export interface VideoResultItem {
     tags: string[],
     categoryId: string,
     liveBroadcastContent: string,
+    defaultLanguage: string,
+    defaultAudioLanguage: string,
     localized: {
       title: string,
       description: string

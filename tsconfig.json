@@ -9,6 +9,7 @@
     "target": "es6",
     "jsx": "react",
     "moduleResolution": "node",
+    "resolveJsonModule": true,
     "importHelpers": true,
     "types": [
       "gapi",

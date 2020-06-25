@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Typography, Select, MenuItem, Grid, Paper } from '@material-ui/core';
+import { Typography, Select, MenuItem, Grid } from '@material-ui/core';
 
 interface HeaderProps {
   sortFn: (val: number) => void

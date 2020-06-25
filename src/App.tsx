@@ -1,13 +1,18 @@
 import * as React from 'react';
 import { videosInfo } from './videos-info';
 import { VideoResultItem } from './Types';
-import { Container, Grid, Paper } from '@material-ui/core';
+import { Container, Grid } from '@material-ui/core';
 import { Header } from './Header';
+import { VideoCard } from './VideoCard';
 // import { fetchVideos } from './services';
 
 // selectors
-const selectViewCount = (video: VideoResultItem) => video.statistics.viewCount.toLocaleString();
-const selectLikeCount = (video: VideoResultItem) => video.statistics.likeCount.toLocaleString();
+const selectViewCount = (video: VideoResultItem) => {
+  return `${video.statistics.viewCount.toLocaleString()} гледания`;
+}
+const selectLikeCount = (video: VideoResultItem) => {
+  return `${video.statistics.likeCount.toLocaleString()} харесвания`;
+}
 
 export const App = () => {
   // state variables
@@ -43,24 +48,15 @@ export const App = () => {
           <Header sortFn={sortFn} />
         </Grid>
         <Grid item xs={12}>
-          <Grid container justify="center" spacing={10}>
+          <Grid container justify="center" spacing={5}>
             {videos.map((video) => (
               <Grid key={video.id} item>
-                <Paper style={{height: 140, width: 100}} />
+                <VideoCard video={video} catFn={selectFn} />
               </Grid>
             ))}
           </Grid>
         </Grid>
-        <ul>
-        {videos.map((video) => (
-          <li>
-            <p>{video.snippet.title}</p>
-            <p>{selectFn(video)}</p>
-          </li>
-        ))}
-        </ul>
       </Grid>
     </Container>
-    // <p>Hello world! {videosInfo.items.length}</p>
   );
 }

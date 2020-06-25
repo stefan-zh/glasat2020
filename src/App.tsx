@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { videosInfo } from './videos-info';
 import { VideoResultItem } from './Types';
-import { Container } from '@material-ui/core';
+import { Container, Grid, Paper } from '@material-ui/core';
 import { Header } from './Header';
 // import { fetchVideos } from './services';
 
@@ -38,15 +38,28 @@ export const App = () => {
 
   return (
     <Container maxWidth="lg">
-      <Header sortFn={sortFn} />
-      <ul>
-      {videos.map((video) => (
-        <li>
-          <p>{video.snippet.title}</p>
-          <p>{selectFn(video)}</p>
-        </li>
-      ))}
-      </ul>
+      <Grid container spacing={10}>
+        <Grid item xs={12}>
+          <Header sortFn={sortFn} />
+        </Grid>
+        <Grid item xs={12}>
+          <Grid container justify="center" spacing={10}>
+            {videos.map((video) => (
+              <Grid key={video.id} item>
+                <Paper style={{height: 140, width: 100}} />
+              </Grid>
+            ))}
+          </Grid>
+        </Grid>
+        <ul>
+        {videos.map((video) => (
+          <li>
+            <p>{video.snippet.title}</p>
+            <p>{selectFn(video)}</p>
+          </li>
+        ))}
+        </ul>
+      </Grid>
     </Container>
     // <p>Hello world! {videosInfo.items.length}</p>
   );

@@ -16,6 +16,7 @@ export interface VideoResultItem {
     publishedAt: string,
     channelId: string,
     title: string,
+    fullTitle: string,
     description: string,
     thumbnails: {[key: string]: {
       url: string,
@@ -23,15 +24,7 @@ export interface VideoResultItem {
       height: number
     }},
     channelTitle: string,
-    tags: string[],
-    categoryId: string,
-    liveBroadcastContent: string,
-    defaultLanguage: string,
-    defaultAudioLanguage: string,
-    localized: {
-      title: string,
-      description: string
-    }
+    tags: string[]
   },
   statistics: {
     viewCount: number,

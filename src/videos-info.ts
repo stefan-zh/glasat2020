@@ -12,6 +12,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-06-14T20:40:55Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "ФИНАЛЪТ в 360˚ - Гласът на България",
+        "fullTitle": "ФИНАЛЪТ в 360˚ - Гласът на България",
         "description": "Навигацията на картината на компютър става с мишката или със стрелките на клавиатурата, а на таблет и телефон с пръсти или с движение на екрана в пространството. Максималното качество на картината е 4К. Бихте могли да му се насладите дори и през мобилно устройство с достатъчно добра интернет връзка. Качеството на стрийма по подразбиране стартира с автоматични настройки съобразно качеството на вашата интернет връзка. Можете да опитате го смените с по-високо от контролите на плеъра - Settings  ⚙️- Quality.\n\nАко имате VR очила под ръка, ви съветваме да ги използате, за да се потопите в 360-градусовото преживяване на финалната битка за титлата „глас на България“.\n\n360 live stream provided by 5th Degree - www.5th-degree.com",
         "thumbnails": {
           "default": {
@@ -40,15 +41,7 @@ export const videosInfo: VideoResult  = {
           "Vocea",
           "O Ses",
           "Голос"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "ФИНАЛЪТ в 360˚ - Гласът на България",
-          "description": "Навигацията на картината на компютър става с мишката или със стрелките на клавиатурата, а на таблет и телефон с пръсти или с движение на екрана в пространството. Максималното качество на картината е 4К. Бихте могли да му се насладите дори и през мобилно устройство с достатъчно добра интернет връзка. Качеството на стрийма по подразбиране стартира с автоматични настройки съобразно качеството на вашата интернет връзка. Можете да опитате го смените с по-високо от контролите на плеъра - Settings  ⚙️- Quality.\n\nАко имате VR очила под ръка, ви съветваме да ги използате, за да се потопите в 360-градусовото преживяване на финалната битка за титлата „глас на България“.\n\n360 live stream provided by 5th Degree - www.5th-degree.com"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 54799,
@@ -65,7 +58,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T19:48:06Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана – Praying | Концерти | Гласът на България 2020",
+        "title": "Керана – Praying",
+        "fullTitle": "Керана – Praying | Концерти | Гласът на България 2020",
         "description": "Керана от #ОтборКамелия достигна финала не само да вдъхнови всички с изпълнението си на песента „Praying”, но и да се бори здраво за победа в „Гласът на България”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-praying.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -110,15 +104,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана – Praying | Концерти | Гласът на България 2020",
-          "description": "Керана от #ОтборКамелия достигна финала не само да вдъхнови всички с изпълнението си на песента „Praying”, но и да се бори здраво за победа в „Гласът на България”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-praying.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 34025,
@@ -135,7 +121,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T19:43:59Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Шопов – Dust In The Wind | Концерти | Гласът на България 2020",
+        "title": "Георги Шопов – Dust In The Wind",
+        "fullTitle": "Георги Шопов – Dust In The Wind | Концерти | Гласът на България 2020",
         "description": "На финалната права от #ОтборЛечев застава Георги, който ще даде всичко от себе си, за да спечели „Гласът на България” с изпълнението си на песента „Dust In The Wind”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-dust-in-the-wind.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -180,15 +167,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Шопов – Dust In The Wind | Концерти | Гласът на България 2020",
-          "description": "На финалната права от #ОтборЛечев застава Георги, който ще даде всичко от себе си, за да спечели „Гласът на България” с изпълнението си на песента „Dust In The Wind”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-dust-in-the-wind.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 79018,
@@ -205,7 +184,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T19:30:09Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова – Утеха | Концерти | Гласът на България 2020",
+        "title": "Йоана Сашова – Утеха",
+        "fullTitle": "Йоана Сашова – Утеха | Концерти | Гласът на България 2020",
         "description": "На сцената на „Гласът на България” излиза момчето с най-вълнуващия и емоционален път в състезанието тази година – Йоана от #ОтборГрафа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-uteha.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -251,15 +231,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова – Утеха | Концерти | Гласът на България 2020",
-          "description": "На сцената на „Гласът на България” излиза момчето с най-вълнуващия и емоционален път в състезанието тази година – Йоана от #ОтборГрафа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-uteha.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 262024,
@@ -276,7 +248,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T19:26:50Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена Сиракова – Falling | Концерти | Гласът на България 2020",
+        "title": "Елена Сиракова – Falling",
+        "fullTitle": "Елена Сиракова – Falling | Концерти | Гласът на България 2020",
         "description": "Посрещаме под прожекторите Eлена от #ОтборМихаела, която ще даде всичко от себе си, за да спечели голямата награда и победата в „Гласът на България” с изпълнението си на песента „Falling”. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-falling.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -321,15 +294,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена Сиракова – Falling | Концерти | Гласът на България 2020",
-          "description": "Посрещаме под прожекторите Eлена от #ОтборМихаела, която ще даде всичко от себе си, за да спечели голямата награда и победата в „Гласът на България” с изпълнението си на песента „Falling”. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-falling.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 13723,
@@ -346,7 +311,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T18:41:13Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Пламен Бонев – See You Again | Концерти | Гласът на България 2020",
+        "title": "Пламен Бонев – See You Again",
+        "fullTitle": "Пламен Бонев – See You Again | Концерти | Гласът на България 2020",
         "description": "Пламен от #ОтборЛечев отново изуми всички на сцената на „Гласът на България” с изпълнението си на песента „See You Again”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-see-you-again.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -391,15 +357,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Пламен Бонев – See You Again | Концерти | Гласът на България 2020",
-          "description": "Пламен от #ОтборЛечев отново изуми всички на сцената на „Гласът на България” с изпълнението си на песента „See You Again”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-see-you-again.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10494,
@@ -416,7 +374,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T18:37:40Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана – Dirty Diana | Концерти | Гласът на България 2020",
+        "title": "Керана – Dirty Diana",
+        "fullTitle": "Керана – Dirty Diana | Концерти | Гласът на България 2020",
         "description": "Керана от #ОтборКамелия реши да се впусне в дълбокото с песента на краля на попа – Michael Jackson. С изпълнението си на „Dirty Diana”, Керана отново на кара сцената на „Гласът на България” да трепери.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-dirty-diana.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -461,15 +420,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана – Dirty Diana | Концерти | Гласът на България 2020",
-          "description": "Керана от #ОтборКамелия реши да се впусне в дълбокото с песента на краля на попа – Michael Jackson. С изпълнението си на „Dirty Diana”, Керана отново на кара сцената на „Гласът на България” да трепери.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-dirty-diana.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 33244,
@@ -486,7 +437,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T18:22:19Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова – 100 живота | Концерти | Гласът на България 2020",
+        "title": "Йоана Сашова – 100 живота",
+        "fullTitle": "Йоана Сашова – 100 живота | Концерти | Гласът на България 2020",
         "description": "С изпълнението си на песента „100 живота”, Йоана от #ОтборГрафа за пореден път доказа на сцената на „Гласът на България”, че за музикалните стилове няма граница и ограничения.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-100-zhivota.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -532,15 +484,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова – 100 живота | Концерти | Гласът на България 2020",
-          "description": "С изпълнението си на песента „100 живота”, Йоана от #ОтборГрафа за пореден път доказа на сцената на „Гласът на България”, че за музикалните стилове няма граница и ограничения.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-100-zhivota.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 230247,
@@ -557,7 +501,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T18:14:02Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Илин Папазян – Blinding Lights | Концерти | Гласът на България 2020",
+        "title": "Илин Папазян – Blinding Lights",
+        "fullTitle": "Илин Папазян – Blinding Lights | Концерти | Гласът на България 2020",
         "description": "Невероятният глас на Илин от #ОтборМихаела превръща всяка нота в поезия, а изпълнението му на песента „Blinding Lights” го доказа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-blinding-lights.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -602,15 +547,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Илин Папазян – Blinding Lights | Концерти | Гласът на България 2020",
-          "description": "Невероятният глас на Илин от #ОтборМихаела превръща всяка нота в поезия, а изпълнението му на песента „Blinding Lights” го доказа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-blinding-lights.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 6884,
@@ -627,7 +564,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T18:10:24Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Дончева – Survivor | Концерти | Гласът на България 2020",
+        "title": "Кристина Дончева – Survivor",
+        "fullTitle": "Кристина Дончева – Survivor | Концерти | Гласът на България 2020",
         "description": "Кристина от #ОтборКамелия е една от най-многоликите таланти тази година в „Гласът на България”, а с изпълнението си на „Survivor” даде заявка за истински музикален боец. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-survivor.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -672,15 +610,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Дончева – Survivor | Концерти | Гласът на България 2020",
-          "description": "Кристина от #ОтборКамелия е една от най-многоликите таланти тази година в „Гласът на България”, а с изпълнението си на „Survivor” даде заявка за истински музикален боец. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-survivor.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 32513,
@@ -697,7 +627,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T17:52:00Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Шопов – Приятели | Концерти | Гласът на България 2020",
+        "title": "Георги Шопов – Приятели",
+        "fullTitle": "Георги Шопов – Приятели | Концерти | Гласът на България 2020",
         "description": "На сцената на „Гласът на България” стъпи един истински боец за мечтите си – Георги от #ОтборЛечев. Пеещият художник впечатли всички с изпълнението си на песента „Приятели”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-prijateli.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -743,15 +674,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Шопов – Приятели | Концерти | Гласът на България 2020",
-          "description": "На сцената на „Гласът на България” стъпи един истински боец за мечтите си – Георги от #ОтборЛечев. Пеещият художник впечатли всички с изпълнението си на песента „Приятели”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-prijateli.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 43495,
@@ -768,7 +691,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T17:49:15Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена Сиракова – Lovely | Концерти | Гласът на България 2020",
+        "title": "Елена Сиракова – Lovely",
+        "fullTitle": "Елена Сиракова – Lovely | Концерти | Гласът на България 2020",
         "description": "Треньорите не могат да кажат нищо за таланта и грацията на Елена от #ОтборМихаела, освен най-доброто. А ето, че тя вдигна летвата още по-високо с изпълнението си на песента „Lovely”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -813,15 +737,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена Сиракова – Lovely | Концерти | Гласът на България 2020",
-          "description": "Треньорите не могат да кажат нищо за таланта и грацията на Елена от #ОтборМихаела, освен най-доброто. А ето, че тя вдигна летвата още по-високо с изпълнението си на песента „Lovely”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 17851,
@@ -838,7 +754,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-14T17:46:25Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алекс Георгиев – Señorita | Концерти | Гласът на България 2020",
+        "title": "Алекс Георгиев – Señorita",
+        "fullTitle": "Алекс Георгиев – Señorita | Концерти | Гласът на България 2020",
         "description": "Алекс от #ОтборГрафа замени футболната кариера с музикална и покори всички женски сърца в цялата страна с изпълнението си на песента „Señorita”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-se-orita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -883,15 +800,7 @@ export const videosInfo: VideoResult  = {
           "Live Shows",
           "Финали",
           "Finals"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алекс Георгиев – Señorita | Концерти | Гласът на България 2020",
-          "description": "Алекс от #ОтборГрафа замени футболната кариера с музикална и покори всички женски сърца в цялата страна с изпълнението си на песента „Señorita”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-se-orita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 14408,
@@ -909,6 +818,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-06-09T10:15:19Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "Гледай финала на \"Гласът на България\" на живо и подкрепи любимия си глас тази неделя от 20:00 по bTV! \n\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\n\nОфициален сайт - http://glasat.btv.bg\nFacebook - http://www.facebook.com/Glasat\nYoutube - http://www.youtube.com/user/glasatbtv\nInstagram - https://www.instagram.com/glasatnabul...\nTwitter - http://twitter.com/voiceofbulgaria\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -944,15 +854,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "Гледай финала на \"Гласът на България\" на живо и подкрепи любимия си глас тази неделя от 20:00 по bTV! \n\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\n\nОфициален сайт - http://glasat.btv.bg\nFacebook - http://www.facebook.com/Glasat\nYoutube - http://www.youtube.com/user/glasatbtv\nInstagram - https://www.instagram.com/glasatnabul...\nTwitter - http://twitter.com/voiceofbulgaria\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 9003,
@@ -969,7 +871,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T19:03:15Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Дончева – Never Enough | Концерти | Гласът на България 2020",
+        "title": "Кристина Дончева – Never Enough",
+        "fullTitle": "Кристина Дончева – Never Enough | Концерти | Гласът на България 2020",
         "description": "И четиримата треньори поискаха Кристина в своя отбор още на #КастингитеНаТъмно. Тя защити преценката им, като стигна до полуфинал в #Гласът, благодарение на огромния си талант. Морската красавица от #ОтборКамелия изуми всички с изпълнението си на „Never Enough”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-never-enough.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1008,15 +911,7 @@ export const videosInfo: VideoResult  = {
           "Кристина Дончева",
           "Never Enough",
           "Kristina Doncheva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Дончева – Never Enough | Концерти | Гласът на България 2020",
-          "description": "И четиримата треньори поискаха Кристина в своя отбор още на #КастингитеНаТъмно. Тя защити преценката им, като стигна до полуфинал в #Гласът, благодарение на огромния си талант. Морската красавица от #ОтборКамелия изуми всички с изпълнението си на „Never Enough”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-never-enough.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 65656,
@@ -1033,7 +928,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:59:16Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Илин Папазян – Isn’t She Lovely | Концерти | Гласът на България 2020",
+        "title": "Илин Папазян – Isn’t She Lovely",
+        "fullTitle": "Илин Папазян – Isn’t She Lovely | Концерти | Гласът на България 2020",
         "description": "Илин от #ОтборМихаела, заедно с романтичния си глас и изпълнението си на песента „Isn’t She Lovely”, отново разтопи сърцата на всички в „Гласът на България”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-isn-t-she-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1072,15 +968,7 @@ export const videosInfo: VideoResult  = {
           "Илин Папазян",
           "Isn’t She Lovely",
           "Ilin Papazyan"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Илин Папазян – Isn’t She Lovely | Концерти | Гласът на България 2020",
-          "description": "Илин от #ОтборМихаела, заедно с романтичния си глас и изпълнението си на песента „Isn’t She Lovely”, отново разтопи сърцата на всички в „Гласът на България”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-isn-t-she-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 15928,
@@ -1097,7 +985,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:55:50Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Шопов – Come Together | Концерти | Гласът на България 2020",
+        "title": "Георги Шопов – Come Together",
+        "fullTitle": "Георги Шопов – Come Together | Концерти | Гласът на България 2020",
         "description": "Георги от  #ОтборЛечев стъпва на сцената на „Гласът на България”, за да докаже защо човек никога не трябва да се отказва от мечтите си. Рокаджията изненада всички с парчето „Come Together”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-come-together.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1136,15 +1025,7 @@ export const videosInfo: VideoResult  = {
           "Come Together",
           "Георги Шопов",
           "Georgi Shopov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Шопов – Come Together | Концерти | Гласът на България 2020",
-          "description": "Георги от  #ОтборЛечев стъпва на сцената на „Гласът на България”, за да докаже защо човек никога не трябва да се отказва от мечтите си. Рокаджията изненада всички с парчето „Come Together”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-come-together.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 42224,
@@ -1161,7 +1042,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:43:29Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова – Циганска сватба | Концерти | Гласът на България 2020",
+        "title": "Йоана Сашова – Циганска сватба",
+        "fullTitle": "Йоана Сашова – Циганска сватба | Концерти | Гласът на България 2020",
         "description": "Йоана от #ОтборГрафа е само на 16 години, но с таланта си дава заявка за истинска звезда. Тя залага на песента „Циганска сватба” да бъде нейният билет до финалите. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-ciganska-svatba.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1200,15 +1082,7 @@ export const videosInfo: VideoResult  = {
           "Йоана Сашова",
           "Циганска сватба",
           "Yoana Sashova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова – Циганска сватба | Концерти | Гласът на България 2020",
-          "description": "Йоана от #ОтборГрафа е само на 16 години, но с таланта си дава заявка за истинска звезда. Тя залага на песента „Циганска сватба” да бъде нейният билет до финалите. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-ciganska-svatba.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 383889,
@@ -1225,7 +1099,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:40:08Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Свет Георгиев – Say Something | Концерти | Гласът на България 2020",
+        "title": "Свет Георгиев – Say Something",
+        "fullTitle": "Свет Георгиев – Say Something | Концерти | Гласът на България 2020",
         "description": "Свет от #ОтборМихаела извървява пътя си от футболния терен до музикалната сцена на „Гласът на България”, за да докаже с изпълнението си на песента „Say Something”, че заслужава да стигне до финал.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svet-georgiev-say-something.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1264,15 +1139,7 @@ export const videosInfo: VideoResult  = {
           "Say Something",
           "Свет Георгиев",
           "Svet Georgiev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Свет Георгиев – Say Something | Концерти | Гласът на България 2020",
-          "description": "Свет от #ОтборМихаела извървява пътя си от футболния терен до музикалната сцена на „Гласът на България”, за да докаже с изпълнението си на песента „Say Something”, че заслужава да стигне до финал.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svet-georgiev-say-something.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 11456,
@@ -1289,7 +1156,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:37:25Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана – Аз ли съм или не съм | Концерти | Гласът на България 2020",
+        "title": "Керана – Аз ли съм или не съм",
+        "fullTitle": "Керана – Аз ли съм или не съм | Концерти | Гласът на България 2020",
         "description": "Керана от #ОтборКамелия за пореден път изненада всички в „Гласът на България”. Пловдивската стихия този път заложи на българската песен „Аз ли съм или не съм”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-az-li-sam-ili-ne-sam.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1328,15 +1196,7 @@ export const videosInfo: VideoResult  = {
           "Аз ли съм или не съм",
           "Kerana",
           "Керана"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана – Аз ли съм или не съм | Концерти | Гласът на България 2020",
-          "description": "Керана от #ОтборКамелия за пореден път изненада всички в „Гласът на България”. Пловдивската стихия този път заложи на българската песен „Аз ли съм или не съм”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-az-li-sam-ili-ne-sam.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 136978,
@@ -1353,7 +1213,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:34:14Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Славчев – That’s What I Like | Концерти | Гласът на България 2020",
+        "title": "Александър Славчев – That’s What I Like",
+        "fullTitle": "Александър Славчев – That’s What I Like | Концерти | Гласът на България 2020",
         "description": "Александър от #ОтборГрафа е бил беквокалист на много български суперзвезди, но вече е готов да поеме по собствен път и с изпълнението си на „That’s What I Like” го доказа. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-that-s-what-i-like.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1392,15 +1253,7 @@ export const videosInfo: VideoResult  = {
           "That’s What I Liкe",
           "Александър Славчев",
           "Alexander Slavchev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Славчев – That’s What I Like | Концерти | Гласът на България 2020",
-          "description": "Александър от #ОтборГрафа е бил беквокалист на много български суперзвезди, но вече е готов да поеме по собствен път и с изпълнението си на „That’s What I Like” го доказа. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-that-s-what-i-like.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 9729,
@@ -1417,7 +1270,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:06:45Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алекс Георгиев – I’m Not The Only One | Концерти | Гласът на България 2020",
+        "title": "Алекс Георгиев – I’m Not The Only One",
+        "fullTitle": "Алекс Георгиев – I’m Not The Only One | Концерти | Гласът на България 2020",
         "description": "Приключението, наречено „Гласът на България”, приключи за Алекс от #ОтборГрафа по време на #Нокаутите, но благодарение на зрителската кражба, той отново е на сцената, за да я взриви с изпълнението си на „I’m Not The Only One”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-i-m-not-the-only-one.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1456,15 +1310,7 @@ export const videosInfo: VideoResult  = {
           "I’m Not The Only One",
           "Алекс Георгиев",
           "Alex Georgiev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алекс Георгиев – I’m Not The Only One | Концерти | Гласът на България 2020",
-          "description": "Приключението, наречено „Гласът на България”, приключи за Алекс от #ОтборГрафа по време на #Нокаутите, но благодарение на зрителската кражба, той отново е на сцената, за да я взриви с изпълнението си на „I’m Not The Only One”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-i-m-not-the-only-one.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 25056,
@@ -1481,7 +1327,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:04:44Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Калина Велковска – Here | Концерти | Гласът на България 2020",
+        "title": "Калина Велковска – Here",
+        "fullTitle": "Калина Велковска – Here | Концерти | Гласът на България 2020",
         "description": "Гласът на Калина от #ОтборЛечев блокира механизма на треньорските столове на #КастингитеНаТъмно. Горещата дама от Северна Македония разтопи за пореден път сцената на „Гласът на България” със своя талант и изпълнението си на „Here”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-here.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1520,15 +1367,7 @@ export const videosInfo: VideoResult  = {
           "Калина Велковска",
           "Here",
           "Kalina Velkovska"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Калина Велковска – Here | Концерти | Гласът на България 2020",
-          "description": "Гласът на Калина от #ОтборЛечев блокира механизма на треньорските столове на #КастингитеНаТъмно. Горещата дама от Северна Македония разтопи за пореден път сцената на „Гласът на България” със своя талант и изпълнението си на „Here”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-here.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 12624,
@@ -1545,7 +1384,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T18:00:58Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христо Василев – Hit The Road Jack | Концерти | Гласът на България 2020",
+        "title": "Христо Василев – Hit The Road Jack",
+        "fullTitle": "Христо Василев – Hit The Road Jack | Концерти | Гласът на България 2020",
         "description": "Христо от #ОтборКамелия посвещава всеки изпят тон на своето семейство, а изпълнението му на песента „Hit The Road Jack” внесе страхотни емоции на сцената на „Гласът на България”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-hit-the-road-jack.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1584,15 +1424,7 @@ export const videosInfo: VideoResult  = {
           "Hit The Road Jack",
           "Христо Василев",
           "Hristo Vasilev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христо Василев – Hit The Road Jack | Концерти | Гласът на България 2020",
-          "description": "Христо от #ОтборКамелия посвещава всеки изпят тон на своето семейство, а изпълнението му на песента „Hit The Road Jack” внесе страхотни емоции на сцената на „Гласът на България”. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-hit-the-road-jack.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 12275,
@@ -1609,7 +1441,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T17:42:49Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Пламен Бонев – Rolling In The Deep | Концерти | Гласът на България 2020",
+        "title": "Пламен Бонев – Rolling In The Deep",
+        "fullTitle": "Пламен Бонев – Rolling In The Deep | Концерти | Гласът на България 2020",
         "description": "Пламен от #ОтборЛечев залага на взривяващото си изпълнение на песента „Rolling In The Deep” и страхотния си тембър да го изведат до финал в „Гласът на България”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-rolling-in-the-deep.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1648,15 +1481,7 @@ export const videosInfo: VideoResult  = {
           "Rolling In The Deep",
           "Пламен Бонев",
           "Plamen Bonev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Пламен Бонев – Rolling In The Deep | Концерти | Гласът на България 2020",
-          "description": "Пламен от #ОтборЛечев залага на взривяващото си изпълнение на песента „Rolling In The Deep” и страхотния си тембър да го изведат до финал в „Гласът на България”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-rolling-in-the-deep.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 23701,
@@ -1673,7 +1498,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T17:40:30Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Иван Лазаров – No Good | Концерти | Гласът на България 2020",
+        "title": "Иван Лазаров – No Good",
+        "fullTitle": "Иван Лазаров – No Good | Концерти | Гласът на България 2020",
         "description": "Иван от #ОтборГрафа има една скромна цел – да смени сегашната си професия с тази на голяма музикална звезда, а с изпълнението си на песента „No Good” със сигурност вече е по-близо до нея.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-no-good.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1712,15 +1538,7 @@ export const videosInfo: VideoResult  = {
           "No Good",
           "Иван Лазаров",
           "Ivan Lazarov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Иван Лазаров – No Good | Концерти | Гласът на България 2020",
-          "description": "Иван от #ОтборГрафа има една скромна цел – да смени сегашната си професия с тази на голяма музикална звезда, а с изпълнението си на песента „No Good” със сигурност вече е по-близо до нея.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-no-good.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10812,
@@ -1737,7 +1555,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-06-07T17:37:31Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена Сиракова – Crazy In Love | Концерти | Гласът на България 2020",
+        "title": "Елена Сиракова – Crazy In Love",
+        "fullTitle": "Елена Сиракова – Crazy In Love | Концерти | Гласът на България 2020",
         "description": "Елена от #ОтборМихаела вдигна всички на крака още с първото си появяване на #КастингитеНаТъмно. На нея се падна честта да даде началото на концертите на живо в „Гласът на България” с изпълнението си на „Crazy In Love”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-crazy-in-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1776,15 +1595,7 @@ export const videosInfo: VideoResult  = {
           "Crazy In Love",
           "Елена Сиракова",
           "Elena Sirakova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена Сиракова – Crazy In Love | Концерти | Гласът на България 2020",
-          "description": "Елена от #ОтборМихаела вдигна всички на крака още с първото си появяване на #КастингитеНаТъмно. На нея се падна честта да даде началото на концертите на живо в „Гласът на България” с изпълнението си на „Crazy In Love”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-crazy-in-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 35129,
@@ -1802,6 +1613,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-06-01T14:25:04Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "Гледай полуфинала на \"Гласът на България\" на живо и подкрепи любимия си глас тази неделя от 20:00 по bTV! \n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -1842,15 +1654,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "Гледай полуфинала на \"Гласът на България\" на живо и подкрепи любимия си глас тази неделя от 20:00 по bTV! \n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 14238,
@@ -1867,7 +1671,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T18:06:07Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена Сиракова – Best Part | Нокаути | Гласът на България 2020",
+        "title": "Елена Сиракова – Best Part",
+        "fullTitle": "Елена Сиракова – Best Part | Нокаути | Гласът на България 2020",
         "description": "Елена от #ОтборМихаела избра да изпълни песента на Daniel Caesar и H.E.R. Тя се представи прекрасно и си заслужи място на стол номер едно. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-best-part.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1917,15 +1722,7 @@ export const videosInfo: VideoResult  = {
           "Елена Сиракова",
           "Elena Sirakova",
           "| Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена Сиракова – Best Part | Нокаути | Гласът на България 2020",
-          "description": "Елена от #ОтборМихаела избра да изпълни песента на Daniel Caesar и H.E.R. Тя се представи прекрасно и си заслужи място на стол номер едно. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-best-part.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 34954,
@@ -1942,7 +1739,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:55:21Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Ижбехов – Waves | Нокаути | Гласът на България 2020",
+        "title": "Георги Ижбехов – Waves",
+        "fullTitle": "Георги Ижбехов – Waves | Нокаути | Гласът на България 2020",
         "description": "Георги от #ОтборМихаела избра да изпълни песента на Mr. Probz. За съжаление той обаче не успя да заеме стол, но въпреки това му желаем много късмет. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-izhbehov-waves.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1991,15 +1789,7 @@ export const videosInfo: VideoResult  = {
           "Waves",
           "Georgi Izhbehov",
           "Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Ижбехов – Waves | Нокаути | Гласът на България 2020",
-          "description": "Георги от #ОтборМихаела избра да изпълни песента на Mr. Probz. За съжаление той обаче не успя да заеме стол, но въпреки това му желаем много късмет. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-izhbehov-waves.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 7294,
@@ -2016,7 +1806,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:49:58Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристиана Атанасова – God Is a Woman | Нокаути | Гласът на България 2020",
+        "title": "Кристиана Атанасова – God Is a Woman",
+        "fullTitle": "Кристиана Атанасова – God Is a Woman | Нокаути | Гласът на България 2020",
         "description": "Кристиана от #ОтборМихаела избра да изпълни песента на Ariana Grande. Тя се справи страхотно и зае стол номер три. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-atanasova-god-is-a-woman.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2065,15 +1856,7 @@ export const videosInfo: VideoResult  = {
           "Кристиана Атанасова",
           "Kristiana Atanasova",
           "Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристиана Атанасова – God Is a Woman | Нокаути | Гласът на България 2020",
-          "description": "Кристиана от #ОтборМихаела избра да изпълни песента на Ariana Grande. Тя се справи страхотно и зае стол номер три. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-atanasova-god-is-a-woman.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 25799,
@@ -2090,7 +1873,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:36:45Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Светослав Георгиев – Give Me One Reason | Нокаути | Гласът на България 2020",
+        "title": "Светослав Георгиев – Give Me One Reason",
+        "fullTitle": "Светослав Георгиев – Give Me One Reason | Нокаути | Гласът на България 2020",
         "description": "Светослав Георгиев от #ОтборМихаела избра да изпълни песента на Tracy Chapman. Той се справи страхотно и си заслужи място на стол номер две.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svetoslav-georgiev-give-me-one-reason.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2139,15 +1923,7 @@ export const videosInfo: VideoResult  = {
           "Tracy Chapman",
           "Svetоslav Georgiev",
           "Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Светослав Георгиев – Give Me One Reason | Нокаути | Гласът на България 2020",
-          "description": "Светослав Георгиев от #ОтборМихаела избра да изпълни песента на Tracy Chapman. Той се справи страхотно и си заслужи място на стол номер две.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svetoslav-georgiev-give-me-one-reason.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 13411,
@@ -2164,7 +1940,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:29:29Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Николета Дойчева – Бела съм, бела, юначе | Нокаути | Гласът на България 2020",
+        "title": "Николета Дойчева – Бела съм, бела, юначе",
+        "fullTitle": "Николета Дойчева – Бела съм, бела, юначе | Нокаути | Гласът на България 2020",
         "description": "Николета от #ОтборМихаела избра да изпълни българската народна песен, считана за химн на Родопите – „Бела съм, бела, юначе”. Тя заслужи място на стол номер две. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/nikoleta-dojcheva-bela-sam-bela-junache.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2213,15 +1990,7 @@ export const videosInfo: VideoResult  = {
           "Nikoleta Doycheva",
           "Knockouts",
           "Bela sam bela yunache"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Николета Дойчева – Бела съм, бела, юначе | Нокаути | Гласът на България 2020",
-          "description": "Николета от #ОтборМихаела избра да изпълни българската народна песен, считана за химн на Родопите – „Бела съм, бела, юначе”. Тя заслужи място на стол номер две. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/nikoleta-dojcheva-bela-sam-bela-junache.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10623,
@@ -2238,7 +2007,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:25:08Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Жечкова – History Repeating | Нокаути | Гласът на България 2020",
+        "title": "Кристина Жечкова – History Repeating",
+        "fullTitle": "Кристина Жечкова – History Repeating | Нокаути | Гласът на България 2020",
         "description": "Кристина от #ОтборМихаела избра да изпълни песента на Propellerheads и Shirley Bassey. Тя сяда на стол номер три. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-zhechkova-history-repeating.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2288,15 +2058,7 @@ export const videosInfo: VideoResult  = {
           "Кристина Жечкова",
           "Kristina Zhechkova",
           "Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Жечкова – History Repeating | Нокаути | Гласът на България 2020",
-          "description": "Кристина от #ОтборМихаела избра да изпълни песента на Propellerheads и Shirley Bassey. Тя сяда на стол номер три. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-zhechkova-history-repeating.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 13987,
@@ -2313,7 +2075,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:14:43Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Илин Папазян – Shape of My Heart | Нокаути | Гласът на България 2020",
+        "title": "Илин Папазян – Shape of My Heart",
+        "fullTitle": "Илин Папазян – Shape of My Heart | Нокаути | Гласът на България 2020",
         "description": "Илин от #ОтборМихаела избра да изпълни песента на Sting. С емоционалното си изпълнение той си спечели място на стол номер едно.  \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-shape-of-my-heart.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2362,15 +2125,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "Ilin Papazyan",
           "Knockouts"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Илин Папазян – Shape of My Heart | Нокаути | Гласът на България 2020",
-          "description": "Илин от #ОтборМихаела избра да изпълни песента на Sting. С емоционалното си изпълнение той си спечели място на стол номер едно.  \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-shape-of-my-heart.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 25364,
@@ -2387,7 +2142,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-31T17:08:30Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Трио „Вива” – No | Нокаути | Гласът на България 2020",
+        "title": "Трио „Вива” – No",
+        "fullTitle": "Трио „Вива” – No | Нокаути | Гласът на България 2020",
         "description": "Трио „Вива” от #ОтборМихаела избраха да изпълнят песента на Meghan Trainor. Те се справиха страхотно и получиха място на стол номер едно.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/trio-viva-no.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2436,15 +2192,7 @@ export const videosInfo: VideoResult  = {
           "Knockouts",
           "No",
           "сезон 7"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Трио „Вива” – No | Нокаути | Гласът на България 2020",
-          "description": "Трио „Вива” от #ОтборМихаела избраха да изпълнят песента на Meghan Trainor. Те се справиха страхотно и получиха място на стол номер едно.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/trio-viva-no.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 21449,
@@ -2462,6 +2210,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-05-25T17:05:57Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -2497,15 +2246,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 5896,
@@ -2522,7 +2263,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T18:02:39Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Пламен Бонев – Make You Feel My Love | Нокаути | Гласът на България 2020",
+        "title": "Пламен Бонев – Make You Feel My Love",
+        "fullTitle": "Пламен Бонев – Make You Feel My Love | Нокаути | Гласът на България 2020",
         "description": "Пламен от #ОтборЛечев избра да изпълни песента на Bob Dylan. Той се представи прекрасно и си заслужи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-make-you-feel-my-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2567,15 +2309,7 @@ export const videosInfo: VideoResult  = {
           "Make You Feel My Love",
           "Bob Dylan",
           "Plamen Bonev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Пламен Бонев – Make You Feel My Love | Нокаути | Гласът на България 2020",
-          "description": "Пламен от #ОтборЛечев избра да изпълни песента на Bob Dylan. Той се представи прекрасно и си заслужи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-make-you-feel-my-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 44876,
@@ -2592,7 +2326,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:57:26Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Мария Минкова – Zombie | Нокаути | Гласът на България 2020",
+        "title": "Мария Минкова – Zombie",
+        "fullTitle": "Мария Минкова – Zombie | Нокаути | Гласът на България 2020",
         "description": "Мария от #ОтборЛечев избра да изпълни песента на The Cranberries. За съжаление тя обаче не успя да заеме стол, но въпреки това ѝ желаем много късмет. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/marija-minkova-zombie.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2637,15 +2372,7 @@ export const videosInfo: VideoResult  = {
           "Zombie",
           "The Cranberries",
           "Maria Minkova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Мария Минкова – Zombie | Нокаути | Гласът на България 2020",
-          "description": "Мария от #ОтборЛечев избра да изпълни песента на The Cranberries. За съжаление тя обаче не успя да заеме стол, но въпреки това ѝ желаем много късмет. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/marija-minkova-zombie.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 12628,
@@ -2662,7 +2389,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:53:37Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алмир Исмаили – Giant | Нокаути | Гласът на България 2020",
+        "title": "Алмир Исмаили – Giant",
+        "fullTitle": "Алмир Исмаили – Giant | Нокаути | Гласът на България 2020",
         "description": "Алмир от #ОтборЛечев избра да изпълни песента на Calvin Harris и Rag’n’Bone Man. Той се справи страхотно и зае стол номер три. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/almir-ismaili-giant.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2707,15 +2435,7 @@ export const videosInfo: VideoResult  = {
           "Алмир Исмаили",
           "Calvin Harris",
           "Almir Ismaili"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алмир Исмаили – Giant | Нокаути | Гласът на България 2020",
-          "description": "Алмир от #ОтборЛечев избра да изпълни песента на Calvin Harris и Rag’n’Bone Man. Той се справи страхотно и зае стол номер три. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/almir-ismaili-giant.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 41600,
@@ -2732,7 +2452,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:44:10Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Свет и Хихи – A Whole New World | Нокаути | Гласът на България 2020",
+        "title": "Свет и Хихи – A Whole New World",
+        "fullTitle": "Свет и Хихи – A Whole New World | Нокаути | Гласът на България 2020",
         "description": "Свет и Хихи от #ОтборЛечев избраха да изпълнят българския вариант на песента „A Whole New World” от филма „Aladdin”. Тe за съжаление не продължават напред в шоуто, но им желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/svet-i-hihi-a-whole-new-world.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2779,15 +2500,7 @@ export const videosInfo: VideoResult  = {
           "Hihi",
           "Svet & Hihi",
           "Свет и Хихи"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Свет и Хихи – A Whole New World | Нокаути | Гласът на България 2020",
-          "description": "Свет и Хихи от #ОтборЛечев избраха да изпълнят българския вариант на песента „A Whole New World” от филма „Aladdin”. Тe за съжаление не продължават напред в шоуто, но им желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/svet-i-hihi-a-whole-new-world.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 8165,
@@ -2804,7 +2517,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:35:07Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Шопов – The Best | Нокаути | Гласът на България 2020",
+        "title": "Георги Шопов – The Best",
+        "fullTitle": "Георги Шопов – The Best | Нокаути | Гласът на България 2020",
         "description": "Георги от #ОтборЛечев избра да изпълни песента на Bonnie Tyler. С неговото представяне си заслужи мястото на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-the-best.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2849,15 +2563,7 @@ export const videosInfo: VideoResult  = {
           "The Best",
           "Bonnie Tyler",
           "Georgi Shopov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Шопов – The Best | Нокаути | Гласът на България 2020",
-          "description": "Георги от #ОтборЛечев избра да изпълни песента на Bonnie Tyler. С неговото представяне си заслужи мястото на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/georgi-shopov-the-best.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 54909,
@@ -2874,7 +2580,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:27:20Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Рада Илиева – The Scientist | Нокаути | Гласът на България 2020",
+        "title": "Рада Илиева – The Scientist",
+        "fullTitle": "Рада Илиева – The Scientist | Нокаути | Гласът на България 2020",
         "description": "Рада от #ОтборЛечев избра да изпълни песента на Coldplay. Тя сяда на стол номер три. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-the-scientist.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2919,15 +2626,7 @@ export const videosInfo: VideoResult  = {
           "The Scientist",
           "Coldplay",
           "Rada Ilieva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Рада Илиева – The Scientist | Нокаути | Гласът на България 2020",
-          "description": "Рада от #ОтборЛечев избра да изпълни песента на Coldplay. Тя сяда на стол номер три. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-the-scientist.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 8874,
@@ -2944,7 +2643,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:22:43Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Боил Каранейчев – Run To You | Нокаути | Гласът на България 2020",
+        "title": "Боил Каранейчев – Run To You",
+        "fullTitle": "Боил Каранейчев – Run To You | Нокаути | Гласът на България 2020",
         "description": "Боил от #ОтборЛечев избра да изпълни песента на Bryan Adams. Той си спечели място на стол номер две.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-karanejchev-run-to-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -2989,15 +2689,7 @@ export const videosInfo: VideoResult  = {
           "Run To You",
           "Bryan Adams",
           "Boil Karaneychev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Боил Каранейчев – Run To You | Нокаути | Гласът на България 2020",
-          "description": "Боил от #ОтборЛечев избра да изпълни песента на Bryan Adams. Той си спечели място на стол номер две.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-karanejchev-run-to-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10024,
@@ -3014,7 +2706,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-24T17:17:14Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Калина Велковска – Kiss | Нокаути | Гласът на България 2020",
+        "title": "Калина Велковска – Kiss",
+        "fullTitle": "Калина Велковска – Kiss | Нокаути | Гласът на България 2020",
         "description": "Калина от #ОтборЛечев избра да изпълни песента на Prince. Тя се справи страхотно и получи място на стол номер едно.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-kiss.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3058,15 +2751,7 @@ export const videosInfo: VideoResult  = {
           "Калина Велковска",
           "Kiss",
           "Prince"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Калина Велковска – Kiss | Нокаути | Гласът на България 2020",
-          "description": "Калина от #ОтборЛечев избра да изпълни песента на Prince. Тя се справи страхотно и получи място на стол номер едно.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-kiss.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 44516,
@@ -3084,6 +2769,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-05-18T09:43:15Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -3124,15 +2810,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 5699,
@@ -3149,7 +2827,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:59:28Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Георгиев – I’ll Be There | Нокаути | Гласът на България 2020",
+        "title": "Александър Георгиев – I’ll Be There",
+        "fullTitle": "Александър Георгиев – I’ll Be There | Нокаути | Гласът на България 2020",
         "description": "Александър от #ОтборГрафа избра да изпълни песента на The Jackson 5. Той затрудни Графа в решението дали да му даде място на един от столовете, но за съжаление не продължава напред. Желаем му много успехи в бъдеще. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-georgiev-i-will-be-there.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3197,15 +2876,7 @@ export const videosInfo: VideoResult  = {
           "Александър Георгиев",
           "I’ll Be There",
           "Aleksandar Georgiev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Георгиев – I’ll Be There | Нокаути | Гласът на България 2020",
-          "description": "Александър от #ОтборГрафа избра да изпълни песента на The Jackson 5. Той затрудни Графа в решението дали да му даде място на един от столовете, но за съжаление не продължава напред. Желаем му много успехи в бъдеще. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-georgiev-i-will-be-there.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 28954,
@@ -3222,7 +2893,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:53:31Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Гергана Узунова – Don’t Start Now | Нокаути | Гласът на България 2020",
+        "title": "Гергана Узунова – Don’t Start Now",
+        "fullTitle": "Гергана Узунова – Don’t Start Now | Нокаути | Гласът на България 2020",
         "description": "Гергана от #ОтборГрафа избра да изпълни песента на Dua Lipa. Тя не успя да запази мястото си в шоутп, но ѝ желаем много късмет. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/gergana-uzunova-do-not-start-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3270,15 +2942,7 @@ export const videosInfo: VideoResult  = {
           "Гергана Узунова",
           "Don’t Start Now",
           "Gergana Uzunova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гергана Узунова – Don’t Start Now | Нокаути | Гласът на България 2020",
-          "description": "Гергана от #ОтборГрафа избра да изпълни песента на Dua Lipa. Тя не успя да запази мястото си в шоутп, но ѝ желаем много късмет. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/gergana-uzunova-do-not-start-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 11470,
@@ -3295,7 +2959,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:44:56Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова – Mamma Knows Best | Нокаути | Гласът на България 2020",
+        "title": "Йоана Сашова – Mamma Knows Best",
+        "fullTitle": "Йоана Сашова – Mamma Knows Best | Нокаути | Гласът на България 2020",
         "description": "Йоана от #ОтборГрафа избра да изпълни песента на Jessie J. Тя се справи страхотно и зае стол номер две. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-mamma-knows-best.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3343,15 +3008,7 @@ export const videosInfo: VideoResult  = {
           "Йоана Сашова",
           "Mamma Knows Best",
           "Joana Sashova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова – Mamma Knows Best | Нокаути | Гласът на България 2020",
-          "description": "Йоана от #ОтборГрафа избра да изпълни песента на Jessie J. Тя се справи страхотно и зае стол номер две. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-mamma-knows-best.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 183941,
@@ -3368,7 +3025,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:39:25Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Джулия Каваньоли – Take Me Home | Нокаути | Гласът на България 2020",
+        "title": "Джулия Каваньоли – Take Me Home",
+        "fullTitle": "Джулия Каваньоли – Take Me Home | Нокаути | Гласът на България 2020",
         "description": "Джулия от #ОтборГрафа избра да изпълни песента на Jess Glynne. Тя не продължава напред в шоуто, но ѝ желаем много успехи занапред. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/dzhulija-kavanyoli-take-me-home.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3416,15 +3074,7 @@ export const videosInfo: VideoResult  = {
           "Джулия Каваньоли",
           "Take Me Home",
           "Julia Cavanyoli"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Джулия Каваньоли – Take Me Home | Нокаути | Гласът на България 2020",
-          "description": "Джулия от #ОтборГрафа избра да изпълни песента на Jess Glynne. Тя не продължава напред в шоуто, но ѝ желаем много успехи занапред. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/dzhulija-kavanyoli-take-me-home.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 13146,
@@ -3441,7 +3091,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:34:20Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Иван Лазаров – Blow | Нокаути | Гласът на България 2020",
+        "title": "Иван Лазаров – Blow",
+        "fullTitle": "Иван Лазаров – Blow | Нокаути | Гласът на България 2020",
         "description": "Иван от #ОтборГрафа избра да изпълни песента на Ed Sheeran, Chris Stapleton и Bruno Mars. С неговото представяне си заслужи мястото на стол номер едно. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-blow.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3489,15 +3140,7 @@ export const videosInfo: VideoResult  = {
           "Иван Лазаров",
           "Blow",
           "Ivan Lazarov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Иван Лазаров – Blow | Нокаути | Гласът на България 2020",
-          "description": "Иван от #ОтборГрафа избра да изпълни песента на Ed Sheeran, Chris Stapleton и Bruno Mars. С неговото представяне си заслужи мястото на стол номер едно. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-blow.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 20922,
@@ -3514,7 +3157,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:28:43Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Зария Кантарджиева – Lost On You | Нокаути | Гласът на България 2020",
+        "title": "Зария Кантарджиева – Lost On You",
+        "fullTitle": "Зария Кантарджиева – Lost On You | Нокаути | Гласът на България 2020",
         "description": "Зария от #ОтборГрафа избра да изпълни песента на LP. Тя сяда на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zarija-kantardzhieva-lost-on-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3562,15 +3206,7 @@ export const videosInfo: VideoResult  = {
           "Зария Кантарджиева",
           "Lost On You",
           "Zaria Kantardzhieva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Зария Кантарджиева – Lost On You | Нокаути | Гласът на България 2020",
-          "description": "Зария от #ОтборГрафа избра да изпълни песента на LP. Тя сяда на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zarija-kantardzhieva-lost-on-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 16635,
@@ -3587,7 +3223,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:17:34Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Славчев – Can’t Feel My Face | Нокаути | Гласът на България 2020",
+        "title": "Александър Славчев – Can’t Feel My Face",
+        "fullTitle": "Александър Славчев – Can’t Feel My Face | Нокаути | Гласът на България 2020",
         "description": "Александър от #ОтборГрафа избра да изпълни песента на The Weeknd. Със страхотното си изпълнение, той си заслужи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-can-not-feel-my-face.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3637,15 +3274,7 @@ export const videosInfo: VideoResult  = {
           "Александър Славчев",
           "Can’t Feel My Face",
           "Aleksandar Slavchev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Славчев – Can’t Feel My Face | Нокаути | Гласът на България 2020",
-          "description": "Александър от #ОтборГрафа избра да изпълни песента на The Weeknd. Със страхотното си изпълнение, той си заслужи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-can-not-feel-my-face.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 62864,
@@ -3662,7 +3291,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-17T17:09:53Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Венета Цонева – Higher Love | Нокаути | Гласът на България 2020",
+        "title": "Венета Цонева – Higher Love",
+        "fullTitle": "Венета Цонева – Higher Love | Нокаути | Гласът на България 2020",
         "description": "Венета от #ОтборГрафа избра да изпълни песента на Kygo и Whitney Houston. Тя се справи страхотно и получи място на стол номер едно.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/veneta-coneva-higher-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3712,15 +3342,7 @@ export const videosInfo: VideoResult  = {
           "Венета Цонева",
           "Higher Love",
           "Veneta Tsoneva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Венета Цонева – Higher Love | Нокаути | Гласът на България 2020",
-          "description": "Венета от #ОтборГрафа избра да изпълни песента на Kygo и Whitney Houston. Тя се справи страхотно и получи място на стол номер едно.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/veneta-coneva-higher-love.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 11302,
@@ -3738,6 +3360,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-05-12T13:21:16Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -3778,15 +3401,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 5414,
@@ -3803,7 +3418,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T18:03:21Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана – No diggity | Нокаути | Гласът на България 2020",
+        "title": "Керана – No diggity",
+        "fullTitle": "Керана – No diggity | Нокаути | Гласът на България 2020",
         "description": "Керана от #ОтборКамелия избра да изпълни песента на Blackstreet. Тя се справи страхотно и получи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-no-diggity.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3848,15 +3464,7 @@ export const videosInfo: VideoResult  = {
           "No diggity",
           "Blackstreet",
           "Kerana"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана – No diggity | Нокаути | Гласът на България 2020",
-          "description": "Керана от #ОтборКамелия избра да изпълни песента на Blackstreet. Тя се справи страхотно и получи място на стол номер едно. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-no-diggity.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 132974,
@@ -3873,7 +3481,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:58:34Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христо Василев – How you remind me | Нокаути | Гласът на България 2020",
+        "title": "Христо Василев – How you remind me",
+        "fullTitle": "Христо Василев – How you remind me | Нокаути | Гласът на България 2020",
         "description": "Христо Василев от #ОтборКамелия избра да изпълни песента How you remind me на Nikcleback. Той се справи страхотно и получи място на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-how-you-remind-me.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3918,15 +3527,7 @@ export const videosInfo: VideoResult  = {
           "How you remind me",
           "Nikcleback",
           "Hristo Vasilev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христо Василев – How you remind me | Нокаути | Гласът на България 2020",
-          "description": "Христо Василев от #ОтборКамелия избра да изпълни песента How you remind me на Nikcleback. Той се справи страхотно и получи място на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-how-you-remind-me.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 45736,
@@ -3943,7 +3544,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:54:02Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христина Христова – Сърце | Нокаути | Гласът на България 2020",
+        "title": "Христина Христова – Сърце",
+        "fullTitle": "Христина Христова – Сърце | Нокаути | Гласът на България 2020",
         "description": "Христина Христова от #ОтборКамелия избра да изпълни песента на Галена „Сърце“ . Тя измести Михаил от третия стол. Пожелаваме му успех следващия път!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-sarce.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -3990,15 +3592,7 @@ export const videosInfo: VideoResult  = {
           "Sartse",
           "Галена",
           "Galena"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христина Христова – Сърце | Нокаути | Гласът на България 2020",
-          "description": "Христина Христова от #ОтборКамелия избра да изпълни песента на Галена „Сърце“ . Тя измести Михаил от третия стол. Пожелаваме му успех следващия път!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-sarce.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 89434,
@@ -4015,7 +3609,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:46:01Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Павел и Мартин – In The End | Нокаути | Гласът на България 2020",
+        "title": "Павел и Мартин – In The End",
+        "fullTitle": "Павел и Мартин – In The End | Нокаути | Гласът на България 2020",
         "description": "Дуетът Павел и Мартин от #ОтборКамелия избра да изпълни песента на Linkin Park. Те не продължават напред в шоуто, но им желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/pavel-i-martin-in-the-end.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4062,15 +3657,7 @@ export const videosInfo: VideoResult  = {
           "Linkin Park",
           "Pavel",
           "Martin"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Павел и Мартин – In The End | Нокаути | Гласът на България 2020",
-          "description": "Дуетът Павел и Мартин от #ОтборКамелия избра да изпълни песента на Linkin Park. Те не продължават напред в шоуто, но им желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/pavel-i-martin-in-the-end.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 134461,
@@ -4087,7 +3674,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:31:35Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Петя Георгиева – Into You | Нокаути | Гласът на България 2020",
+        "title": "Петя Георгиева – Into You",
+        "fullTitle": "Петя Георгиева – Into You | Нокаути | Гласът на България 2020",
         "description": "Петя от #ОтборКамелия избра да изпълни песента на Ariana Grande. Тя сяда на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-georgieva-into-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4132,15 +3720,7 @@ export const videosInfo: VideoResult  = {
           "Into You",
           "Ariana Grande",
           "Petya Gerogieva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Петя Георгиева – Into You | Нокаути | Гласът на България 2020",
-          "description": "Петя от #ОтборКамелия избра да изпълни песента на Ariana Grande. Тя сяда на стол номер две. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-georgieva-into-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 28906,
@@ -4157,7 +3737,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:15:51Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Омар Джафероски – Someone You Loved | Нокаути | Гласът на България 2020",
+        "title": "Омар Джафероски – Someone You Loved",
+        "fullTitle": "Омар Джафероски – Someone You Loved | Нокаути | Гласът на България 2020",
         "description": "Омар от #ОтборКамелия избра да изпълни песента на Lewis Capaldi. Той не продължава напред в шоуто, но му желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/omar-dzhaferoski-someone-you-loved.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4202,15 +3783,7 @@ export const videosInfo: VideoResult  = {
           "Someone You Loved",
           "Lewis Capaldi",
           "Omar Dzhaferoski"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Омар Джафероски – Someone You Loved | Нокаути | Гласът на България 2020",
-          "description": "Омар от #ОтборКамелия избра да изпълни песента на Lewis Capaldi. Той не продължава напред в шоуто, но му желаем много успехи занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/omar-dzhaferoski-someone-you-loved.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 16246,
@@ -4227,7 +3800,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-10T17:10:12Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Дончева – River | Нокаути | Гласът на България 2020",
+        "title": "Кристина Дончева – River",
+        "fullTitle": "Кристина Дончева – River | Нокаути | Гласът на България 2020",
         "description": "Кристина от #ОтборКамелия избра да изпълни песента на Bishop Briggs. Тя се справи страхотно и получи място на стол номер едно.\n\nГледай цялото изпълнение и коментарите на треньорите тук: \nhttps://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-river.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4272,15 +3846,7 @@ export const videosInfo: VideoResult  = {
           "River",
           "Кристина Дончева",
           "Kristina Doncheva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Дончева – River | Нокаути | Гласът на България 2020",
-          "description": "Кристина от #ОтборКамелия избра да изпълни песента на Bishop Briggs. Тя се справи страхотно и получи място на стол номер едно.\n\nГледай цялото изпълнение и коментарите на треньорите тук: \nhttps://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-river.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 113844,
@@ -4298,6 +3864,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-05-04T09:07:13Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -4333,15 +3900,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10073,
@@ -4358,7 +3917,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T18:20:49Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христина vs Полина – Ах, къде е мойто либе | Вокални двубои | Гласът на България 2020",
+        "title": "Христина vs Полина – Ах, къде е мойто либе",
+        "fullTitle": "Христина vs Полина – Ах, къде е мойто либе | Вокални двубои | Гласът на България 2020",
         "description": "Христина и Полина премериха сили с обичаната българска народна песен. В #ОтборКамелия продължава Христина. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-vs-polina-ah-kade-e-mojto-libe.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4405,15 +3965,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "полина димитрова",
           "отбор камелия"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христина vs Полина – Ах, къде е мойто либе | Вокални двубои | Гласът на България 2020",
-          "description": "Христина и Полина премериха сили с обичаната българска народна песен. В #ОтборКамелия продължава Христина. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-vs-polina-ah-kade-e-mojto-libe.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 49037,
@@ -4430,7 +3982,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T18:04:17Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Рада vs Two A – Малките неща | Вокални двубои | Гласът на България 2020",
+        "title": "Рада vs Two A – Малките неща",
+        "fullTitle": "Рада vs Two A – Малките неща | Вокални двубои | Гласът на България 2020",
         "description": "Рада и дуета Two A изпълниха песента на Прея. В #ОтборЛечев продължава Рада.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-vs-two-a-malkite-neshta.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4478,15 +4031,7 @@ export const videosInfo: VideoResult  = {
           "отбор иван лечев",
           "Two A",
           "рада илиева"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Рада vs Two A – Малките неща | Вокални двубои | Гласът на България 2020",
-          "description": "Рада и дуета Two A изпълниха песента на Прея. В #ОтборЛечев продължава Рада.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-vs-two-a-malkite-neshta.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 16298,
@@ -4503,7 +4048,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T17:55:04Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Зариа vs Катрин vs Стефан – I Don’t Care | Вокални двубои | Гласът на България 2020",
+        "title": "Зариа vs Катрин vs Стефан – I Don’t Care",
+        "fullTitle": "Зариа vs Катрин vs Стефан – I Don’t Care | Вокални двубои | Гласът на България 2020",
         "description": "Графа организира първия в историята на \"Гласът на България\" музикален трибой, като подготви трима свои таланти за общо изпълнение на сцената с хита на Ed Sheeran и Justin Bieber. Зариа спечели битката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zaria-vs-katrin-vs-stefan-i-do-not-care.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4553,15 +4099,7 @@ export const videosInfo: VideoResult  = {
           "зария кантарджиева",
           "катрин гачева",
           "стефан манасиевич"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Зариа vs Катрин vs Стефан – I Don’t Care | Вокални двубои | Гласът на България 2020",
-          "description": "Графа организира първия в историята на \"Гласът на България\" музикален трибой, като подготви трима свои таланти за общо изпълнение на сцената с хита на Ed Sheeran и Justin Bieber. Зариа спечели битката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zaria-vs-katrin-vs-stefan-i-do-not-care.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 18812,
@@ -4578,7 +4116,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T17:37:06Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристиана vs Биляна – Sucker | Вокални двубои | Гласът на България 2020",
+        "title": "Кристиана vs Биляна – Sucker",
+        "fullTitle": "Кристиана vs Биляна – Sucker | Вокални двубои | Гласът на България 2020",
         "description": "Кристиана и Биляна премериха сили с песента на Jonas Brothers. В #ОтборМихаела продължава Кристиана. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-vs-biljana-sucker.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4626,15 +4165,7 @@ export const videosInfo: VideoResult  = {
           "отбор михаела филева",
           "биляна добрева",
           "кристиана атанасова"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристиана vs Биляна – Sucker | Вокални двубои | Гласът на България 2020",
-          "description": "Кристиана и Биляна премериха сили с песента на Jonas Brothers. В #ОтборМихаела продължава Кристиана. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-vs-biljana-sucker.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 18949,
@@ -4651,7 +4182,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T17:27:47Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Боил vs Филип – Here without you | Вокални двубои | Гласът на България 2020",
+        "title": "Боил vs Филип – Here without you",
+        "fullTitle": "Боил vs Филип – Here without you | Вокални двубои | Гласът на България 2020",
         "description": "Боил и Филип изпълниха песента на 3 Doors Down. В отбора на Иван Лечев продължава Боил.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-vs-filip-here-without-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4699,15 +4231,7 @@ export const videosInfo: VideoResult  = {
           "отбор иван лечев",
           "филип димитров",
           "боил каранейчев"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Боил vs Филип – Here without you | Вокални двубои | Гласът на България 2020",
-          "description": "Боил и Филип изпълниха песента на 3 Doors Down. В отбора на Иван Лечев продължава Боил.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-vs-filip-here-without-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 14451,
@@ -4724,7 +4248,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-05-03T17:13:07Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Омар vs Джулия – Shallow | Вокални двубои | Гласът на България 2020",
+        "title": "Омар vs Джулия – Shallow",
+        "fullTitle": "Омар vs Джулия – Shallow | Вокални двубои | Гласът на България 2020",
         "description": "Северна Македония и Италия се събраха на сцената на \"Гласът на България\" за една епична вокална битка. Омар и Джулия изпълниха песента на Bradley Cooper и Lady Gaga. Напред в отбора на Графа продължава Джулия. Камелия направи последната си кражба и Омар продължава в нейния отбор. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/omar-vs-dzhulija-shallow.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4773,15 +4298,7 @@ export const videosInfo: VideoResult  = {
           "Shallow",
           "омар джафероски",
           "джулия каваньоли"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Омар vs Джулия – Shallow | Вокални двубои | Гласът на България 2020",
-          "description": "Северна Македония и Италия се събраха на сцената на \"Гласът на България\" за една епична вокална битка. Омар и Джулия изпълниха песента на Bradley Cooper и Lady Gaga. Напред в отбора на Графа продължава Джулия. Камелия направи последната си кражба и Омар продължава в нейния отбор. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/omar-vs-dzhulija-shallow.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 33772,
@@ -4799,6 +4316,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-04-27T13:48:52Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -4839,15 +4357,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 5374,
@@ -4864,7 +4374,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T18:32:53Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Павел и Мартин vs Пламен – Faith | Вокални двубои | Гласът на България 2020",
+        "title": "Павел и Мартин vs Пламен – Faith",
+        "fullTitle": "Павел и Мартин vs Пламен – Faith | Вокални двубои | Гласът на България 2020",
         "description": "Четиримата треньори останаха без дъх след изпълнението на кавъра им на George Michael. Пламен продължава напред в отбора на Иван Лечев, а Камелия открадна Павел и Мартин за своя отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/pavel-i-martin-vs-plamen-faith.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4913,15 +4424,7 @@ export const videosInfo: VideoResult  = {
           "Pavel and Martin",
           "Plamen",
           "George Michael"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Павел и Мартин vs Пламен – Faith | Вокални двубои | Гласът на България 2020",
-          "description": "Четиримата треньори останаха без дъх след изпълнението на кавъра им на George Michael. Пламен продължава напред в отбора на Иван Лечев, а Камелия открадна Павел и Мартин за своя отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/pavel-i-martin-vs-plamen-faith.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 187617,
@@ -4938,7 +4441,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T18:24:42Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина vs Ангел – Perfect | Вокални двубои | Гласът на България 2020",
+        "title": "Кристина vs Ангел – Perfect",
+        "fullTitle": "Кристина vs Ангел – Perfect | Вокални двубои | Гласът на България 2020",
         "description": "Кристина и Ангел направиха перфектния дует с песента на Ed Sheeran, но само един от тях може да продължи в отбора на Михаела и това е Кристина.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-vs-angel-perfect.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -4986,15 +4490,7 @@ export const videosInfo: VideoResult  = {
           "Михаела Филева",
           "Kristina",
           "Angel"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина vs Ангел – Perfect | Вокални двубои | Гласът на България 2020",
-          "description": "Кристина и Ангел направиха перфектния дует с песента на Ed Sheeran, но само един от тях може да продължи в отбора на Михаела и това е Кристина.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-vs-angel-perfect.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 23032,
@@ -5011,7 +4507,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T18:07:35Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Петя vs Александра – Първият човек | Вокални двубои | Гласът на България 2020",
+        "title": "Петя vs Александра – Първият човек",
+        "fullTitle": "Петя vs Александра – Първият човек | Вокални двубои | Гласът на България 2020",
         "description": "Камелия реши да изпита не само вокалните данни, но и психиката на две от най-младите участнички в отбора си, като ги изправи една срещу друга с хита на Тита. Напред продължава Петя.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-vs-aleksandra-parvijat-chovek.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5059,15 +4556,7 @@ export const videosInfo: VideoResult  = {
           "Petya",
           "Aleksandra",
           "Parviyat chovek"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Петя vs Александра – Първият човек | Вокални двубои | Гласът на България 2020",
-          "description": "Камелия реши да изпита не само вокалните данни, но и психиката на две от най-младите участнички в отбора си, като ги изправи една срещу друга с хита на Тита. Напред продължава Петя.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-vs-aleksandra-parvijat-chovek.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 30897,
@@ -5084,7 +4573,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T17:57:44Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър vs Цвети – We Don’t Talk Anymore | Вокални двубои | Гласът на България 2020",
+        "title": "Александър vs Цвети – We Don’t Talk Anymore",
+        "fullTitle": "Александър vs Цвети – We Don’t Talk Anymore | Вокални двубои | Гласът на България 2020",
         "description": "Александър и Цвети изпълниха песента на Charile Puth и Selena Gomez. В отбора на Графа продължава Александър.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-vs-cveti-we-don-t-talk-anymore.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5133,15 +4623,7 @@ export const videosInfo: VideoResult  = {
           "Графа",
           "Aleksandar",
           "Tsveti"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър vs Цвети – We Don’t Talk Anymore | Вокални двубои | Гласът на България 2020",
-          "description": "Александър и Цвети изпълниха песента на Charile Puth и Selena Gomez. В отбора на Графа продължава Александър.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-vs-cveti-we-don-t-talk-anymore.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 31881,
@@ -5158,7 +4640,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T17:41:44Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Михаил vs Александра – Who Wants To Live Forever | Вокални двубои | Гласът на България 2020",
+        "title": "Михаил vs Александра – Who Wants To Live Forever",
+        "fullTitle": "Михаил vs Александра – Who Wants To Live Forever | Вокални двубои | Гласът на България 2020",
         "description": "Украйна и Русия се събраха на сцената на Гласът на България за една епична вокална битка. Те изпълниха един от вечните хитове на Queen. Напред в отбора на Камелия продължава Михаил. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-vs-aleksandra-who-wants-to-live-forever.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5206,15 +4689,7 @@ export const videosInfo: VideoResult  = {
           "Queen",
           "Mihail",
           "Aleksandra"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Михаил vs Александра – Who Wants To Live Forever | Вокални двубои | Гласът на България 2020",
-          "description": "Украйна и Русия се събраха на сцената на Гласът на България за една епична вокална битка. Те изпълниха един от вечните хитове на Queen. Напред в отбора на Камелия продължава Михаил. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-vs-aleksandra-who-wants-to-live-forever.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 23746,
@@ -5231,7 +4706,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-26T17:19:47Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Трио Viva vs Венета – I’m so excited | Вокални двубои | Гласът на България 2020",
+        "title": "Трио Viva vs Венета – I’m so excited",
+        "fullTitle": "Трио Viva vs Венета – I’m so excited | Вокални двубои | Гласът на България 2020",
         "description": "Трио Viva и Венета премериха сили с песента на The Pointer Sisters. Венета спечели битката и продължава в отбора на Графа, но Михаела направи последната си кражба и трио Viva продължават в нейния отбор.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/trio-viva-vs-veneta-i-m-so-excited.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5279,15 +4755,7 @@ export const videosInfo: VideoResult  = {
           "Графа",
           "Trio Viva",
           "Veneta"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Трио Viva vs Венета – I’m so excited | Вокални двубои | Гласът на България 2020",
-          "description": "Трио Viva и Венета премериха сили с песента на The Pointer Sisters. Венета спечели битката и продължава в отбора на Графа, но Михаела направи последната си кражба и трио Viva продължават в нейния отбор.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/trio-viva-vs-veneta-i-m-so-excited.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 43811,
@@ -5305,6 +4773,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-04-20T16:42:45Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -5340,15 +4809,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 8344,
@@ -5365,7 +4826,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-19T18:22:19Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана vs Николета – Лале ли си, зюмбюл ли си | Вокални двубои | Гласът на България 2020",
+        "title": "Йоана vs Николета – Лале ли си, зюмбюл ли си",
+        "fullTitle": "Йоана vs Николета – Лале ли си, зюмбюл ли си | Вокални двубои | Гласът на България 2020",
         "description": "Йоана и Николета разчувстваха всички с изпълнението си на българската народна песен. Изборът беше труден за Графа. Победител в битката стана Йоана, а Михаела открадна Николета за своя отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-vs-nikoleta-lale-li-si-zjumbjul-li-si.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5422,15 +4884,7 @@ export const videosInfo: VideoResult  = {
           "The Voice of Bulgaria 2020",
           "Вокални двубои",
           "Battles"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана vs Николета – Лале ли си, зюмбюл ли си | Вокални двубои | Гласът на България 2020",
-          "description": "Йоана и Николета разчувстваха всички с изпълнението си на българската народна песен. Изборът беше труден за Графа. Победител в битката стана Йоана, а Михаела открадна Николета за своя отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-vs-nikoleta-lale-li-si-zjumbjul-li-si.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 550858,
@@ -5447,7 +4901,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-19T18:14:36Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христо vs Теофания - Meant to be | Вокални двубои | Гласът на България 2020",
+        "title": "Христо vs Теофания - Meant to be",
+        "fullTitle": "Христо vs Теофания - Meant to be | Вокални двубои | Гласът на България 2020",
         "description": "Христо и Теофания изпълниха песента на Bebe Rexha и Florida Georgia Line. Камелия избра Христо да продължи напред в шоуто.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vs-teofanija-meant-to-be.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5499,15 +4954,7 @@ export const videosInfo: VideoResult  = {
           "The Voice of Bulgaria 2020",
           "Вокални двубои",
           "Battles"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христо vs Теофания - Meant to be | Вокални двубои | Гласът на България 2020",
-          "description": "Христо и Теофания изпълниха песента на Bebe Rexha и Florida Georgia Line. Камелия избра Христо да продължи напред в шоуто.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vs-teofanija-meant-to-be.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 27189,
@@ -5524,7 +4971,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-19T17:59:54Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги vs Рут-Констанс - Минаваш през мен | Вокални двубои | Гласът на България 2020",
+        "title": "Георги vs Рут-Констанс - Минаваш през мен",
+        "fullTitle": "Георги vs Рут-Констанс - Минаваш през мен | Вокални двубои | Гласът на България 2020",
         "description": "Георги и Рут-Констанс премериха сили с песента на Каризма. Михаела избра Георги да продължи в нейния отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-vs-rut-konstans-minavash-prez-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5577,15 +5025,7 @@ export const videosInfo: VideoResult  = {
           "The Voice of Bulgaria 2020",
           "Вокални двубои",
           "Battles"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги vs Рут-Констанс - Минаваш през мен | Вокални двубои | Гласът на България 2020",
-          "description": "Георги и Рут-Констанс премериха сили с песента на Каризма. Михаела избра Георги да продължи в нейния отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-vs-rut-konstans-minavash-prez-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 37004,
@@ -5602,7 +5042,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-19T17:28:02Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Свет vs Огнян - Lonely Boy | Вокални двубои | Гласът на България 2020",
+        "title": "Свет vs Огнян - Lonely Boy",
+        "fullTitle": "Свет vs Огнян - Lonely Boy | Вокални двубои | Гласът на България 2020",
         "description": "Свет и Огнян изпълниха песента на The Black Keys. Това се оказа печелившо за Свет, защото той продължава в #ОтборМихаела.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svet-vs-ognjan-lonely-boy.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5654,15 +5095,7 @@ export const videosInfo: VideoResult  = {
           "Вокални двубои",
           "Battles",
           "отбор Михаела"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Свет vs Огнян - Lonely Boy | Вокални двубои | Гласът на България 2020",
-          "description": "Свет и Огнян изпълниха песента на The Black Keys. Това се оказа печелившо за Свет, защото той продължава в #ОтборМихаела.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svet-vs-ognjan-lonely-boy.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 23908,
@@ -5679,7 +5112,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-19T17:18:05Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана vs Алмир - Blurred Lines | Вокални двубои | Гласът на България 2020",
+        "title": "Керана vs Алмир - Blurred Lines",
+        "fullTitle": "Керана vs Алмир - Blurred Lines | Вокални двубои | Гласът на България 2020",
         "description": "Керана и Алмир премериха сили с песента на Robin Thicke, Pharrell Williams и T.I. Керана спечели битката и продължава в отбора на Камелия, но Иван Лечев направи последната си кражба и Алмир продължава в неговия отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-vs-almir-blurred-lines.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5733,15 +5167,7 @@ export const videosInfo: VideoResult  = {
           "The Voice of Bulgaria 2020",
           "Вокални двубои",
           "Battles"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана vs Алмир - Blurred Lines | Вокални двубои | Гласът на България 2020",
-          "description": "Керана и Алмир премериха сили с песента на Robin Thicke, Pharrell Williams и T.I. Керана спечели битката и продължава в отбора на Камелия, но Иван Лечев направи последната си кражба и Алмир продължава в неговия отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-vs-almir-blurred-lines.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 153961,
@@ -5759,6 +5185,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-04-13T12:03:53Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -5799,15 +5226,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 10598,
@@ -5824,7 +5243,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T18:25:19Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена vs Алекс – You are the reason | Вокални двубои | Гласът на България 2020",
+        "title": "Елена vs Алекс – You are the reason",
+        "fullTitle": "Елена vs Алекс – You are the reason | Вокални двубои | Гласът на България 2020",
         "description": "Елена и Алекс изпълниха песента „You are the reason” в дуетния вариант на Calum Scott и Leona Lewis. Изборът беше труден за Михаела. Победител в битката стана Елена, а Графа открадна Алекс за неговия отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-vs-aleks-you-are-the-reason.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5873,15 +5293,7 @@ export const videosInfo: VideoResult  = {
           "You are the reason",
           "Calum Scott",
           "Leona Lewis"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена vs Алекс – You are the reason | Вокални двубои | Гласът на България 2020",
-          "description": "Елена и Алекс изпълниха песента „You are the reason” в дуетния вариант на Calum Scott и Leona Lewis. Изборът беше труден за Михаела. Победител в битката стана Елена, а Графа открадна Алекс за неговия отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-vs-aleks-you-are-the-reason.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 201477,
@@ -5898,7 +5310,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T18:06:32Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алейна vs Мария – Head Above Water | Вокални двубои | Гласът на България 2020",
+        "title": "Алейна vs Мария – Head Above Water",
+        "fullTitle": "Алейна vs Мария – Head Above Water | Вокални двубои | Гласът на България 2020",
         "description": "Алейна и Мария изпълниха песента на Avril Lavigne. Иван Лечев избра Мария да продължи напред в шоуто.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/alejna-vs-marija-head-above-water.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5945,15 +5358,7 @@ export const videosInfo: VideoResult  = {
           "отбор Иван Лечев",
           "Head Above Water",
           "Avril Lavigne"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алейна vs Мария – Head Above Water | Вокални двубои | Гласът на България 2020",
-          "description": "Алейна и Мария изпълниха песента на Avril Lavigne. Иван Лечев избра Мария да продължи напред в шоуто.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/alejna-vs-marija-head-above-water.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 46387,
@@ -5970,7 +5375,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T17:54:32Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Илин vs Гергана – Señorita | Вокални двубои | Гласът на България 2020",
+        "title": "Илин vs Гергана – Señorita",
+        "fullTitle": "Илин vs Гергана – Señorita | Вокални двубои | Гласът на България 2020",
         "description": "Двама супер талантливи участника от Сливен премериха сили с песента на Shawn Mendes и Camila Cabello. Михаела избра Илин да продължи в нейния отбор, а Графа си открадна Гергана.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-vs-gergana-se-orita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6019,15 +5425,7 @@ export const videosInfo: VideoResult  = {
           "Señorita",
           "Shawn Mendes",
           "Camila Cabello"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Илин vs Гергана – Señorita | Вокални двубои | Гласът на България 2020",
-          "description": "Двама супер талантливи участника от Сливен премериха сили с песента на Shawn Mendes и Camila Cabello. Михаела избра Илин да продължи в нейния отбор, а Графа си открадна Гергана.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-vs-gergana-se-orita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 121636,
@@ -6044,7 +5442,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T17:39:57Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Калина vs Пламена – Еx’s & Oh’s | Вокални двубои | Гласът на България 2020",
+        "title": "Калина vs Пламена – Еx’s & Oh’s",
+        "fullTitle": "Калина vs Пламена – Еx’s & Oh’s | Вокални двубои | Гласът на България 2020",
         "description": "Калина и Пламена излязоха на сцената на Гласът на България с песента на Elle King. Иван Лечев избра Калина да продължи напред в отбора му.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-vs-plamena-ex-s-oh-s.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6091,15 +5490,7 @@ export const videosInfo: VideoResult  = {
           "Калина Велковска",
           "Пламена Андреева",
           "отбор Иван Лечев"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Калина vs Пламена – Еx’s & Oh’s | Вокални двубои | Гласът на България 2020",
-          "description": "Калина и Пламена излязоха на сцената на Гласът на България с песента на Elle King. Иван Лечев избра Калина да продължи напред в отбора му.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-vs-plamena-ex-s-oh-s.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 57408,
@@ -6116,7 +5507,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T17:28:21Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина vs Мария – Mercy | Вокални двубои | Гласът на България 2020",
+        "title": "Кристина vs Мария – Mercy",
+        "fullTitle": "Кристина vs Мария – Mercy | Вокални двубои | Гласът на България 2020",
         "description": "Двете прекрасни млади дами изпълниха песента на Shawn Mendes. Това се оказа печелившо за Кристина, защото тя продължава в #ОтборКамелия.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-vs-marija-mercy.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6163,15 +5555,7 @@ export const videosInfo: VideoResult  = {
           "Mercy",
           "Камелия",
           "отбор Камелия"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина vs Мария – Mercy | Вокални двубои | Гласът на България 2020",
-          "description": "Двете прекрасни млади дами изпълниха песента на Shawn Mendes. Това се оказа печелившо за Кристина, защото тя продължава в #ОтборКамелия.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-vs-marija-mercy.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 121326,
@@ -6188,7 +5572,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-12T17:18:27Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Иван vs Георги – All Right Now | Вокални двубои | Гласът на България 2020",
+        "title": "Иван vs Георги – All Right Now",
+        "fullTitle": "Иван vs Георги – All Right Now | Вокални двубои | Гласът на България 2020",
         "description": "Иван и Георги премериха сили с песента на рок бандата Free. Иван спечели вокалния двубой и продължава в отбора на Графа! Първата кражба е факт и Георги продължа в отбора на Иван Лечев.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-vs-georgi-all-right-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6236,15 +5621,7 @@ export const videosInfo: VideoResult  = {
           "Иван Лечев",
           "All Right Now",
           "Free"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Иван vs Георги – All Right Now | Вокални двубои | Гласът на България 2020",
-          "description": "Иван и Георги премериха сили с песента на рок бандата Free. Иван спечели вокалния двубой и продължава в отбора на Графа! Първата кражба е факт и Георги продължа в отбора на Иван Лечев.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-vs-georgi-all-right-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 97753,
@@ -6262,6 +5639,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-04-06T10:18:06Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -6302,15 +5680,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 9673,
@@ -6327,7 +5697,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T18:26:57Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Иван Лазаров – Заедно | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Иван Лазаров – Заедно",
+        "fullTitle": "Иван Лазаров – Заедно | Кастинги на тъмно | Гласът на България 2020",
         "description": "Иван изпълни хитовата песен „Заедно” на треньора на \"Гласът на България\" – Графа, и успя да си спечели допълнително 13-то място в неговия отбор. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-zaedno.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6375,15 +5746,7 @@ export const videosInfo: VideoResult  = {
           "отбор графа",
           "Ivan Lazarov",
           "Zaedno"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Иван Лазаров – Заедно | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Иван изпълни хитовата песен „Заедно” на треньора на \"Гласът на България\" – Графа, и успя да си спечели допълнително 13-то място в неговия отбор. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/ivan-lazarov-zaedno.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 228245,
@@ -6400,7 +5763,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T18:11:26Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Ижбехов – New York, New York | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Георги Ижбехов – New York, New York",
+        "fullTitle": "Георги Ижбехов – New York, New York | Кастинги на тъмно | Гласът на България 2020",
         "description": "Георги изпълни варианта на Frank Sinatra на песента „New York, New York” и това му спечели последното място в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-izhbehov-new-york-new-york.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6447,15 +5811,7 @@ export const videosInfo: VideoResult  = {
           "отбор михаела филева",
           "New York New York",
           "Georgi Izhbehov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Ижбехов – New York, New York | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Георги изпълни варианта на Frank Sinatra на песента „New York, New York” и това му спечели последното място в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/georgi-izhbehov-new-york-new-york.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 41155,
@@ -6472,7 +5828,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T18:05:04Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Десислава Николова – Искам да бъда с теб | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Десислава Николова – Искам да бъда с теб",
+        "fullTitle": "Десислава Николова – Искам да бъда с теб | Кастинги на тъмно | Гласът на България 2020",
         "description": "Десислава изпълни известната българска песен „Искам да бъда с теб”, но за съжаление не успя да продължи напред в състезанието. Пожелаваме ѝ да не спира да обича музиката толкова силно! \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/desislava-nikolova-iskam-da-bada-s-teb.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6517,15 +5874,7 @@ export const videosInfo: VideoResult  = {
           "кастинги на тъмно",
           "Десислава Николова",
           "сезон 7"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Десислава Николова – Искам да бъда с теб | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Десислава изпълни известната българска песен „Искам да бъда с теб”, но за съжаление не успя да продължи напред в състезанието. Пожелаваме ѝ да не спира да обича музиката толкова силно! \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/desislava-nikolova-iskam-da-bada-s-teb.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 32013,
@@ -6542,7 +5891,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:58:49Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Джулия Каваньоли – Adagio | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Джулия Каваньоли – Adagio",
+        "fullTitle": "Джулия Каваньоли – Adagio | Кастинги на тъмно | Гласът на България 2020",
         "description": "Джулия сподели, че е била мотивирана да се включи в Гласът на България от миналогодишния участник Тино. Италианката изпълни прекрасно песента „Adagio” на Lara Fabian и с нея зае последното място в #ОтборГрафа. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/dzhulija-kavanyoli-adagio.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6589,15 +5939,7 @@ export const videosInfo: VideoResult  = {
           "Джулия Каваньоли",
           "отбор графа",
           "Julia Cavanyoli"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Джулия Каваньоли – Adagio | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Джулия сподели, че е била мотивирана да се включи в Гласът на България от миналогодишния участник Тино. Италианката изпълни прекрасно песента „Adagio” на Lara Fabian и с нея зае последното място в #ОтборГрафа. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/dzhulija-kavanyoli-adagio.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 40306,
@@ -6614,7 +5956,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:43:21Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Two A – Да сме там | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Two A – Да сме там",
+        "fullTitle": "Two A – Да сме там | Кастинги на тъмно | Гласът на България 2020",
         "description": "Алекс и Наско от “Two A” са последното попълнение и четвъртия дует в #ОтборЛечев. Те си спечелиха мястото със страхотното им изпълнение на песента „Да сме там” на Ogi 23.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/duet-two-a-da-sme-tam.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6663,15 +6006,7 @@ export const videosInfo: VideoResult  = {
           "Да сме там",
           "Ogi 23",
           "Da sme tam"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Two A – Да сме там | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Алекс и Наско от “Two A” са последното попълнение и четвъртия дует в #ОтборЛечев. Те си спечелиха мястото със страхотното им изпълнение на песента „Да сме там” на Ogi 23.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/duet-two-a-da-sme-tam.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 58787,
@@ -6688,7 +6023,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:36:46Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Девана Георгиевска – Perhaps, perhaps, perhaps | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Девана Георгиевска – Perhaps, perhaps, perhaps",
+        "fullTitle": "Девана Георгиевска – Perhaps, perhaps, perhaps | Кастинги на тъмно | Гласът на България 2020",
         "description": "Девана идва от Северна Македония, за да покаже таланта си на сцената в \"Гласът на България\". За съжаление тя не успя да продължи напред в шоуто, но ѝ желаем много успех в бъдеще! \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/devana-georgievska-perhaps-perhaps-perhaps.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6732,15 +6068,7 @@ export const videosInfo: VideoResult  = {
           "кастинги на тъмно",
           "Девана Георгиевска",
           "Perhaps perhaps perhaps"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Девана Георгиевска – Perhaps, perhaps, perhaps | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Девана идва от Северна Македония, за да покаже таланта си на сцената в \"Гласът на България\". За съжаление тя не успя да продължи напред в шоуто, но ѝ желаем много успех в бъдеще! \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/devana-georgievska-perhaps-perhaps-perhaps.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 17653,
@@ -6757,7 +6085,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:25:26Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Филип Димитров – Heart-Shaped Box | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Филип Димитров – Heart-Shaped Box",
+        "fullTitle": "Филип Димитров – Heart-Shaped Box | Кастинги на тъмно | Гласът на България 2020",
         "description": "Филип изпълни песента „Heart-Shaped Box” на Nirvana. С неговото страхотно изпълнение, той се вписа идеално в отбора на Иван Лечев.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/filip-dimitrov-heart-shaped-box.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6804,15 +6133,7 @@ export const videosInfo: VideoResult  = {
           "отбор иван лечев",
           "Филип Димитров",
           "Filip Dimitrov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Филип Димитров – Heart-Shaped Box | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Филип изпълни песента „Heart-Shaped Box” на Nirvana. С неговото страхотно изпълнение, той се вписа идеално в отбора на Иван Лечев.   \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/filip-dimitrov-heart-shaped-box.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 25733,
@@ -6829,7 +6150,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:11:35Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Трайчо Янков – Мъжко признание | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Трайчо Янков – Мъжко признание",
+        "fullTitle": "Трайчо Янков – Мъжко признание | Кастинги на тъмно | Гласът на България 2020",
         "description": "Трайчо изпълни песента „Мъжко признание” на Тони Стораро, но не успя да продължи напред в шоуто. Пожелаваме му да не спира да мечтае и да реализира целите си!\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/trajcho-jankov-mazhko-priznanie.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6870,15 +6192,7 @@ export const videosInfo: VideoResult  = {
           "Мъжко признание",
           "Traycho Yankov",
           "Mazhko priznanie"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Трайчо Янков – Мъжко признание | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Трайчо изпълни песента „Мъжко признание” на Тони Стораро, но не успя да продължи напред в шоуто. Пожелаваме му да не спира да мечтае и да реализира целите си!\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/trajcho-jankov-mazhko-priznanie.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 139607,
@@ -6895,7 +6209,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-04-05T17:05:41Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Биляна Добрева – Dangerous Woman | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Биляна Добрева – Dangerous Woman",
+        "fullTitle": "Биляна Добрева – Dangerous Woman | Кастинги на тъмно | Гласът на България 2020",
         "description": "Биляна донесе много енергия и положителни емоции на сцената на Гласът на България. Тя изпълни песента “Dangerous Woman” на Ariana Grande и с нея си спечели място в отбора на Михаела Филева.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/biljana-dobreva-dangerous-woman.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -6942,15 +6257,7 @@ export const videosInfo: VideoResult  = {
           "отбор михаела филева",
           "Ariana Grande",
           "Bilyana Dobreva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Биляна Добрева – Dangerous Woman | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Биляна донесе много енергия и положителни емоции на сцената на Гласът на България. Тя изпълни песента “Dangerous Woman” на Ariana Grande и с нея си спечели място в отбора на Михаела Филева.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/biljana-dobreva-dangerous-woman.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 35243,
@@ -6968,6 +6275,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-03-30T10:11:16Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -7008,15 +6316,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 15946,
@@ -7033,7 +6333,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T19:08:50Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Теофания Гаравела - Lovely | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Теофания Гаравела - Lovely",
+        "fullTitle": "Теофания Гаравела - Lovely | Кастинги на тъмно | Гласът на България 2020",
         "description": "Към #ОтборКамелия се присъедини и 18-годишната българка с гръцки произход Теофания. Тя си спечели мястото с песента на Billie Eilish и Khalid.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/teofanija-garavela-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7080,15 +6381,7 @@ export const videosInfo: VideoResult  = {
           "Billie Eilish",
           "Khalid",
           "Teofania Garavela"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Теофания Гаравела - Lovely | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Към #ОтборКамелия се присъедини и 18-годишната българка с гръцки произход Теофания. Тя си спечели мястото с песента на Billie Eilish и Khalid.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/teofanija-garavela-lovely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 237617,
@@ -7105,7 +6398,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:57:08Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александра Кузина – The Winner Takes It All | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Александра Кузина – The Winner Takes It All",
+        "fullTitle": "Александра Кузина – The Winner Takes It All | Кастинги на тъмно | Гласът на България 2020",
         "description": "Към #ОтборКамелия се присъедини и 33-годишната учителка по музика Александра. Тя изпълни песента на ABBA.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/aleksandra-kuzina-the-winner-takes-it-all.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7151,15 +6445,7 @@ export const videosInfo: VideoResult  = {
           "ОтборКамелия",
           "ABBA",
           "Aleksandra Kuzina"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александра Кузина – The Winner Takes It All | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Към #ОтборКамелия се присъедини и 33-годишната учителка по музика Александра. Тя изпълни песента на ABBA.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/aleksandra-kuzina-the-winner-takes-it-all.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 22236,
@@ -7176,7 +6462,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:49:16Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Михаил Димов – Nessun dorma | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Михаил Димов – Nessun dorma",
+        "fullTitle": "Михаил Димов – Nessun dorma | Кастинги на тъмно | Гласът на България 2020",
         "description": "Когато треньорите на Гласът на България разбраха, че Михаил е и оперен певец, те пожелаха да чуят още едно негово изпълнение. Той продължава напред в #ОтборКамелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-dimov-nessun-dorma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7217,15 +6504,7 @@ export const videosInfo: VideoResult  = {
           "Marc Anthony",
           "ОтборКамелия",
           "Mihail Dimov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Михаил Димов – Nessun dorma | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Когато треньорите на Гласът на България разбраха, че Михаил е и оперен певец, те пожелаха да чуят още едно негово изпълнение. Той продължава напред в #ОтборКамелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-dimov-nessun-dorma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 12358,
@@ -7242,7 +6521,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:45:39Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Михаил Димов – My Baby You | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Михаил Димов – My Baby You",
+        "fullTitle": "Михаил Димов – My Baby You | Кастинги на тъмно | Гласът на България 2020",
         "description": "Михаил разтърси представите ни за музика! Той изпълни песента на Marc Anthony и направи своя избор да продължи в #ОтборКамелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-dimov-my-baby-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7288,15 +6568,7 @@ export const videosInfo: VideoResult  = {
           "Marc Anthony",
           "ОтборКамелия",
           "Mihail Dimov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Михаил Димов – My Baby You | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Михаил разтърси представите ни за музика! Той изпълни песента на Marc Anthony и направи своя избор да продължи в #ОтборКамелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/mihail-dimov-my-baby-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 29770,
@@ -7313,7 +6585,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:39:12Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Свет и Хихи - Джалма | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Свет и Хихи - Джалма",
+        "fullTitle": "Свет и Хихи - Джалма | Кастинги на тъмно | Гласът на България 2020",
         "description": "Свет и Хихи изпълниха хитовата песен на Дует Ритон и си спечелиха място в отбора на Иван Лечев. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/svet-i-hihi-dzhalma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7360,15 +6633,7 @@ export const videosInfo: VideoResult  = {
           "Иван Лечев",
           "Svet and Hihi",
           "Dzhalma"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Свет и Хихи - Джалма | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Свет и Хихи изпълниха хитовата песен на Дует Ритон и си спечелиха място в отбора на Иван Лечев. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/svet-i-hihi-dzhalma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 59873,
@@ -7385,7 +6650,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:29:20Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Пламена Андреева - Ironic | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Пламена Андреева - Ironic",
+        "fullTitle": "Пламена Андреева - Ironic | Кастинги на тъмно | Гласът на България 2020",
         "description": "Иван Лечев прибави към отбора си и пловдивчанката Пламена, която изпълни песента на Alanis Morissette.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamena-andreeva-ironic.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7431,15 +6697,7 @@ export const videosInfo: VideoResult  = {
           "Plamena Andreeva",
           "Иван Лечев",
           "Alanis Morissette"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Пламена Андреева - Ironic | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Иван Лечев прибави към отбора си и пловдивчанката Пламена, която изпълни песента на Alanis Morissette.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamena-andreeva-ironic.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 20812,
@@ -7456,7 +6714,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:24:28Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Арзу и Силвана – Сляп ден | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Арзу и Силвана – Сляп ден",
+        "fullTitle": "Арзу и Силвана – Сляп ден | Кастинги на тъмно | Гласът на България 2020",
         "description": "#ОтборЛечев се сдоби с втори дует - приятелките Арзу и Силвана. Те изпълниха песента на Сигнал.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/arzu-i-silvana-sljap-den.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7502,15 +6761,7 @@ export const videosInfo: VideoResult  = {
           "ОтборЛечев",
           "Arzu & Silvana",
           "Slyap den"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Арзу и Силвана – Сляп ден | Кастинги на тъмно | Гласът на България 2020",
-          "description": "#ОтборЛечев се сдоби с втори дует - приятелките Арзу и Силвана. Те изпълниха песента на Сигнал.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/arzu-i-silvana-sljap-den.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 72099,
@@ -7527,7 +6778,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:18:08Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Андреа Начева – Nothing Breaks Like A Heart | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Андреа Начева – Nothing Breaks Like A Heart",
+        "fullTitle": "Андреа Начева – Nothing Breaks Like A Heart | Кастинги на тъмно | Гласът на България 2020",
         "description": "„Това е най-голямата сцена, на която някога съм се качвала.” Тя изпълни песента на Mark Ronson и Miley Cyrus. Пожелаваме на Андреа да покори още много сцени и да зарадва отново публиката на #Гласът.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/andrea-nacheva-nothing-breaks-like-a-heart.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7572,15 +6824,7 @@ export const videosInfo: VideoResult  = {
           "Nothing Breaks Like A Heart",
           "Miley Cyrus",
           "Andrea Nacheva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Андреа Начева – Nothing Breaks Like A Heart | Кастинги на тъмно | Гласът на България 2020",
-          "description": "„Това е най-голямата сцена, на която някога съм се качвала.” Тя изпълни песента на Mark Ronson и Miley Cyrus. Пожелаваме на Андреа да покори още много сцени и да зарадва отново публиката на #Гласът.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/andrea-nacheva-nothing-breaks-like-a-heart.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 36576,
@@ -7597,7 +6841,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:10:40Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Катрин Гачева - Toxic | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Катрин Гачева - Toxic",
+        "fullTitle": "Катрин Гачева - Toxic | Кастинги на тъмно | Гласът на България 2020",
         "description": "#ОтборГрафа се сдоби и с 18-годишната ученичка от #Пловдив Катрин. Тя изпълни песента на Britney Spears. Желаем ѝ успех в музикалната надпревара!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/katrin-gacheva-toxic.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7642,15 +6887,7 @@ export const videosInfo: VideoResult  = {
           "Toxic",
           "Britney Spears",
           "Katrin Gacheva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Катрин Гачева - Toxic | Кастинги на тъмно | Гласът на България 2020",
-          "description": "#ОтборГрафа се сдоби и с 18-годишната ученичка от #Пловдив Катрин. Тя изпълни песента на Britney Spears. Желаем ѝ успех в музикалната надпревара!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/katrin-gacheva-toxic.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 108896,
@@ -7667,7 +6904,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T18:06:10Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Стефан Манасиевич – Don’t Stop Me Now | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Стефан Манасиевич – Don’t Stop Me Now",
+        "fullTitle": "Стефан Манасиевич – Don’t Stop Me Now | Кастинги на тъмно | Гласът на България 2020",
         "description": "“Музиката ми е първа любов”, казва Стефан и го доказа убедително на сцената на #Гласът. Той продължава напред в #ОтборГрафа, благодарение на изпълнението му на песента на Queen.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/stefan-manasievich-don-t-stop-me-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7712,15 +6950,7 @@ export const videosInfo: VideoResult  = {
           "Don’t Stop Me Now",
           "ОтборГрафа",
           "Stefan Manasievic"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Стефан Манасиевич – Don’t Stop Me Now | Кастинги на тъмно | Гласът на България 2020",
-          "description": "“Музиката ми е първа любов”, казва Стефан и го доказа убедително на сцената на #Гласът. Той продължава напред в #ОтборГрафа, благодарение на изпълнението му на песента на Queen.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/stefan-manasievich-don-t-stop-me-now.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 19899,
@@ -7737,7 +6967,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:59:10Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Зария Кантарджиева – Then | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Зария Кантарджиева – Then",
+        "fullTitle": "Зария Кантарджиева – Then | Кастинги на тъмно | Гласът на България 2020",
         "description": "Опитът на Зария като вокален педагог си каза думата и ѝ помогна да се изстреля в #ОтборГрафа! Тя изпълни песента на Anne Marie.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zlatka-kantardzhieva-then.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7782,15 +7013,7 @@ export const videosInfo: VideoResult  = {
           "ОтборГрафа",
           "Then",
           "Zlatka Kantardzhieva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Зария Кантарджиева – Then | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Опитът на Зария като вокален педагог си каза думата и ѝ помогна да се изстреля в #ОтборГрафа! Тя изпълни песента на Anne Marie.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/zlatka-kantardzhieva-then.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 37041,
@@ -7807,7 +7030,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:45:22Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Иван Иванов – Шесто чувство | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Иван Иванов – Шесто чувство",
+        "fullTitle": "Иван Иванов – Шесто чувство | Кастинги на тъмно | Гласът на България 2020",
         "description": "Появата на Иван в #Гласът е едно ново начало за него. Той изпълни песента на Venzy и СигнаУ. Сигурни сме, че голямата сцена отново ще го посрещне със силни аплодисменти!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/ivan-ivanov-shesto-chuvstvo.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7851,15 +7075,7 @@ export const videosInfo: VideoResult  = {
           "Иван Иванов",
           "Шество чувство",
           "Shesto chuvstvo"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Иван Иванов – Шесто чувство | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Появата на Иван в #Гласът е едно ново начало за него. Той изпълни песента на Venzy и СигнаУ. Сигурни сме, че голямата сцена отново ще го посрещне със силни аплодисменти!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/ivan-ivanov-shesto-chuvstvo.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 32113,
@@ -7876,7 +7092,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:41:24Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Мария Минкова – Smells Like Teen Spirit | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Мария Минкова – Smells Like Teen Spirit",
+        "fullTitle": "Мария Минкова – Smells Like Teen Spirit | Кастинги на тъмно | Гласът на България 2020",
         "description": "Мария се в впусна в предизвикателството, наречено Гласът на България, и се озова в #ОтборЛечев, благодарение на изпълнението ѝ на песента на Nirvana!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/marija-minkova-smells-like-teen-spirit.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7921,15 +7138,7 @@ export const videosInfo: VideoResult  = {
           "ОтборЛечев",
           "Smells Like Teen Spirit",
           "Maria Minkova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Мария Минкова – Smells Like Teen Spirit | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Мария се в впусна в предизвикателството, наречено Гласът на България, и се озова в #ОтборЛечев, благодарение на изпълнението ѝ на песента на Nirvana!\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/marija-minkova-smells-like-teen-spirit.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 152049,
@@ -7946,7 +7155,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:28:45Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Огнян Йорданов – Despacito | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Огнян Йорданов – Despacito",
+        "fullTitle": "Огнян Йорданов – Despacito | Кастинги на тъмно | Гласът на България 2020",
         "description": "Втори опит на Огнян в Гласът на България и този път право в десетката - в #ОтборМихаела, благодарение на изпълнението му на песента на Luis Fonsi!  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ognjan-jordanov-despacito.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -7990,15 +7200,7 @@ export const videosInfo: VideoResult  = {
           "Огнян Йорданов",
           "Despacito",
           "ОтборМихаела"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Огнян Йорданов – Despacito | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Втори опит на Огнян в Гласът на България и този път право в десетката - в #ОтборМихаела, благодарение на изпълнението му на песента на Luis Fonsi!  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ognjan-jordanov-despacito.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 161843,
@@ -8015,7 +7217,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:23:08Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Теодор Цветков – All the small things | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Теодор Цветков – All the small things",
+        "fullTitle": "Теодор Цветков – All the small things | Кастинги на тъмно | Гласът на България 2020",
         "description": "Теодор направи един чудесен опит на сцената на #Гласът с изпълнението си на песента на Blink-182. Да му пожелаем да не се отказва и занапред!\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/teodor-cvetkov-all-the-small-things.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8059,15 +7262,7 @@ export const videosInfo: VideoResult  = {
           "Теодор Цветков",
           "Teodor Tsvetkov",
           "All the small things"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Теодор Цветков – All the small things | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Теодор направи един чудесен опит на сцената на #Гласът с изпълнението си на песента на Blink-182. Да му пожелаем да не се отказва и занапред!\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/teodor-cvetkov-all-the-small-things.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 19477,
@@ -8084,7 +7279,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-29T17:16:03Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Полина Димитрова – Везден Рада | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Полина Димитрова – Везден Рада",
+        "fullTitle": "Полина Димитрова – Везден Рада | Кастинги на тъмно | Гласът на България 2020",
         "description": "Народната песен на Полина разчувства четиримата треньори и цяла България, а #ОтборКамелия дръпна рязко напред, като я спечели. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/polina-dimitrova-vezden-rada.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8129,15 +7325,7 @@ export const videosInfo: VideoResult  = {
           "Везден Рада",
           "Polina Dimitrova",
           "Vezden Rada"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Полина Димитрова – Везден Рада | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Народната песен на Полина разчувства четиримата треньори и цяла България, а #ОтборКамелия дръпна рязко напред, като я спечели. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/polina-dimitrova-vezden-rada.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 80403,
@@ -8155,6 +7343,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-03-23T10:45:33Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -8195,15 +7384,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 13164,
@@ -8220,7 +7401,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T19:31:18Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Пламен Бонев – Way down we go | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Пламен Бонев – Way down we go",
+        "fullTitle": "Пламен Бонев – Way down we go | Кастинги на тъмно | Гласът на България 2020",
         "description": "Пламен подпали сцената на Гласът на България с изпълнението си на “Way down we go” на Kaleo. Той избра да бъде в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-way-down-we-go.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8269,15 +7451,7 @@ export const videosInfo: VideoResult  = {
           "Plamen Bonev",
           "отбор Иван Лечев",
           "Ivan Lechev’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Пламен Бонев – Way down we go | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Пламен подпали сцената на Гласът на България с изпълнението си на “Way down we go” на Kaleo. Той избра да бъде в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/plamen-bonev-way-down-we-go.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 179239,
@@ -8294,7 +7468,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T19:26:04Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христина Христова – At Last | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Христина Христова – At Last",
+        "fullTitle": "Христина Христова – At Last | Кастинги на тъмно | Гласът на България 2020",
         "description": "Треньорите на „Гласът на България“ пожелаха да чуят още едно изпълнение на Христина. Тя изпя „At Last” на Etta James и продължава в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-at-last.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8335,15 +7510,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христина Христова – At Last | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Треньорите на „Гласът на България“ пожелаха да чуят още едно изпълнение на Христина. Тя изпя „At Last” на Etta James и продължава в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-at-last.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 42199,
@@ -8360,7 +7527,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T19:22:22Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христина Христова – Nevinost | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Христина Христова – Nevinost",
+        "fullTitle": "Христина Христова – Nevinost | Кастинги на тъмно | Гласът на България 2020",
         "description": "Христина впечатли треньорите с изпълнението си на „Nevinost” на Ceca. Тя избра да продължи в отбора на Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-nevinost.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8410,15 +7578,7 @@ export const videosInfo: VideoResult  = {
           "Невиност",
           "отбор Камелия",
           "Kamelia’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христина Христова – Nevinost | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Христина впечатли треньорите с изпълнението си на „Nevinost” на Ceca. Тя избра да продължи в отбора на Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristina-hristova-nevinost.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 674281,
@@ -8435,7 +7595,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T19:05:32Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Росен Емилов – Completely | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Росен Емилов – Completely",
+        "fullTitle": "Росен Емилов – Completely | Кастинги на тъмно | Гласът на България 2020",
         "description": "Росен изпълни песента “Completely” на Art Of Dying, но това не му помогна да продължи напред в шоуто. Желаем му късмет занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/rosen-emilov-completely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8482,15 +7643,7 @@ export const videosInfo: VideoResult  = {
           "Росен Емилов",
           "Completely",
           "Rosen Emilov"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Росен Емилов – Completely | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Росен изпълни песента “Completely” на Art Of Dying, но това не му помогна да продължи напред в шоуто. Желаем му късмет занапред. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/rosen-emilov-completely.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 18008,
@@ -8507,7 +7660,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:59:40Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Гергана Узунова – I Don’t Wanna Be You Anymore | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Гергана Узунова – I Don’t Wanna Be You Anymore",
+        "fullTitle": "Гергана Узунова – I Don’t Wanna Be You Anymore | Кастинги на тъмно | Гласът на България 2020",
         "description": "Гергана впечатли треньорите с изпълнението си на песента „I Don’t Wanna Be You Anymore” на Billie Eilish. Тя избра да бъде в отбора на Михаела.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/gergana-uzunova-i-don-t-wanna-be-you-anymore.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8556,15 +7710,7 @@ export const videosInfo: VideoResult  = {
           "Gergana Uzunova",
           "отбор Михаела",
           "Mihaela’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гергана Узунова – I Don’t Wanna Be You Anymore | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Гергана впечатли треньорите с изпълнението си на песента „I Don’t Wanna Be You Anymore” на Billie Eilish. Тя избра да бъде в отбора на Михаела.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/gergana-uzunova-i-don-t-wanna-be-you-anymore.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 40764,
@@ -8581,7 +7727,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:50:40Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Графа – Давам всичко за теб | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Графа – Давам всичко за теб",
+        "fullTitle": "Графа – Давам всичко за теб | Кастинги на тъмно | Гласът на България 2020",
         "description": "Треньорът от Гласът на България изненада колегите и публиката със своето неочаквано изпълнение на един от най-големите му хитове – „Давам всичко за теб”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/grafa-davam-vsichko-za-teb.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8629,15 +7776,7 @@ export const videosInfo: VideoResult  = {
           "Давам всичко за теб",
           "Grafa",
           "Davam vsichko za teb"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Графа – Давам всичко за теб | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Треньорът от Гласът на България изненада колегите и публиката със своето неочаквано изпълнение на един от най-големите му хитове – „Давам всичко за теб”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/grafa-davam-vsichko-za-teb.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 96724,
@@ -8654,7 +7793,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:42:58Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Дейвид Миленов – Olabilir, Мойто всичко | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Дейвид Миленов – Olabilir, Мойто всичко",
+        "fullTitle": "Дейвид Миленов – Olabilir, Мойто всичко | Кастинги на тъмно | Гласът на България 2020",
         "description": "Дейвид изпълни “Olabilir” на MERO и “Мойто всичко” на Sinan. За съжаление, Дейвид не успя да продължи напред в шоуто.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/dejvid-milenov-olabilir-mojto-vsichko.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8703,15 +7843,7 @@ export const videosInfo: VideoResult  = {
           "Мойто всичко",
           "Deivid Milenov",
           "Moyto vsichko"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Дейвид Миленов – Olabilir, Мойто всичко | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Дейвид изпълни “Olabilir” на MERO и “Мойто всичко” на Sinan. За съжаление, Дейвид не успя да продължи напред в шоуто.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/dejvid-milenov-olabilir-mojto-vsichko.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 207739,
@@ -8728,7 +7860,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:39:30Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Венета Цонева – No Roots | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Венета Цонева – No Roots",
+        "fullTitle": "Венета Цонева – No Roots | Кастинги на тъмно | Гласът на България 2020",
         "description": "Венета изпълни песента “No Roots” на Alice Merton и си спечели място в отбора на Графа.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/veneta-coneva-no-roots.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8777,15 +7910,7 @@ export const videosInfo: VideoResult  = {
           "Veneta Tsoneva",
           "отбор Графа",
           "Grafa’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Венета Цонева – No Roots | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Венета изпълни песента “No Roots” на Alice Merton и си спечели място в отбора на Графа.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/veneta-coneva-no-roots.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 50636,
@@ -8802,7 +7927,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:28:54Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Шанти – Bella ciao | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Шанти – Bella ciao",
+        "fullTitle": "Шанти – Bella ciao | Кастинги на тъмно | Гласът на България 2020",
         "description": "Шанти е от Италия и изпълни народната италианска песен “Bella ciao”. Тя не успя да продължи напред в състезанието, но ѝ желаем никога да не спира да обича музиката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/shanti-bella-ciao.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8849,15 +7975,7 @@ export const videosInfo: VideoResult  = {
           "Шанти",
           "Bella ciao",
           "Shanti"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Шанти – Bella ciao | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Шанти е от Италия и изпълни народната италианска песен “Bella ciao”. Тя не успя да продължи напред в състезанието, но ѝ желаем никога да не спира да обича музиката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/shanti-bella-ciao.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 553361,
@@ -8874,7 +7992,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:26:27Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Ангел Проданов – Няма работа за хора като мен | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Ангел Проданов – Няма работа за хора като мен",
+        "fullTitle": "Ангел Проданов – Няма работа за хора като мен | Кастинги на тъмно | Гласът на България 2020",
         "description": "Ангел впечатли треньорите на Гласът на България с авторската си песен „Няма работа за хора като мен” и продължава напред в шоуто в отбора на Михаела.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/angel-prodanov-njama-rabota-za-hora-kato-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8924,15 +8043,7 @@ export const videosInfo: VideoResult  = {
           "Angel Prodanov",
           "Nyama rabota za hora kato men",
           "Mihaela’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Ангел Проданов – Няма работа за хора като мен | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Ангел впечатли треньорите на Гласът на България с авторската си песен „Няма работа за хора като мен” и продължава напред в шоуто в отбора на Михаела.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/angel-prodanov-njama-rabota-za-hora-kato-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 75822,
@@ -8949,7 +8060,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-22T18:10:00Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Трио \"Вива\" – Don’t let go | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Трио \"Вива\" – Don’t let go",
+        "fullTitle": "Трио \"Вива\" – Don’t let go | Кастинги на тъмно | Гласът на България 2020",
         "description": "Трио „Вива” отново покориха сцената на „Гласът на България“ с техния вариант на „Don’t let go” на En Vogue. Те избраха да бъдат в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/trio-viva-don-t-let-go.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -8998,15 +8110,7 @@ export const videosInfo: VideoResult  = {
           "Trio Viva",
           "отбор Графа",
           "Grafa’s Team"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Трио \"Вива\" – Don’t let go | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Трио „Вива” отново покориха сцената на „Гласът на България“ с техния вариант на „Don’t let go” на En Vogue. Те избраха да бъдат в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/trio-viva-don-t-let-go.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 211188,
@@ -9024,6 +8128,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-03-16T11:26:43Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -9064,15 +8169,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 12036,
@@ -9089,7 +8186,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T19:30:28Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Елена Сиракова – Is It A Crime | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Елена Сиракова – Is It A Crime",
+        "fullTitle": "Елена Сиракова – Is It A Crime | Кастинги на тъмно | Гласът на България 2020",
         "description": "Елена изпя прекрасно песента на Sade “Is It A Crime” и нейното страхотно изпълнение ѝ спечели място в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-is-it-a-crime.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9136,15 +8234,7 @@ export const videosInfo: VideoResult  = {
           "Елена Сиракова",
           "Sade",
           "отбор михаела филева"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Елена Сиракова – Is It A Crime | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Елена изпя прекрасно песента на Sade “Is It A Crime” и нейното страхотно изпълнение ѝ спечели място в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-sirakova-is-it-a-crime.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 124739,
@@ -9161,7 +8251,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T19:21:38Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алмир Исмаили – Rehab | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Алмир Исмаили – Rehab",
+        "fullTitle": "Алмир Исмаили – Rehab | Кастинги на тъмно | Гласът на България 2020",
         "description": "Алмир дойде от Северна Македония, за да изненада треньорите на \"Гласът на България\" с гласа си. Той изпълни песента „Rehab” на Amy Winehouse и продължи в отбора на Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/almir-ismaili-rehab.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9209,15 +8300,7 @@ export const videosInfo: VideoResult  = {
           "Алмир Исмаили",
           "Amy Winehouse",
           "Almir Ismaili"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алмир Исмаили – Rehab | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Алмир дойде от Северна Македония, за да изненада треньорите на \"Гласът на България\" с гласа си. Той изпълни песента „Rehab” на Amy Winehouse и продължи в отбора на Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/almir-ismaili-rehab.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 66982,
@@ -9234,7 +8317,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T19:12:51Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алмир Исмаили – Just Another Day | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Алмир Исмаили – Just Another Day",
+        "fullTitle": "Алмир Исмаили – Just Another Day | Кастинги на тъмно | Гласът на България 2020",
         "description": "Треньорите на \"Гласът на България\" пожелаха да чуят и акапелното изпълнение на Алмир на песента \"Just Another Day\" на Sam Cooke.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/almir-ismaili-rehab.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9282,15 +8366,7 @@ export const videosInfo: VideoResult  = {
           "Алмир Исмаили",
           "Almir Ismaili",
           "Sam Cooke"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алмир Исмаили – Just Another Day | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Треньорите на \"Гласът на България\" пожелаха да чуят и акапелното изпълнение на Алмир на песента \"Just Another Day\" на Sam Cooke.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/almir-ismaili-rehab.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 18000,
@@ -9307,7 +8383,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T19:05:10Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Боил Каранейчев – I Don’t Want To Be | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Боил Каранейчев – I Don’t Want To Be",
+        "fullTitle": "Боил Каранейчев – I Don’t Want To Be | Кастинги на тъмно | Гласът на България 2020",
         "description": "Боил изпълни парчето “I Don’t Want To Be” на Gavin DeGraw и продължи напред в отбора на Иван Лечев. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-karanejchev-i-do-not-want-to-be.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9354,15 +8431,7 @@ export const videosInfo: VideoResult  = {
           "Gavin DeGraw",
           "Боил Каранейчев",
           "Boil Karaneychev"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Боил Каранейчев – I Don’t Want To Be | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Боил изпълни парчето “I Don’t Want To Be” на Gavin DeGraw и продължи напред в отбора на Иван Лечев. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/boil-karanejchev-i-do-not-want-to-be.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 40539,
@@ -9379,7 +8448,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:58:03Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Жеко Жеков – Human | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Жеко Жеков – Human",
+        "fullTitle": "Жеко Жеков – Human | Кастинги на тъмно | Гласът на България 2020",
         "description": "Жеко изпълни своята версия на парчето “Human” на Rag'n'Bone Man. Той не успя да продължи напред в следващата фаза на шоуто, но му желаем много успех. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/zheko-zhekov-human.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9426,15 +8496,7 @@ export const videosInfo: VideoResult  = {
           "Zheko Zhekov",
           "Human",
           "Rag'n'Bone Man"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Жеко Жеков – Human | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Жеко изпълни своята версия на парчето “Human” на Rag'n'Bone Man. Той не успя да продължи напред в следващата фаза на шоуто, но му желаем много успех. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/zheko-zhekov-human.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 43981,
@@ -9451,7 +8513,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:46:40Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Мария Гогушева – Dusk Till Dawn | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Мария Гогушева – Dusk Till Dawn",
+        "fullTitle": "Мария Гогушева – Dusk Till Dawn | Кастинги на тъмно | Гласът на България 2020",
         "description": "Мария изпя песента “Dusk Till Dawn” на Zayn и Sia, с което си спечели желанието на четиримата треньори да бъде в отбора им. Тя избра да продължи в отбора на Камелия. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/marija-gogusheva-dusk-till-dawn.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9499,15 +8562,7 @@ export const videosInfo: VideoResult  = {
           "Mariya Gogusheva",
           "Zayn",
           "Sia"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Мария Гогушева – Dusk Till Dawn | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Мария изпя песента “Dusk Till Dawn” на Zayn и Sia, с което си спечели желанието на четиримата треньори да бъде в отбора им. Тя избра да продължи в отбора на Камелия. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/marija-gogusheva-dusk-till-dawn.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 114791,
@@ -9524,7 +8579,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:34:39Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Хуан Гузман – Tutu | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Хуан Гузман – Tutu",
+        "fullTitle": "Хуан Гузман – Tutu | Кастинги на тъмно | Гласът на България 2020",
         "description": "Хуан пристига от Еквадор, за да изпълни песента “Tutu” на Camilo и Pedro Capó в Гласът на България. Той не продължи напред в състезанието, но му желаем никога да не спира да обича музиката така.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/huan-guzman-tutu.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9571,15 +8627,7 @@ export const videosInfo: VideoResult  = {
           "Tutu",
           "Pedro Capó",
           "Camilo"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Хуан Гузман – Tutu | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Хуан пристига от Еквадор, за да изпълни песента “Tutu” на Camilo и Pedro Capó в Гласът на България. Той не продължи напред в състезанието, но му желаем никога да не спира да обича музиката така.  \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/huan-guzman-tutu.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 69108,
@@ -9596,7 +8644,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:28:12Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Николета Дойчева – Притури се планината | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Николета Дойчева – Притури се планината",
+        "fullTitle": "Николета Дойчева – Притури се планината | Кастинги на тъмно | Гласът на България 2020",
         "description": "Николета избра да изпълни българската народна песен „Притури се планината” и с нея разчувства треньорите. Тя продължава в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/nikoleta-dojcheva-prituri-se-planinata.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9644,15 +8693,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "Nikoleta Doycheva",
           "Prituri se planinata"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Николета Дойчева – Притури се планината | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Николета избра да изпълни българската народна песен „Притури се планината” и с нея разчувства треньорите. Тя продължава в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/nikoleta-dojcheva-prituri-se-planinata.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 161520,
@@ -9669,7 +8710,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:14:17Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Константин Къндев – Crawling | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Константин Къндев – Crawling",
+        "fullTitle": "Константин Къндев – Crawling | Кастинги на тъмно | Гласът на България 2020",
         "description": "Константин изпя песента “Crawling” на Linkin Park, но това не му помогна да продължи напред в шоуто. Желаем му много успехи в бъдеше.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/konstantin-kadev-crawling.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9714,15 +8756,7 @@ export const videosInfo: VideoResult  = {
           "кастинги на тъмно",
           "Crawling",
           "Константин Къндев"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Константин Къндев – Crawling | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Константин изпя песента “Crawling” на Linkin Park, но това не му помогна да продължи напред в шоуто. Желаем му много успехи в бъдеше.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/konstantin-kadev-crawling.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 37514,
@@ -9739,7 +8773,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-15T18:04:16Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристиана Атанасова – Mercy On Me | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Кристиана Атанасова – Mercy On Me",
+        "fullTitle": "Кристиана Атанасова – Mercy On Me | Кастинги на тъмно | Гласът на България 2020",
         "description": "Кристиана изуми треньорите с изпълнението си на песента “Mercy On Me” на Christina Aguilera. Тя избра да бъде в отбора на Михаела.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-atanasova-mercy-on-me.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9786,15 +8821,7 @@ export const videosInfo: VideoResult  = {
           "Christina Aguilera",
           "отбор михаела филева",
           "Kristiana Atanasova"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристиана Атанасова – Mercy On Me | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Кристиана изуми треньорите с изпълнението си на песента “Mercy On Me” на Christina Aguilera. Тя избра да бъде в отбора на Михаела.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristiana-atanasova-mercy-on-me.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 50559,
@@ -9812,6 +8839,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-03-09T14:54:39Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -9852,15 +8880,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\nTwitter - http://twitter.com/voiceofbulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 6135,
@@ -9877,7 +8897,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T19:38:45Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Георги Шопов – Fool for your loving | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Георги Шопов – Fool for your loving",
+        "fullTitle": "Георги Шопов – Fool for your loving | Кастинги на тъмно | Гласът на България 2020",
         "description": "Георги имаше намерението да бъде в отбора на Иван Лечев, но той бе блокиран, а останалите треньори продължиха да се борят за него. Георги избра да продължи в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/georgi-shopov-fool-for-your-loving.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9923,15 +8944,7 @@ export const videosInfo: VideoResult  = {
           "Georgi Shopov",
           "Георги Шопов",
           "Графа"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Георги Шопов – Fool for your loving | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Георги имаше намерението да бъде в отбора на Иван Лечев, но той бе блокиран, а останалите треньори продължиха да се борят за него. Георги избра да продължи в отбора на Графа.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/georgi-shopov-fool-for-your-loving.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 218996,
@@ -9948,7 +8961,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T19:33:30Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Рада Илиева – Истинските неща | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Рада Илиева – Истинските неща",
+        "fullTitle": "Рада Илиева – Истинските неща | Кастинги на тъмно | Гласът на България 2020",
         "description": "Треньорите на Гласът на България пожелаха да чуят авторското парче на Рада, а тя избра да продължи в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-istinskite-neshta.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -9995,15 +9009,7 @@ export const videosInfo: VideoResult  = {
           "Ivan Lechev",
           "Rada Ilieva",
           "Istinskite neshta"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Рада Илиева – Истинските неща | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Треньорите на Гласът на България пожелаха да чуят авторското парче на Рада, а тя избра да продължи в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-istinskite-neshta.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 31145,
@@ -10020,7 +9026,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T19:27:32Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Рада Илиева – По-полека | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Рада Илиева – По-полека",
+        "fullTitle": "Рада Илиева – По-полека | Кастинги на тъмно | Гласът на България 2020",
         "description": "Рада изпълни песента „По-полека”, в която участие взима и един от треньорите – Иван Лечев. Тя впечатли треньорите на Гласът на България и избра да продължи именно в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-po-poleka.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10067,15 +9074,7 @@ export const videosInfo: VideoResult  = {
           "Ivan Lechev",
           "Po-poleka",
           "Rada Ilieva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Рада Илиева – По-полека | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Рада изпълни песента „По-полека”, в която участие взима и един от треньорите – Иван Лечев. Тя впечатли треньорите на Гласът на България и избра да продължи именно в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/rada-ilieva-po-poleka.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 157697,
@@ -10092,7 +9091,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T19:20:25Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Давид Ангелов – Питаш за мен | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Давид Ангелов – Питаш за мен",
+        "fullTitle": "Давид Ангелов – Питаш за мен | Кастинги на тъмно | Гласът на България 2020",
         "description": "Давид не впечатли треньорите в Гласът на България и не продължи напред в шоуто. Надяваме се да го видим отново и му пожелаваме успех.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/david-angelov-pitash-za-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10137,15 +9137,7 @@ export const videosInfo: VideoResult  = {
           "Питаш за мен",
           "David Angelov",
           "Pitash za men"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Давид Ангелов – Питаш за мен | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Давид не впечатли треньорите в Гласът на България и не продължи напред в шоуто. Надяваме се да го видим отново и му пожелаваме успех.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/david-angelov-pitash-za-men.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 218469,
@@ -10162,7 +9154,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T19:10:39Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Рут-Констанс Койнарска – Mio babbino caro | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Рут-Констанс Койнарска – Mio babbino caro",
+        "fullTitle": "Рут-Констанс Койнарска – Mio babbino caro | Кастинги на тъмно | Гласът на България 2020",
         "description": "Рут силно изненада треньорите със своето изпълнение. Тя продължава в следващата фаза в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/rut-konstans-kojnarska-mio-babbino-caro.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10205,15 +9198,7 @@ export const videosInfo: VideoResult  = {
           "Audition",
           "Рут-Констанс Койнарска",
           "Mio babbino caro"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Рут-Констанс Койнарска – Mio babbino caro | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Рут силно изненада треньорите със своето изпълнение. Тя продължава в следващата фаза в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/rut-konstans-kojnarska-mio-babbino-caro.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 50032,
@@ -10230,7 +9215,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T18:55:35Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Омар Джафероски – Gromovi Na Dusa | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Омар Джафероски – Gromovi Na Dusa",
+        "fullTitle": "Омар Джафероски – Gromovi Na Dusa | Кастинги на тъмно | Гласът на България 2020",
         "description": "Омар се справи страхотно на сцената и продължи в следващата фаза в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/omar-dzhaferoski-gromovi-na-dusa.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10276,15 +9262,7 @@ export const videosInfo: VideoResult  = {
           "Omar Jaferoski",
           "Графа",
           "Grafa"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Омар Джафероски – Gromovi Na Dusa | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Омар се справи страхотно на сцената и продължи в следващата фаза в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/omar-dzhaferoski-gromovi-na-dusa.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 115657,
@@ -10301,7 +9279,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T18:40:11Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Румяна Радева – Confident | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Румяна Радева – Confident",
+        "fullTitle": "Румяна Радева – Confident | Кастинги на тъмно | Гласът на България 2020",
         "description": "Румяна изпълни своята версия на песента на Demi Lovato. Тя не продължи напред в състезанието. Пожелаваме ѝ да не спира да обича музиката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/rumjana-radeva-confident.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10346,15 +9325,7 @@ export const videosInfo: VideoResult  = {
           "Confident",
           "Demi Lovato",
           "Rumyana Radeva"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Румяна Радева – Confident | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Румяна изпълни своята версия на песента на Demi Lovato. Тя не продължи напред в състезанието. Пожелаваме ѝ да не спира да обича музиката. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/rumjana-radeva-confident.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 49742,
@@ -10371,7 +9342,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T18:35:34Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Светослав Георгиев – Too Close | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Светослав Георгиев – Too Close",
+        "fullTitle": "Светослав Георгиев – Too Close | Кастинги на тъмно | Гласът на България 2020",
         "description": "Светослав впечатли треньорите със своето изпълнение и избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svetoslav-georgiev-too-close.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10417,15 +9389,7 @@ export const videosInfo: VideoResult  = {
           "Svetoslav Georgiev",
           "Mihaela Fileva",
           "Михаела Филева"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Светослав Георгиев – Too Close | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Светослав впечатли треньорите със своето изпълнение и избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svetoslav-georgiev-too-close.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 70426,
@@ -10442,7 +9406,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T18:21:43Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Касандра Уарнес – Release Me | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Касандра Уарнес – Release Me",
+        "fullTitle": "Касандра Уарнес – Release Me | Кастинги на тъмно | Гласът на България 2020",
         "description": "Касандра е от Норвегия и избра да изпълни песен на Agnes на Кастингите на тъмно. Това обаче не ѝ помогна да продължи напред в шоуто, но ѝ пожелаваме много успехи в бъдеще. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/kasandra-uarnes-release-me.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10486,15 +9451,7 @@ export const videosInfo: VideoResult  = {
           "Касандра Уарнес",
           "Cassandra Warnes",
           "Release Me"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Касандра Уарнес – Release Me | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Касандра е от Норвегия и избра да изпълни песен на Agnes на Кастингите на тъмно. Това обаче не ѝ помогна да продължи напред в шоуто, но ѝ пожелаваме много успехи в бъдеще. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/videos/kasandra-uarnes-release-me.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 55343,
@@ -10511,7 +9468,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-08T18:13:30Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Петя Георгиева  – Българка, Да, Латино сеньорита | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Петя Георгиева  – Българка, Да, Латино сеньорита",
+        "fullTitle": "Петя Георгиева  – Българка, Да, Латино сеньорита | Кастинги на тъмно | Гласът на България 2020",
         "description": "Петя никога няма да забрави 18-ия си рожден ден, защото и четиримата треньори се обърнаха на нейния страхотен микс от песни. Тя продължава в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-georgieva-balgarka-da-latino-senyorita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10561,15 +9519,7 @@ export const videosInfo: VideoResult  = {
           "Българка",
           "Да",
           "Латино сеньорита"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Петя Георгиева  – Българка, Да, Латино сеньорита | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Петя никога няма да забрави 18-ия си рожден ден, защото и четиримата треньори се обърнаха на нейния страхотен микс от песни. Тя продължава в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/petja-georgieva-balgarka-da-latino-senyorita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 547847,
@@ -10587,6 +9537,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-03-04T08:06:54Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай #Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -10627,15 +9578,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай #Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледайте всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\n\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 8961,
@@ -10652,7 +9595,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T19:36:03Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Жечкова - Елмаз и стъкло | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Кристина Жечкова - Елмаз и стъкло",
+        "fullTitle": "Кристина Жечкова - Елмаз и стъкло | Кастинги на тъмно | Гласът на България 2020",
         "description": "Кристина е от Украйна. Тя изпълни своята прекрасна версия на българската песен „Елмаз и стъкло“. Кристина избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-zhechkova-elmaz-i-staklo.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10702,15 +9646,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Жечкова - Елмаз и стъкло | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Кристина е от Украйна. Тя изпълни своята прекрасна версия на българската песен „Елмаз и стъкло“. Кристина избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/kristina-zhechkova-elmaz-i-staklo.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 423207,
@@ -10727,7 +9663,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T19:25:17Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Павел и Мартин - Bodies | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Павел и Мартин - Bodies",
+        "fullTitle": "Павел и Мартин - Bodies | Кастинги на тъмно | Гласът на България 2020",
         "description": "Дуото Павел и Мартин накараха и четиримата треньори да се обърнат. Те избраха да бъдат в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/pavel-i-martin-bodies.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10776,15 +9713,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Павел и Мартин - Bodies | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Дуото Павел и Мартин накараха и четиримата треньори да се обърнат. Те избраха да бъдат в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/pavel-i-martin-bodies.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 356257,
@@ -10801,7 +9730,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T19:11:38Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Цветелина Лазова - I Got You | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Цветелина Лазова - I Got You",
+        "fullTitle": "Цветелина Лазова - I Got You | Кастинги на тъмно | Гласът на България 2020",
         "description": "Цветелина изуми журито и избра да продължи в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/cvetelina-lazova-i-got-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10850,15 +9780,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Цветелина Лазова - I Got You | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Цветелина изуми журито и избра да продължи в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/cvetelina-lazova-i-got-you.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 157488,
@@ -10875,7 +9797,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T19:07:41Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Джей Кърли - Calma | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Джей Кърли - Calma",
+        "fullTitle": "Джей Кърли - Calma | Кастинги на тъмно | Гласът на България 2020",
         "description": "Джей е от Доминиканската република. Той се явява в „Гласът на България“, за да покаже звука на Доминикана. Джей не продължава напред, но му пожелаваме много късмет.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/dzhej-karli-calma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10922,15 +9845,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Джей Кърли - Calma | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Джей е от Доминиканската република. Той се явява в „Гласът на България“, за да покаже звука на Доминикана. Джей не продължава напред, но му пожелаваме много късмет.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/dzhej-karli-calma.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 105319,
@@ -10947,7 +9862,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T19:03:46Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Алейна Александрова - Keep The Faith | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Алейна Александрова - Keep The Faith",
+        "fullTitle": "Алейна Александрова - Keep The Faith | Кастинги на тъмно | Гласът на България 2020",
         "description": "Алейна се справи страхотно на сцената с парчето „Keep The Faith“ и продължи в следващата фаза в отбора на Иван Лечев.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/alejna-aleksandrova-keep-the-faith.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -10996,15 +9912,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Алейна Александрова - Keep The Faith | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Алейна се справи страхотно на сцената с парчето „Keep The Faith“ и продължи в следващата фаза в отбора на Иван Лечев.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/alejna-aleksandrova-keep-the-faith.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 66782,
@@ -11021,7 +9929,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T18:42:56Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Илин Папазян - Redbone | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Илин Папазян - Redbone",
+        "fullTitle": "Илин Папазян - Redbone | Кастинги на тъмно | Гласът на България 2020",
         "description": "Илин силно впечатли журито със своето изпълнение и избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-redbone.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11070,15 +9979,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Илин Папазян - Redbone | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Илин силно впечатли журито със своето изпълнение и избра да бъде в отбора на Михаела Филева.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/ilin-papazjan-redbone.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 117156,
@@ -11095,7 +9996,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T18:30:19Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Леяна Лакроа - Issues | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Леяна Лакроа - Issues",
+        "fullTitle": "Леяна Лакроа - Issues | Кастинги на тъмно | Гласът на България 2020",
         "description": "Леяна изпълни песен на Джулия Майкълс, но това не ѝ помогна да продължи в шоуто. Пожелаваме ѝ много успех занапред. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/lejana-lakroa-issues.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11142,15 +10044,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Леяна Лакроа - Issues | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Леяна изпълни песен на Джулия Майкълс, но това не ѝ помогна да продължи в шоуто. Пожелаваме ѝ много успех занапред. \n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/lejana-lakroa-issues.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 48938,
@@ -11167,7 +10061,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-03-01T18:16:28Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Керана - Comeback | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Керана - Comeback",
+        "fullTitle": "Керана - Comeback | Кастинги на тъмно | Гласът на България 2020",
         "description": "Огън момичето Керана избра да отиде в отбора на всеизвестното огън момиче – Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-comeback.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11216,15 +10111,7 @@ export const videosInfo: VideoResult  = {
           "Кастинги на тъмно",
           "Гласът на България 2020",
           "The Voice of Bulgaria 2020"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Керана - Comeback | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Огън момичето Керана избра да отиде в отбора на всеизвестното огън момиче – Камелия. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kerana-comeback.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 190473,
@@ -11242,6 +10129,7 @@ export const videosInfo: VideoResult  = {
         "publishedAt": "2020-02-26T08:55:56Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Гледай Гласът на България в неделя от 20:00 по bTV",
+        "fullTitle": "Гледай Гласът на България в неделя от 20:00 по bTV",
         "description": "\"Гласът на България\" - гледай всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев",
         "thumbnails": {
           "default": {
@@ -11282,15 +10170,7 @@ export const videosInfo: VideoResult  = {
           "Голос",
           "Blind Auditions",
           "Audition"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Гледай Гласът на България в неделя от 20:00 по bTV",
-          "description": "\"Гласът на България\" - гледай всяка неделя от 20:00 по bTV!\r\n\r\nСледете ни, харесвайте и коментирайте в официалните канали на #ГласътНаБългария!\r\n\r\nОфициален сайт - http://glasat.btv.bg\r\nFacebook - http://www.facebook.com/Glasat\r\nYoutube - http://www.youtube.com/user/glasatbtv\r\nInstagram - https://www.instagram.com/glasatnabulgaria\r\n\r\nОткрийте ни и така -  #ГласътНаБългария #ОтборМихаела #ОтборКамелия #ОтборГрафа #ОтборЛечев"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 14424,
@@ -11307,7 +10187,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T19:31:20Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Калина Велковска – This World | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Калина Велковска – This World",
+        "fullTitle": "Калина Велковска – This World | Кастинги на тъмно | Гласът на България 2020",
         "description": "Чаровната македонка Калина предизвика с таланта си Камелия да блокира Графа. Въпреки битката на треньорите за нея, тя избра да е в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-this-world.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11353,15 +10234,7 @@ export const videosInfo: VideoResult  = {
           "кастинги на тъмно",
           "This World",
           "отбор иван лечев"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Калина Велковска – This World | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Чаровната македонка Калина предизвика с таланта си Камелия да блокира Графа. Въпреки битката на треньорите за нея, тя избра да е в отбора на Иван Лечев.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-ivan-lechev/kalina-velkovska-this-world.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 354714,
@@ -11378,7 +10251,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T19:29:34Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова - Не идвай | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Йоана Сашова - Не идвай",
+        "fullTitle": "Йоана Сашова - Не идвай | Кастинги на тъмно | Гласът на България 2020",
         "description": "Йоана впечатли треньорите и реши да изпее още една песен, която напълно разтопи сърцата им. Заслужено тя отиде в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-ne-idvaj.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11423,15 +10297,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "не идвай",
           "Йоана Сашова"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова - Не идвай | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Йоана впечатли треньорите и реши да изпее още една песен, която напълно разтопи сърцата им. Заслужено тя отиде в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-ne-idvaj.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 3522372,
@@ -11448,7 +10314,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T19:27:32Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Йоана Сашова – Feeling Good | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Йоана Сашова – Feeling Good",
+        "fullTitle": "Йоана Сашова – Feeling Good | Кастинги на тъмно | Гласът на България 2020",
         "description": "Йоана не позволява на трудностите да ѝ попречат и любовта ѝ към музиката ѝ помогна да продължи напред към следващия етап на шоуто. Тя е в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-feeling-good.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11494,15 +10361,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "Йоана Сашова",
           "отбор графа"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Йоана Сашова – Feeling Good | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Йоана не позволява на трудностите да ѝ попречат и любовта ѝ към музиката ѝ помогна да продължи напред към следващия етап на шоуто. Тя е в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/joana-sashova-feeling-good.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 618375,
@@ -11519,7 +10378,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T19:07:41Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Христо Василев – Пороци | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Христо Василев – Пороци",
+        "fullTitle": "Христо Василев – Пороци | Кастинги на тъмно | Гласът на България 2020",
         "description": "Христо изненада треньорите с неговото изпълнение и избра да бъде част от отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-poroci.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11565,15 +10425,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "кастинги на тъмно",
           "отбор камелия"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Христо Василев – Пороци | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Христо изненада треньорите с неговото изпълнение и избра да бъде част от отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/hristo-vasilev-poroci.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 194727,
@@ -11590,7 +10442,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:49:50Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Славчев - Pony | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Александър Славчев - Pony",
+        "fullTitle": "Александър Славчев - Pony | Кастинги на тъмно | Гласът на България 2020",
         "description": "Александър подпали сцената на \"Гласът на България\" и си спечели място в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-pony.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11636,15 +10489,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "Александър Славчев",
           "отбор графа"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Славчев - Pony | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Александър подпали сцената на \"Гласът на България\" и си спечели място в отбора на Графа.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleksandar-slavchev-pony.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 103039,
@@ -11661,7 +10506,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:41:54Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Памела Апси - Liar | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Памела Апси - Liar",
+        "fullTitle": "Памела Апси - Liar | Кастинги на тъмно | Гласът на България 2020",
         "description": "Памела изпя нейната версия на Liar на Camila Cabello. За съжаление, тя не продължи в следващите етапи на Гласът на България. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/pamela-apsi-liar.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11706,15 +10552,7 @@ export const videosInfo: VideoResult  = {
           "кастинги на тъмно",
           "сезон 7",
           "Liar"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Памела Апси - Liar | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Памела изпя нейната версия на Liar на Camila Cabello. За съжаление, тя не продължи в следващите етапи на Гласът на България. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/pamela-apsi-liar.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 73363,
@@ -11731,7 +10569,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:36:44Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Георгиев – Shivers | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Александър Георгиев – Shivers",
+        "fullTitle": "Александър Георгиев – Shivers | Кастинги на тъмно | Гласът на България 2020",
         "description": "След като Александър впечатли всички с прекрасното си изпълнение на романтичната песен на Ed Sheeran \"Thinking Out Loud\", треньорите настояха да чуят и негово авторско парче. А аплодисментите, които последваха, успяха истински да трогнат музиканта.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/aleksandar-georgiev-shivers.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11777,15 +10616,7 @@ export const videosInfo: VideoResult  = {
           "отбор михаела филева",
           "сезон 7",
           "Shivers"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Георгиев – Shivers | Кастинги на тъмно | Гласът на България 2020",
-          "description": "След като Александър впечатли всички с прекрасното си изпълнение на романтичната песен на Ed Sheeran \"Thinking Out Loud\", треньорите настояха да чуят и негово авторско парче. А аплодисментите, които последваха, успяха истински да трогнат музиканта.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/aleksandar-georgiev-shivers.html \nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 199928,
@@ -11802,7 +10633,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:27:01Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Александър Георгиев – Thinking Out Loud | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Александър Георгиев – Thinking Out Loud",
+        "fullTitle": "Александър Георгиев – Thinking Out Loud | Кастинги на тъмно | Гласът на България 2020",
         "description": "Александър изпя прекрасно романтичната песен на Ed Sheeran, но впечатли треньорите и със своето авторско парче. Заслужено си спечели място в отбора на Михаела. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/aleksandar-georgiev-thinking-out-loud.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11848,15 +10680,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "кастинги на тъмно",
           "Thinking Out Loud"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Александър Георгиев – Thinking Out Loud | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Александър изпя прекрасно романтичната песен на Ed Sheeran, но впечатли треньорите и със своето авторско парче. Заслужено си спечели място в отбора на Михаела. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/aleksandar-georgiev-thinking-out-loud.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 181512,
@@ -11873,7 +10697,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:21:11Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Валерия Василенко – Hearts Ain’t Gonna Lie | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Валерия Василенко – Hearts Ain’t Gonna Lie",
+        "fullTitle": "Валерия Василенко – Hearts Ain’t Gonna Lie | Кастинги на тъмно | Гласът на България 2020",
         "description": "Валерия се опита да впечатли треньорите на \"Гласът на България\" с песента \"Hearts Ain’t Gonna Lie\". За съжаление не продължи в шоуто, но без съмнение ѝ отива да бъде на тази сцена. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/valerija-vasilenko-hearts-aint-gonna-lie.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria",
         "thumbnails": {
           "default": {
@@ -11918,15 +10743,7 @@ export const videosInfo: VideoResult  = {
           "сезон 7",
           "Валерия Василенко",
           "Hearts Ain’t Gonna Lie"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Валерия Василенко – Hearts Ain’t Gonna Lie | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Валерия се опита да впечатли треньорите на \"Гласът на България\" с песента \"Hearts Ain’t Gonna Lie\". За съжаление не продължи в шоуто, но без съмнение ѝ отива да бъде на тази сцена. \n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/valerija-vasilenko-hearts-aint-gonna-lie.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 44075,
@@ -11943,7 +10760,8 @@ export const videosInfo: VideoResult  = {
       "snippet": {
         "publishedAt": "2020-02-23T18:09:53Z",
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "Кристина Дончева  – Хабиби | Кастинги на тъмно | Гласът на България 2020",
+        "title": "Кристина Дончева  – Хабиби",
+        "fullTitle": "Кристина Дончева  – Хабиби | Кастинги на тъмно | Гласът на България 2020",
         "description": "Кристина даде силен старт на сезона и си спечели място в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-habibi.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -11988,15 +10806,7 @@ export const videosInfo: VideoResult  = {
           "Хабиби",
           "Кристина Дончева",
           "сезон 7"
-        ],
-        "categoryId": "24",
-        "liveBroadcastContent": "none",
-        "defaultLanguage": "bg",
-        "localized": {
-          "title": "Кристина Дончева  – Хабиби | Кастинги на тъмно | Гласът на България 2020",
-          "description": "Кристина даде силен старт на сезона и си спечели място в отбора на Камелия.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-kameliq/kristina-doncheva-habibi.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/"
-        },
-        "defaultAudioLanguage": "bg"
+        ]
       },
       "statistics": {
         "viewCount": 694831,

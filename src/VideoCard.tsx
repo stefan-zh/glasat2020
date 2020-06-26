@@ -15,18 +15,20 @@ const useStyles = makeStyles({
 
 interface VideoCardProps {
   video: VideoResultItem,
-  catFn: (video: VideoResultItem) => string
+  metricsFn: (video: VideoResultItem) => string,
+  selectVideo: (video: VideoResultItem) => void
 }
 
 export const VideoCard = (props: VideoCardProps) => {
   const classes = useStyles();
   const video = props.video;
   const title = video.snippet.title;
-  const subtext = props.catFn(video);
+  const metrics = props.metricsFn(video);
+  const cardOnClick = () => props.selectVideo(video);
 
   return (
     <Card className={classes.root}>
-      <CardActionArea>      
+      <CardActionArea onClick={cardOnClick}>      
         <CardMedia
           component="img"
           alt={title}
@@ -38,7 +40,7 @@ export const VideoCard = (props: VideoCardProps) => {
             {video.snippet.title}
           </Typography>
           <Typography color="textSecondary">
-            {subtext}
+            {metrics}
           </Typography>
         </CardContent>
       </CardActionArea>

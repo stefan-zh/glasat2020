@@ -21,6 +21,7 @@
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-player": "^2.3.1",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3"
   },

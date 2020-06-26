@@ -1,15 +1,11 @@
 import * as React from 'react';
 import { createStyles, Theme, withStyles, WithStyles, useTheme  } from '@material-ui/core/styles';
 import { VideoResultItem } from './Types';
-import { Grid, IconButton } from '@material-ui/core';
+import { Dialog, Grid, IconButton, Typography, useMediaQuery } from '@material-ui/core';
 import { VideoCard } from './VideoCard';
 import ReactPlayer from 'react-player';
-import Dialog from '@material-ui/core/Dialog';
 import MuiDialogTitle from '@material-ui/core/DialogTitle';
 import MuiDialogContent from '@material-ui/core/DialogContent';
-// import CloseIcon from '@material-ui/icons/Close';
-import Typography from '@material-ui/core/Typography';
-import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 interface VideoListProps {
   videos: VideoResultItem[],
@@ -25,7 +21,7 @@ const styles = (theme: Theme) =>
     closeButton: {
       position: 'absolute',
       right: theme.spacing(1),
-      top: theme.spacing(1),
+      top: 0,
       color: theme.palette.grey[500],
     },
   });
@@ -43,7 +39,7 @@ const DialogTitle = withStyles(styles)((props: DialogTitleProps) => {
       <Typography variant="h6">{children}</Typography>
       {onClose ? (
         <IconButton aria-label="close" className={classes.closeButton} onClick={onClose}>
-          X
+          &#10005;
         </IconButton>
       ) : null}
     </MuiDialogTitle>
@@ -83,10 +79,11 @@ export const VideoList = (props: VideoListProps) => {
           {selectedVideo?.snippet.title}
         </DialogTitle>
         <DialogContent>
-          <ReactPlayer 
+          <ReactPlayer
             url={`https://www.youtube.com/watch?v=${selectedVideo?.id}`} 
             width='100%'
-            controls={true} />
+            controls={true}
+          />
         </DialogContent>
       </Dialog>
     </div>

@@ -18,7 +18,7 @@ export const Header = (props: HeaderProps) => {
     <Grid container spacing={5}>
       <Grid item xs={12}>
         <Typography variant="h5" align="center" className="title">
-          Топ изпълненията от Гласът на България 2020
+          Гласът на България 2020 в YouTube
         </Typography>
       </Grid>
       <Grid container xs={12} spacing={1} justify="center">

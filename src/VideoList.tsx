@@ -83,6 +83,14 @@ export const VideoList = (props: VideoListProps) => {
             url={`https://www.youtube.com/watch?v=${selectedVideo?.id}`} 
             width='100%'
             controls={true}
+            config={{
+              // YouTube embedded player parameters: https://developers.google.com/youtube/player_parameters#Parameters
+              youtube: { 
+                playerVars: { 
+                  modestbranding: 0 // show YouTube logo in player
+                }
+              }
+            }}
           />
         </DialogContent>
       </Dialog>

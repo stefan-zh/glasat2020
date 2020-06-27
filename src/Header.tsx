@@ -21,7 +21,7 @@ export const Header = (props: HeaderProps) => {
           Гласът на България 2020 в YouTube
         </Typography>
       </Grid>
-      <Grid container xs={12} spacing={1} justify="center">
+      <Grid container spacing={1} justify="center">
         <Grid item>
           <Typography variant="subtitle1">
             Сортирай по:

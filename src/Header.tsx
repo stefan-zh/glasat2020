@@ -24,7 +24,7 @@ export const Header = (props: HeaderProps) => {
       <Grid container spacing={1} justify="center">
         <Grid item>
           <Typography variant="subtitle1">
-            Сортирай по:
+            Подреди по:
           </Typography>
         </Grid>
         <Grid item>
@@ -34,6 +34,7 @@ export const Header = (props: HeaderProps) => {
           >
             <MenuItem value={1}>гледания на клип</MenuItem>
             <MenuItem value={2}>харесвания на клип</MenuItem>
+            <MenuItem value={3}>хронологичен ред</MenuItem>
           </Select>
         </Grid>
       </Grid>

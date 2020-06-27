@@ -4,6 +4,7 @@ import { VideoResultItem } from './Types';
 import { Container, Grid } from '@material-ui/core';
 import { Header } from './Header';
 import { VideoList } from './VideoList';
+import * as moment from 'moment';
 // import { fetchVideos } from './services';
 
 // selectors
@@ -12,6 +13,10 @@ const viewCountFn = (video: VideoResultItem) => {
 }
 const likeCountFn = (video: VideoResultItem) => {
   return `${video.statistics.likeCount.toLocaleString()} харесвания`;
+}
+const dateFn = (video: VideoResultItem) => {
+  const date = moment(video.snippet.publishedAt, moment.ISO_8601);
+  return date.format("D MMMM YYYY");
 }
 
 export const App = () => {
@@ -37,6 +42,14 @@ export const App = () => {
         setVideos(vds => [...vds.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)]);
         setMetricsFn(() => likeCountFn);
         break;
+      }
+      case 3: {
+        setVideos(vds => [...vds.sort((a, b) => {
+          const first = moment(a.snippet.publishedAt, moment.ISO_8601);
+          const second = moment(b.snippet.publishedAt, moment.ISO_8601);
+          return second.diff(first);
+        })]);
+        setMetricsFn(() => dateFn);
       }
     }
   }

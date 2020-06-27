@@ -1,8 +1,9 @@
 import * as React from 'react';
 import { videosInfo } from './videos-info';
 import { VideoResultItem } from './Types';
-import { Container, Grid } from '@material-ui/core';
+import { Container } from '@material-ui/core';
 import { Header } from './Header';
+import { Footer } from './Footer';
 import { VideoList } from './VideoList';
 import * as moment from 'moment';
 // import { fetchVideos } from './services';
@@ -56,14 +57,9 @@ export const App = () => {
 
   return (
     <Container maxWidth="lg">
-      <Grid container spacing={10}>
-        <Grid item xs={12}>
-          <Header sortFn={sortFn} />
-        </Grid>
-        <Grid item xs={12}>
-          <VideoList videos={videos} metricsFn={metricsFn} />
-        </Grid>
-      </Grid>
+      <Header sortFn={sortFn} />
+      <VideoList videos={videos} metricsFn={metricsFn} />
+      <Footer />
     </Container>
   );
 }

@@ -1,5 +1,11 @@
 import * as React from 'react';
-import { Typography, Select, MenuItem, Grid } from '@material-ui/core';
+import { makeStyles, Typography, Select, MenuItem, Grid } from '@material-ui/core';
+
+const useStyles = makeStyles({
+  header: {
+    margin: '30px 0 55px'
+  },
+});
 
 interface HeaderProps {
   sortFn: (val: number) => void
@@ -7,6 +13,7 @@ interface HeaderProps {
 
 export const Header = (props: HeaderProps) => {
   const [selectVal, setSelectVal] = React.useState<number>(1);
+  const classes = useStyles();
 
   const onSelect = (event: React.ChangeEvent<{ value: unknown }>) => {
     const selected = Number(event.target.value);
@@ -15,9 +22,9 @@ export const Header = (props: HeaderProps) => {
   }
 
   return (
-    <Grid container spacing={5}>
+    <Grid container spacing={5} className={classes.header}>
       <Grid item xs={12}>
-        <Typography variant="h5" align="center" className="title">
+        <Typography variant="h4" align="center">
           Гласът на България 2020 в YouTube
         </Typography>
       </Grid>

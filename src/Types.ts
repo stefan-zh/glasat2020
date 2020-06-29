@@ -1,11 +1,12 @@
 export interface VideoResult {
   kind: string,
   etag: string,
+  items: VideoResultItem[],
   pageInfo: {
     totalResults: number,
     resultsPerPage: number
   },
-  items: VideoResultItem[]
+  lastUpdatedAt: string
 }
 
 export interface VideoResultItem {
@@ -27,11 +28,13 @@ export interface VideoResultItem {
     channelTitle: string,
     tags: string[]
   },
-  statistics: {
-    viewCount: number,
-    likeCount: number,
-    dislikeCount: number,
-    favoriteCount: number,
-    commentCount: number
-  }
+  statistics: VideoStatistics
+}
+
+export interface VideoStatistics {
+  viewCount: number,
+  likeCount: number,
+  dislikeCount: number,
+  favoriteCount: number,
+  commentCount: number
 }

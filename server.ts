@@ -1,11 +1,16 @@
 import * as express from 'express';
 import * as http from 'http';
 import * as path from 'path';
+import * as moment from 'moment';
 import { google } from 'googleapis';
 import { videosInfo } from './videos-info';
+import { VideoStatistics, VideoResult } from './src/Types'
 
 const app = express();
 const server = new http.Server(app);
+
+// we'll use this variable to update it with latest statistics
+let videos: VideoResult = videosInfo;
 
 // Set up Google client
 const youtube = google.youtube({
@@ -13,6 +18,9 @@ const youtube = google.youtube({
   auth: 'AIzaSyAWDHgXePt72ygRKzozk_ZbMAPPcHgpOr0'
 });
 
+// To make the queries successfully, we need to set the Referer header.
+// The allowed Referer's are set in the developers console:
+// https://console.developers.google.com
 const ytOptions = {
   headers: {
     "Referer": "yt-glasat.herokuapp.com"
@@ -21,32 +29,43 @@ const ytOptions = {
 
 // asynchronous function to fetch statistics for all videos
 const fetchVideoStatistics = async () => {
-  const allIds = videosInfo.items.map((video) => video.id);
-  let nextPageToken = "";
+  const allIds = videos.items.map((video) => video.id);
+  const stats: {[id: string]: VideoStatistics} = {};
 
   // batch in 50s
-  // while (allIds.length) {
+  while (allIds.length) {
     const ids = allIds.splice(0, 50);
 
-    // fetch all videos separately
+    // fetch a batch of 50 videos
     const statisticsResp = await youtube.videos.list({
       part: ["statistics"],
       id: ids,
-      fields: "items(id,statistics),nextPageToken",
-      maxResults: 50,
-      pageToken: nextPageToken
+      fields: "items(id,statistics)",
+      maxResults: 50
     }, ytOptions);
-    nextPageToken = statisticsResp.data.nextPageToken || "";
-  // }
-  console.log(JSON.stringify(statisticsResp.data));
-  
-  
 
-  
-  // console.log(statisticsResp);
+    // save the video statistics in the proper format
+    for (const {id, statistics} of statisticsResp.data.items!) {
+      stats[id!.toString()] = {
+        viewCount: Number(statistics?.viewCount) || 0,
+        likeCount: Number(statistics?.likeCount) || 0,
+        dislikeCount: Number(statistics?.dislikeCount) || 0,
+        favoriteCount: Number(statistics?.favoriteCount) || 0,
+        commentCount: Number(statistics?.commentCount) || 0
+      };
+    }
+  }
+  return stats;
 }
 
-fetchVideoStatistics();
+// execute data fetch and update video data
+fetchVideoStatistics().then((stats: {[id: string]: VideoStatistics}) => {
+  videos.items = videos.items.map((video) => ({
+    ...video,
+    statistics: (video.id in stats) ? stats[video.id] : video.statistics
+  }));
+  videos.lastUpdatedAt = moment().toISOString();
+});
 
 // In production, we serve the contents from /dist
 // In dev, we use webpack-dev-server to serve the contents.
@@ -60,7 +79,7 @@ if (process.env.NODE_ENV === "production") {
 
 // данните от Гласът на България
 app.get('/videos', function (_req, res) {
-  res.send(videosInfo);
+  res.send(videos);
 });
 
 // the port is either dynamically assigned (on a service like Heroku)

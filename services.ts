@@ -1,6 +1,7 @@
 import { VideoResult, VideoResultItem } from './src/Types';
 
-const gapi = window.gapi;
+const gapi = (window as any).gapi;
+// const gapi = window.gapi; // when you place `gapi` in tsconfig compilerOptions.types
 const apiKey = 'AIzaSyAWDHgXePt72ygRKzozk_ZbMAPPcHgpOr0';
 const glasatChannel = 'UCdQohU_yE1l3Rby4SsTVdww';
 

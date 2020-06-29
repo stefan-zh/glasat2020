@@ -12,7 +12,6 @@
     "resolveJsonModule": true,
     "importHelpers": true,
     "types": [
-      "gapi",
       "node"
     ],
     "typeRoots": [

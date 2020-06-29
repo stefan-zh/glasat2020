@@ -36,6 +36,7 @@ export const App = () => {
   //   const names = [...videosInfo.items.reduce((acc: string[], video) => acc.concat(video.snippet.artists), [])];
   //   return [...new Set(names.sort())];
   // });
+  const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
   // https://medium.com/swlh/how-to-store-a-function-with-the-usestate-hook-in-react-8a88dd4eede1
   const [metricsFn, setMetricsFn] = React.useState<(video: VideoResultItem) => string>(() => viewCountFn)
 
@@ -45,11 +46,11 @@ export const App = () => {
       const resp = await axios.get('/videos');
       const videos: VideoResultItem[] = resp.data.items;
       setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
+      setLastUpdatedAt(resp.data.lastUpdatedAt);
       setIsLoading(false);
     }
     
     fetchVideos();
-    // window.gapi.load('client', fetchVideos);
   }, []);
 
   const sortFn = (order: number) => {
@@ -77,7 +78,7 @@ export const App = () => {
 
   return (
     <Container maxWidth="lg">
-      <Header sortFn={sortFn} />
+      <Header sortFn={sortFn} lastUpdatedAt={lastUpdatedAt} />
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>

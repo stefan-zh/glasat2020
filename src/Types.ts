@@ -17,6 +17,7 @@ export interface VideoResultItem {
     channelId: string,
     title: string,
     fullTitle: string,
+    artists: string[],
     description: string,
     thumbnails: {[key: string]: {
       url: string,

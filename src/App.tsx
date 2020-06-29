@@ -28,8 +28,8 @@ const dateFn = (video: VideoResultItem) => {
 
 export const App = () => {
   const classes = useStyles();
-  // the videos data from backend
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
+  // the videos data from backend
   const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
   // the artists' names
   // const [names] = React.useState<string[]>(() => {
@@ -42,7 +42,7 @@ export const App = () => {
   React.useEffect(() => {
     // fetch videos from backend
     const fetchVideos = async () => {
-      const resp = await axios.get('/data');
+      const resp = await axios.get('/videos');
       const videos: VideoResultItem[] = resp.data.items;
       setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
       setIsLoading(false);

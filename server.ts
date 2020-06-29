@@ -1,6 +1,7 @@
 import * as express from 'express';
 import * as http from 'http';
 import * as path from 'path';
+import { videosInfo } from './videos-info';
 
 const app = express();
 const server = new http.Server(app);
@@ -14,6 +15,11 @@ const server = new http.Server(app);
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, 'dist')));
 }
+
+// данните от Гласът на България
+app.get('/data', function (_req, res) {
+  res.send(videosInfo);
+});
 
 // the port is either dynamically assigned (on a service like Heroku)
 // or can be picked up from the constants

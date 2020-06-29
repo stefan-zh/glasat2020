@@ -1,4 +1,4 @@
-import { VideoResult } from './Types'
+import { VideoResult } from './src/Types'
 
 export const videosInfo: VideoResult  = {
   "kind": "",
@@ -768,7 +768,7 @@ export const videosInfo: VideoResult  = {
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Алекс Георгиев – Señorita",
         "fullTitle": "Алекс Георгиев – Señorita | Концерти | Гласът на България 2020",
-        "artists": ["Алекс Георгиев"],
+        "artists": ["Александър Георгиев"],
         "description": "Алекс от #ОтборГрафа замени футболната кариера с музикална и покори всички женски сърца в цялата страна с изпълнението си на песента „Señorita”.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-se-orita.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1119,7 +1119,7 @@ export const videosInfo: VideoResult  = {
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Свет Георгиев – Say Something",
         "fullTitle": "Свет Георгиев – Say Something | Концерти | Гласът на България 2020",
-        "artists": ["Свет Георгиев"],
+        "artists": ["Светослав Георгиев"],
         "description": "Свет от #ОтборМихаела извървява пътя си от футболния терен до музикалната сцена на „Гласът на България”, за да докаже с изпълнението си на песента „Say Something”, че заслужава да стигне до финал.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/svet-georgiev-say-something.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -1293,7 +1293,7 @@ export const videosInfo: VideoResult  = {
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Алекс Георгиев – I’m Not The Only One",
         "fullTitle": "Алекс Георгиев – I’m Not The Only One | Концерти | Гласът на България 2020",
-        "artists": ["Алекс Георгиев"],
+        "artists": ["Александър Георгиев"],
         "description": "Приключението, наречено „Гласът на България”, приключи за Алекс от #ОтборГрафа по време на #Нокаутите, но благодарение на зрителската кражба, той отново е на сцената, за да я взриви с изпълнението си на „I’m Not The Only One”.\n \nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-grafa/aleks-georgiev-i-m-not-the-only-one.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {
@@ -5328,7 +5328,7 @@ export const videosInfo: VideoResult  = {
         "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
         "title": "Елена vs Алекс – You are the reason",
         "fullTitle": "Елена vs Алекс – You are the reason | Вокални двубои | Гласът на България 2020",
-        "artists": ["Елена Сиракова", "Алекс Георгиев"],
+        "artists": ["Елена Сиракова", "Александър Георгиев"],
         "description": "Елена и Алекс изпълниха песента „You are the reason” в дуетния вариант на Calum Scott и Leona Lewis. Изборът беше труден за Михаела. Победител в битката стана Елена, а Графа открадна Алекс за неговия отбор.\n\nГледай цялото изпълнение и коментарите на треньорите тук: https://glasat.btv.bg/video/sezon-7/otbor-mihaela-fileva/elena-vs-aleks-you-are-the-reason.html\nГледай целия епизод тук: https://btvplus.bg/produkt/predavaniya/4584/glasat-na-balgarija\nПоследвай ни във Facebook: https://www.facebook.com/Glasat\nПоследвай ни в Instagram: https://www.instagram.com/glasatnabulgaria/",
         "thumbnails": {
           "default": {

@@ -1,12 +1,18 @@
 import * as React from 'react';
-import { videosInfo } from './videos-info';
+import axios from 'axios';
+import * as moment from 'moment';
 import { VideoResultItem } from './Types';
-import { Container } from '@material-ui/core';
+import { Container, CircularProgress } from '@material-ui/core';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
-import * as moment from 'moment';
-// import { fetchVideos } from './services';
+import { makeStyles } from '@material-ui/core/styles';
+
+const useStyles = makeStyles({
+  spinner: {
+    textAlign: 'center'
+  },
+});
 
 // selectors
 const viewCountFn = (video: VideoResultItem) => {
@@ -21,16 +27,30 @@ const dateFn = (video: VideoResultItem) => {
 }
 
 export const App = () => {
-  // state variables
-  const [videos, setVideos] = React.useState<VideoResultItem[]>(
-    [...videosInfo.items.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]
-  );
+  const classes = useStyles();
+  // the videos data from backend
+  const [isLoading, setIsLoading] = React.useState<boolean>(true);
+  const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
+  // the artists' names
+  // const [names] = React.useState<string[]>(() => {
+  //   const names = [...videosInfo.items.reduce((acc: string[], video) => acc.concat(video.snippet.artists), [])];
+  //   return [...new Set(names.sort())];
+  // });
   // https://medium.com/swlh/how-to-store-a-function-with-the-usestate-hook-in-react-8a88dd4eede1
   const [metricsFn, setMetricsFn] = React.useState<(video: VideoResultItem) => string>(() => viewCountFn)
 
   React.useEffect(() => {
+    // fetch videos from backend
+    const fetchVideos = async () => {
+      const resp = await axios.get('/data');
+      const videos: VideoResultItem[] = resp.data.items;
+      setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
+      setIsLoading(false);
+    }
+    
+    fetchVideos();
     // window.gapi.load('client', fetchVideos);
-  });
+  }, []);
 
   const sortFn = (order: number) => {
     switch (order) {
@@ -58,6 +78,10 @@ export const App = () => {
   return (
     <Container maxWidth="lg">
       <Header sortFn={sortFn} />
+      <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
+        <CircularProgress color="secondary" disableShrink={true} /> 
+      </div>
+      {/* {names.map((name) => (<p>{name}</p>))} */}
       <VideoList videos={videos} metricsFn={metricsFn} />
       <Footer />
     </Container>

@@ -1,4 +1,4 @@
-import { VideoResult, VideoResultItem } from './Types';
+import { VideoResult, VideoResultItem } from './src/Types';
 
 const gapi = window.gapi;
 const apiKey = 'AIzaSyAWDHgXePt72ygRKzozk_ZbMAPPcHgpOr0';
@@ -12,7 +12,7 @@ interface SearchResult {
 /**
  * Fetches the videos from YouTube
  */
-export const fetchVideos = async () => {
+export const fetchYouTubeVideos = async () => {
   await gapi.client.init({
     apiKey: apiKey,
     discoveryDocs: ['https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest']

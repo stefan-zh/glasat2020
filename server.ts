@@ -60,10 +60,9 @@ const fetchVideoStatistics = async () => {
 
 // execute data fetch and update video data
 fetchVideoStatistics().then((stats: {[id: string]: VideoStatistics}) => {
-  videos.items = videos.items.map((video) => ({
-    ...video,
-    statistics: (video.id in stats) ? stats[video.id] : video.statistics
-  }));
+  for (const video of videos.items) {
+    video.statistics = (video.id in stats) ? stats[video.id] : video.statistics
+  }
   videos.lastUpdatedAt = moment().toISOString();
 });
 

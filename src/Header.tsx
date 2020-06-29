@@ -3,7 +3,8 @@ import { makeStyles, Typography, Select, MenuItem, Grid } from '@material-ui/cor
 
 const useStyles = makeStyles({
   header: {
-    margin: '30px 0 55px'
+    marginTop: 30,
+    marginBottom: 55
   },
 });
 

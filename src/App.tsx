@@ -106,18 +106,13 @@ export const App = () => {
         break;
       }
       case 4: {
-        const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.likeCount - a.statistics.likeCount);
-        setArtistGroups(sortedGroups);
-        setMetricsFn(() => likeCountFn);
-        break;
-      }
-      case 5: {
         setVideos(vds => [...vds.sort((a, b) => {
           const first = moment(a.snippet.publishedAt, moment.ISO_8601);
           const second = moment(b.snippet.publishedAt, moment.ISO_8601);
           return second.diff(first);
         })]);
         setMetricsFn(() => dateFn);
+        break;
       }
     }
   }, [sortOrder]);
@@ -133,18 +128,20 @@ export const App = () => {
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>
-      {[3, 4].includes(sortOrder) && (
-        <Grid container justify="flex-start" spacing={2}>
-          {artistGroups.map((grouping) => (
-            <Grid key={grouping.name} item xs={12}>
-              <ArtistCard grouping={grouping} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
-            </Grid>
-          ))}
-        </Grid>
-      )}
-      {[1, 2, 5].includes(sortOrder) && (
-        <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
-      )}
+      <div>
+        {sortOrder === 3 && (
+          <Grid container justify="flex-start" spacing={2}>
+            {artistGroups.map((grouping) => (
+              <Grid key={grouping.name} item xs={12}>
+                <ArtistCard grouping={grouping} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
+              </Grid>
+            ))}
+          </Grid>
+        )}
+        {[1, 2, 4].includes(sortOrder) && (
+          <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
+        )}
+      </div>
       <Footer />
       <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </Container>

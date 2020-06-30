@@ -53,8 +53,7 @@ export const Header = (props: HeaderProps) => {
             <MenuItem value={1}>гледания на клип</MenuItem>
             <MenuItem value={2}>харесвания на клип</MenuItem>
             <MenuItem value={3}>гледания на изпълнител</MenuItem>
-            <MenuItem value={4}>харесвания на изпълнител</MenuItem>
-            <MenuItem value={5}>хронологичен ред</MenuItem>
+            <MenuItem value={4}>хронологичен ред</MenuItem>
           </Select>
         </Grid>
       </Grid>

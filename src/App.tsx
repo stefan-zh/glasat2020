@@ -2,7 +2,7 @@ import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
-import { Container, CircularProgress } from '@material-ui/core';
+import { Container, CircularProgress, Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import { Header } from './Header';
 import { Footer } from './Footer';
@@ -95,7 +95,7 @@ export const App = () => {
         }, {});
         const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
         setArtistGroups(sortedGroups);
-        console.log(sortedGroups);
+        setMetricsFn(() => viewCountFn);
         break;
       }
       case 4: {
@@ -123,9 +123,18 @@ export const App = () => {
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>
-      {artistGroups.length > 0 && (<ArtistCard grouping={artistGroups[0]} metricsFn={metricsFn} selectVideo={setSelectedVideo} />)}
-      {/* {names.map((name) => (<p>{name}</p>))} */}
-      <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
+      {[3, 4].includes(sortOrder) && (
+        <Grid container justify="flex-start" spacing={2}>
+          {artistGroups.map((grouping) => (
+            <Grid key={grouping.name} item xs={12}>
+              <ArtistCard grouping={grouping} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
+            </Grid>
+          ))}
+        </Grid>
+      )}
+      {[1, 2, 5].includes(sortOrder) && (
+        <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
+      )}
       <Footer />
       <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </Container>

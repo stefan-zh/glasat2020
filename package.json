@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start:dev": "webpack-dev-server --http --mode development --env development",
-    "start": "node -r ts-node/register/transpile-only ./server.ts",
+    "start": "node -r ts-node/register ./server.ts",
     "build": "webpack --mode production --env production"
   },
   "author": "",

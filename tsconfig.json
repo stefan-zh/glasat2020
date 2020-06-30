@@ -10,7 +10,6 @@
     "jsx": "react",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "importHelpers": true,
     "types": [
       "node"
     ],

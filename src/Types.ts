@@ -42,8 +42,5 @@ export interface VideoStatistics {
 export interface ArtistGrouping {
   name: string,
   videos: VideoResultItem[],
-  statistics: {
-    viewCount: number,
-    likeCount: number
-  }
+  statistics: VideoStatistics
 }

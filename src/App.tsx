@@ -1,13 +1,14 @@
 import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
-import { VideoResultItem, ArtistGrouping } from './Types';
+import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
 import { Container, CircularProgress } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
 import { VideoDialog } from './VideoDialog';
+import { ArtistCard } from './ArtistCard';
 
 const useStyles = makeStyles({
   spinner: {
@@ -16,14 +17,14 @@ const useStyles = makeStyles({
 });
 
 // selectors
-const viewCountFn = (video: VideoResultItem) => {
-  return `${video.statistics.viewCount.toLocaleString()} гледания`;
+const viewCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
+  return `${item.statistics.viewCount.toLocaleString()} гледания`;
 }
-const likeCountFn = (video: VideoResultItem) => {
-  return `${video.statistics.likeCount.toLocaleString()} харесвания`;
+const likeCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
+  return `${item.statistics.likeCount.toLocaleString()} харесвания`;
 }
-const dateFn = (video: VideoResultItem) => {
-  const date = moment(video.snippet.publishedAt, moment.ISO_8601);
+const dateFn = (item: VideoResultItem) => {
+  const date = moment(item.snippet.publishedAt, moment.ISO_8601);
   return date.format("D MMMM YYYY");
 }
 
@@ -42,7 +43,7 @@ export const App = () => {
   // });
   const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
   // https://medium.com/swlh/how-to-store-a-function-with-the-usestate-hook-in-react-8a88dd4eede1
-  const [metricsFn, setMetricsFn] = React.useState<(video: VideoResultItem) => string>(() => viewCountFn)
+  const [metricsFn, setMetricsFn] = React.useState<(item: any) => string>(() => viewCountFn)
 
   React.useEffect(() => {
     // fetch videos from backend
@@ -83,7 +84,10 @@ export const App = () => {
               videos: videos,
               statistics: {
                 viewCount: viewCount,
-                likeCount: likeCount
+                likeCount: likeCount,
+                dislikeCount: 0,
+                favoriteCount: 0,
+                commentCount: 0
               }
             }
           }
@@ -119,6 +123,7 @@ export const App = () => {
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>
+      {artistGroups.length > 0 && (<ArtistCard grouping={artistGroups[0]} metricsFn={metricsFn} selectVideo={setSelectedVideo} />)}
       {/* {names.map((name) => (<p>{name}</p>))} */}
       <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
       <Footer />

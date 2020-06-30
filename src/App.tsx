@@ -50,8 +50,7 @@ export const App = () => {
       const videos: VideoResultItem[] = resp.data.items;
 
       // set the videos from the backend sorted by viewCount
-      setVideos(videos);
-      setSortOrder(1);
+      setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
 
       // set the videos grouped by artist
       const byArtist = videos.reduce((acc: {[name: string]: ArtistGrouping}, video: VideoResultItem) => {

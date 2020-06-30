@@ -1,7 +1,7 @@
 import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
-import { VideoResultItem } from './Types';
+import { VideoResultItem, ArtistGrouping } from './Types';
 import { Container, CircularProgress } from '@material-ui/core';
 import { Header } from './Header';
 import { Footer } from './Footer';
@@ -31,7 +31,8 @@ export const App = () => {
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
   // the videos data from backend
   const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
-  // the artists' names
+  // the videos grouped by artist
+  const [artistGroups, setArtistGroups] = React.useState<ArtistGrouping[]>([]);
   // const [names] = React.useState<string[]>(() => {
   //   const names = [...videosInfo.items.reduce((acc: string[], video) => acc.concat(video.snippet.artists), [])];
   //   return [...new Set(names.sort())];
@@ -56,16 +57,41 @@ export const App = () => {
   const sortFn = (order: number) => {
     switch (order) {
       case 1: {
-        setVideos(vds => [...vds.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
+        setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
         setMetricsFn(() => viewCountFn);
         break;
       }
       case 2: {
-        setVideos(vds => [...vds.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)]);
+        setVideos([...videos.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)]);
         setMetricsFn(() => likeCountFn);
         break;
       }
       case 3: {
+        const byArtist = videos.reduce((acc: {[name: string]: ArtistGrouping}, video: VideoResultItem) => {
+          for (const name of video.snippet.artists) {
+            const videos = (name in acc) ? [...acc[name].videos, video] : [video];
+            const viewCount = (acc[name]?.statistics.viewCount || 0) + video.statistics.viewCount;
+            const likeCount = (acc[name]?.statistics.likeCount || 0) + video.statistics.likeCount;
+            acc[name] = {
+              name: name,
+              videos: videos,
+              statistics: {
+                viewCount: viewCount,
+                likeCount: likeCount
+              }
+            }
+          }
+          return acc;
+        }, {});
+        const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
+        setArtistGroups(sortedGroups);
+        console.log(sortedGroups);
+        break;
+      }
+      case 4: {
+        break;
+      }
+      case 5: {
         setVideos(vds => [...vds.sort((a, b) => {
           const first = moment(a.snippet.publishedAt, moment.ISO_8601);
           const second = moment(b.snippet.publishedAt, moment.ISO_8601);

@@ -6,10 +6,9 @@ import axios from 'axios';
 import { videosInfo } from './videos-info';
 import { VideoStatistics, VideoResult } from './src/Types'
 
-const API_KEY = "AIzaSyAWDHgXePt72ygRKzozk_ZbMAPPcHgpOr0";
-
 const app = express();
 const server = new http.Server(app);
+const API_KEY = "AIzaSyAWDHgXePt72ygRKzozk_ZbMAPPcHgpOr0";
 
 // we'll use this variable to update it with latest statistics
 let videos: VideoResult = videosInfo;

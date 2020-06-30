@@ -38,3 +38,12 @@ export interface VideoStatistics {
   favoriteCount: number,
   commentCount: number
 }
+
+export interface ArtistGrouping {
+  name: string,
+  videos: VideoResultItem[],
+  statistics: {
+    viewCount: number,
+    likeCount: number
+  }
+}

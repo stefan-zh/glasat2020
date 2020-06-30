@@ -3,10 +3,11 @@ import axios from 'axios';
 import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping } from './Types';
 import { Container, CircularProgress } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
-import { makeStyles } from '@material-ui/core/styles';
+import { VideoDialog } from './VideoDialog';
 
 const useStyles = makeStyles({
   spinner: {
@@ -29,10 +30,12 @@ const dateFn = (video: VideoResultItem) => {
 export const App = () => {
   const classes = useStyles();
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
+  const [sortOrder, setSortOrder] = React.useState<number>(1);
   // the videos data from backend
   const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
   // the videos grouped by artist
   const [artistGroups, setArtistGroups] = React.useState<ArtistGrouping[]>([]);
+  const [selectedVideo, setSelectedVideo] = React.useState<VideoResultItem | null>(null);
   // const [names] = React.useState<string[]>(() => {
   //   const names = [...videosInfo.items.reduce((acc: string[], video) => acc.concat(video.snippet.artists), [])];
   //   return [...new Set(names.sort())];
@@ -54,8 +57,11 @@ export const App = () => {
     fetchVideos();
   }, []);
 
-  const sortFn = (order: number) => {
-    switch (order) {
+  /**
+   * Changes the UI based on the selected sort order
+   */
+  React.useEffect(() => {
+    switch (sortOrder) {
       case 1: {
         setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
         setMetricsFn(() => viewCountFn);
@@ -100,17 +106,23 @@ export const App = () => {
         setMetricsFn(() => dateFn);
       }
     }
-  }
+  }, [sortOrder]);
+
+  /**
+   * Closes the Video Dialog
+   */
+  const closeDialog = () => setSelectedVideo(null);
 
   return (
     <Container maxWidth="lg">
-      <Header sortFn={sortFn} lastUpdatedAt={lastUpdatedAt} />
+      <Header sortFn={setSortOrder} lastUpdatedAt={lastUpdatedAt} />
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>
       {/* {names.map((name) => (<p>{name}</p>))} */}
-      <VideoList videos={videos} metricsFn={metricsFn} />
+      <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
       <Footer />
+      <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </Container>
   );
 }

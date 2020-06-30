@@ -32,25 +32,51 @@ export const App = () => {
   const classes = useStyles();
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
   const [sortOrder, setSortOrder] = React.useState<number>(1);
-  // the videos data from backend
+  // native data objects
   const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
-  // the videos grouped by artist
+  const [byArtist, setByArtist] = React.useState<{[name: string]: ArtistGrouping}>({});
+  const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
+  // produced data objects
   const [artistGroups, setArtistGroups] = React.useState<ArtistGrouping[]>([]);
   const [selectedVideo, setSelectedVideo] = React.useState<VideoResultItem | null>(null);
-  // const [names] = React.useState<string[]>(() => {
-  //   const names = [...videosInfo.items.reduce((acc: string[], video) => acc.concat(video.snippet.artists), [])];
-  //   return [...new Set(names.sort())];
-  // });
-  const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
   // https://medium.com/swlh/how-to-store-a-function-with-the-usestate-hook-in-react-8a88dd4eede1
   const [metricsFn, setMetricsFn] = React.useState<(item: any) => string>(() => viewCountFn)
 
+  /**
+   * Fetches the video data from the backend and sets the data objects 
+   */
   React.useEffect(() => {
     // fetch videos from backend
     const fetchVideos = async () => {
       const resp = await axios.get('/videos');
       const videos: VideoResultItem[] = resp.data.items;
+
+      // set the videos from the backend sorted by viewCount
       setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
+
+      // set the videos grouped by artist
+      const byArtist = videos.reduce((acc: {[name: string]: ArtistGrouping}, video: VideoResultItem) => {
+        for (const name of video.snippet.artists) {
+          const videos = (name in acc) ? [...acc[name].videos, video] : [video];
+          const viewCount = (acc[name]?.statistics.viewCount || 0) + video.statistics.viewCount;
+          const likeCount = (acc[name]?.statistics.likeCount || 0) + video.statistics.likeCount;
+          acc[name] = {
+            name: name,
+            videos: videos,
+            statistics: {
+              viewCount: viewCount,
+              likeCount: likeCount,
+              dislikeCount: 0,
+              favoriteCount: 0,
+              commentCount: 0
+            }
+          }
+        }
+        return acc;
+      }, {});
+      setByArtist(byArtist);
+
+      // set lastUpdated and clear loading
       setLastUpdatedAt(resp.data.lastUpdatedAt);
       setIsLoading(false);
     }
@@ -74,31 +100,15 @@ export const App = () => {
         break;
       }
       case 3: {
-        const byArtist = videos.reduce((acc: {[name: string]: ArtistGrouping}, video: VideoResultItem) => {
-          for (const name of video.snippet.artists) {
-            const videos = (name in acc) ? [...acc[name].videos, video] : [video];
-            const viewCount = (acc[name]?.statistics.viewCount || 0) + video.statistics.viewCount;
-            const likeCount = (acc[name]?.statistics.likeCount || 0) + video.statistics.likeCount;
-            acc[name] = {
-              name: name,
-              videos: videos,
-              statistics: {
-                viewCount: viewCount,
-                likeCount: likeCount,
-                dislikeCount: 0,
-                favoriteCount: 0,
-                commentCount: 0
-              }
-            }
-          }
-          return acc;
-        }, {});
         const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
         setArtistGroups(sortedGroups);
         setMetricsFn(() => viewCountFn);
         break;
       }
       case 4: {
+        const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.likeCount - a.statistics.likeCount);
+        setArtistGroups(sortedGroups);
+        setMetricsFn(() => likeCountFn);
         break;
       }
       case 5: {

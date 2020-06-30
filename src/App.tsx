@@ -37,10 +37,8 @@ export const App = () => {
   const [byArtist, setByArtist] = React.useState<{[name: string]: ArtistGrouping}>({});
   const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
   // produced data objects
-  const [artistGroups, setArtistGroups] = React.useState<ArtistGrouping[]>([]);
   const [selectedVideo, setSelectedVideo] = React.useState<VideoResultItem | null>(null);
-  // https://medium.com/swlh/how-to-store-a-function-with-the-usestate-hook-in-react-8a88dd4eede1
-  const [metricsFn, setMetricsFn] = React.useState<(item: any) => string>(() => viewCountFn)
+  const [body, setBody] = React.useState<JSX.Element | undefined>();
 
   /**
    * Fetches the video data from the backend and sets the data objects 
@@ -52,7 +50,8 @@ export const App = () => {
       const videos: VideoResultItem[] = resp.data.items;
 
       // set the videos from the backend sorted by viewCount
-      setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
+      setVideos(videos);
+      setSortOrder(1);
 
       // set the videos grouped by artist
       const byArtist = videos.reduce((acc: {[name: string]: ArtistGrouping}, video: VideoResultItem) => {
@@ -76,8 +75,9 @@ export const App = () => {
       }, {});
       setByArtist(byArtist);
 
-      // set lastUpdated and clear loading
+      // set lastUpdated, the body and clear loading
       setLastUpdatedAt(resp.data.lastUpdatedAt);
+      setBody(() => (<VideoList videos={videos} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />));
       setIsLoading(false);
     }
     
@@ -90,28 +90,35 @@ export const App = () => {
   React.useEffect(() => {
     switch (sortOrder) {
       case 1: {
-        setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
-        setMetricsFn(() => viewCountFn);
+        const sortedVideos = [...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />));
         break;
       }
       case 2: {
-        setVideos([...videos.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)]);
-        setMetricsFn(() => likeCountFn);
+        const sortedVideos = [...videos.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)];
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={likeCountFn} selectVideo={setSelectedVideo} />));
         break;
       }
       case 3: {
         const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
-        setArtistGroups(sortedGroups);
-        setMetricsFn(() => viewCountFn);
+        setBody(() => (
+          <Grid container justify="flex-start" spacing={2}>
+            {sortedGroups.map((grouping) => (
+              <Grid key={grouping.name} item xs={12}>
+                <ArtistCard grouping={grouping} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />
+              </Grid>
+            ))}
+          </Grid>
+        ));
         break;
       }
       case 4: {
-        setVideos(vds => [...vds.sort((a, b) => {
+        const sortedVideos = [...videos.sort((a, b) => {
           const first = moment(a.snippet.publishedAt, moment.ISO_8601);
           const second = moment(b.snippet.publishedAt, moment.ISO_8601);
           return second.diff(first);
-        })]);
-        setMetricsFn(() => dateFn);
+        })];
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={dateFn} selectVideo={setSelectedVideo} />));
         break;
       }
     }
@@ -128,20 +135,7 @@ export const App = () => {
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
       </div>
-      <div>
-        {sortOrder === 3 && (
-          <Grid container justify="flex-start" spacing={2}>
-            {artistGroups.map((grouping) => (
-              <Grid key={grouping.name} item xs={12}>
-                <ArtistCard grouping={grouping} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
-              </Grid>
-            ))}
-          </Grid>
-        )}
-        {[1, 2, 4].includes(sortOrder) && (
-          <VideoList videos={videos} metricsFn={metricsFn} selectVideo={setSelectedVideo} />
-        )}
-      </div>
+      {body}
       <Footer />
       <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </Container>

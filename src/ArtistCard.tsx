@@ -52,6 +52,7 @@ interface ArtistCardProps {
 
 export const ArtistCard = ({grouping, metricsFn, selectVideo}: ArtistCardProps) => {
   const {name, videos} = {...grouping};
+  const sortedVideos = videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
   const metrics = metricsFn(grouping);
 
   return (
@@ -59,7 +60,7 @@ export const ArtistCard = ({grouping, metricsFn, selectVideo}: ArtistCardProps) 
       <CardHeader title={name} subheader={metrics} />
       <CardContent>
         <Grid container justify="flex-start" spacing={2}>
-          {videos.map((video) => (
+          {sortedVideos.map((video) => (
             <Grid key={video.id} item>
               <ThumbnailCard video={video} selectVideo={selectVideo} />
             </Grid>

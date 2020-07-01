@@ -17,7 +17,7 @@ let videos: VideoResult = videosInfo;
 // The allowed Referer's are set in the developers console:
 // https://console.developers.google.com
 const headers = {
-  "Referer": "yt-glasat.herokuapp.com"
+  "Referer": "glasat2020.herokuapp.com"
 }
 
 // asynchronous function to fetch statistics for all videos

@@ -6,54 +6,6 @@ export const videosInfo: VideoResult  = {
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "vVswW87wnzhU_TohLhC8BfVD44I",
-      "id": "CqCIBZHeZqE",
-      "snippet": {
-        "publishedAt": "2020-06-14T20:40:55Z",
-        "channelId": "UCdQohU_yE1l3Rby4SsTVdww",
-        "title": "ФИНАЛЪТ в 360˚ - Гласът на България",
-        "fullTitle": "ФИНАЛЪТ в 360˚ - Гласът на България",
-        "artists": ["Гласът на България"],
-        "description": "Навигацията на картината на компютър става с мишката или със стрелките на клавиатурата, а на таблет и телефон с пръсти или с движение на екрана в пространството. Максималното качество на картината е 4К. Бихте могли да му се насладите дори и през мобилно устройство с достатъчно добра интернет връзка. Качеството на стрийма по подразбиране стартира с автоматични настройки съобразно качеството на вашата интернет връзка. Можете да опитате го смените с по-високо от контролите на плеъра - Settings  ⚙️- Quality.\n\nАко имате VR очила под ръка, ви съветваме да ги използате, за да се потопите в 360-градусовото преживяване на финалната битка за титлата „глас на България“.\n\n360 live stream provided by 5th Degree - www.5th-degree.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/CqCIBZHeZqE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/CqCIBZHeZqE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/CqCIBZHeZqE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Гласът на България",
-        "tags": [
-          "гласът на българия",
-          "the voice of bulgaria",
-          "The Voice",
-          "La Voz",
-          "La Voix",
-          "Vocea",
-          "O Ses",
-          "Голос"
-        ]
-      },
-      "statistics": {
-        "viewCount": 54799,
-        "likeCount": 743,
-        "dislikeCount": 70,
-        "favoriteCount": 0,
-        "commentCount": 73
-      }
-    },
-    {
-      "kind": "youtube#video",
       "etag": "wkAa2RI55gYTBRjGdCpGxQWVuoY",
       "id": "WnVAkK876rA",
       "snippet": {
@@ -10988,8 +10940,8 @@ export const videosInfo: VideoResult  = {
     }
   ],
   "pageInfo": {
-    "totalResults": 170,
-    "resultsPerPage": 170
+    "totalResults": 169,
+    "resultsPerPage": 169
   },
   "lastUpdatedAt": "2020-06-24T12:07:55Z"
 };

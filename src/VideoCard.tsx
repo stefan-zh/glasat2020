@@ -4,7 +4,7 @@ import { Card, CardActionArea, CardContent, CardMedia, makeStyles, Typography } 
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 345,
+    width: 345,
   },
 });
 

@@ -4,7 +4,7 @@ import { ArtistGrouping, VideoResultItem } from './Types';
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 135,
+    width: 135,
   },
 });
 

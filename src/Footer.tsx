@@ -13,7 +13,7 @@ export const Footer = () => {
   return (
     <div className={classes.footer}>
       <Typography variant="subtitle1" color="textSecondary">
-        © 2020 Автор <Link href="https://stefan-zh.github.io" variant="subtitle1" color="inherit" underline="always" target="_blank">Стефан Желязков</Link>.
+        © 2020 Автор <Link href="https://www.stefanzh.com" variant="subtitle1" color="inherit" underline="always" target="_blank">Стефан Желязков</Link>.
       </Typography>
       <Typography variant="subtitle1" color="textSecondary">
         Гласът на България е запазена търговска марка на "БТВ Медиа Груп" ЕAД.

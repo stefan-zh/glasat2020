@@ -87,6 +87,9 @@ export const App = () => {
    * Changes the UI based on the selected sort order
    */
   React.useEffect(() => {
+    if (videos.length < 1) {
+      return
+    }
     switch (sortOrder) {
       case 1: {
         const sortedVideos = [...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]
@@ -121,7 +124,7 @@ export const App = () => {
         break;
       }
     }
-  }, [sortOrder]);
+  }, [sortOrder, videos]);
 
   /**
    * Closes the Video Dialog

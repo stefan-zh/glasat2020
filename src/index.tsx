@@ -4,8 +4,8 @@ import { App } from './App';
 import * as moment from 'moment';
 import 'moment/locale/bg';
 
-// използвай български
-moment.locale("bg");
+// import custom CSS styles
+import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>

@@ -2,7 +2,7 @@ import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
-import { Container, CircularProgress, Grid } from '@material-ui/core';
+import { CircularProgress, Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import { Header } from './Header';
 import { Footer } from './Footer';
@@ -132,7 +132,7 @@ export const App = () => {
   const closeDialog = () => setSelectedVideo(null);
 
   return (
-    <Container maxWidth="lg">
+    <div id="container">
       <Header sortFn={setSortOrder} lastUpdatedAt={lastUpdatedAt} />
       <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
         <CircularProgress color="secondary" disableShrink={true} /> 
@@ -140,6 +140,6 @@ export const App = () => {
       {body}
       <Footer />
       <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
-    </Container>
+    </div>
   );
 }

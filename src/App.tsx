@@ -2,19 +2,13 @@ import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
-import { CircularProgress, Grid } from '@material-ui/core';
-import { makeStyles } from '@material-ui/core/styles';
+import { Grid } from '@material-ui/core';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
 import { VideoDialog } from './VideoDialog';
 import { ArtistCard } from './ArtistCard';
 
-const useStyles = makeStyles({
-  spinner: {
-    textAlign: 'center'
-  },
-});
 
 // selectors
 const viewCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
@@ -29,7 +23,6 @@ const dateFn = (item: VideoResultItem) => {
 }
 
 export const App = () => {
-  const classes = useStyles();
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
   const [sortOrder, setSortOrder] = React.useState<number>(1);
   // native data objects
@@ -134,10 +127,7 @@ export const App = () => {
   return (
     <div id="container">
       <Header sortFn={setSortOrder} lastUpdatedAt={lastUpdatedAt} />
-      <div className={classes.spinner} style={{visibility: isLoading ? 'visible' : 'hidden'}}>
-        <CircularProgress color="secondary" disableShrink={true} /> 
-      </div>
-      {body}
+      {isLoading ? <div className="loader" /> : body}
       <Footer />
       <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </div>

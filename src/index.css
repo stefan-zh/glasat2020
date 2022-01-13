@@ -63,6 +63,13 @@ select {
   100% { transform: rotate(360deg); }
 }
 
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
 @media screen and (max-width: 600px) {
   #container {
     padding: 0;

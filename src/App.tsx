@@ -5,7 +5,6 @@ import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
-import { VideoDialog } from './VideoDialog';
 import { ArtistCard } from './ArtistCard';
 
 
@@ -29,7 +28,6 @@ export const App = () => {
   const [byArtist, setByArtist] = React.useState<{[name: string]: ArtistGrouping}>({});
   const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
   // produced data objects
-  const [selectedVideo, setSelectedVideo] = React.useState<VideoResultItem | null>(null);
   const [body, setBody] = React.useState<JSX.Element | undefined>();
 
   /**
@@ -116,17 +114,11 @@ export const App = () => {
     }
   }, [sortOrder, videos]);
 
-  /**
-   * Closes the Video Dialog
-   */
-  const closeDialog = () => setSelectedVideo(null);
-
   return (
     <div id="container">
       <Header sortFn={setSortOrder} lastUpdatedAt={lastUpdatedAt} />
       {isLoading ? <div className="loader" /> : body}
       <Footer />
-      <VideoDialog selectedVideo={selectedVideo} closeDialog={closeDialog} />
     </div>
   );
 }

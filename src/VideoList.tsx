@@ -4,14 +4,13 @@ import { VideoCard } from './VideoCard';
 
 interface VideoListProps {
   videos: VideoResultItem[],
-  metricsFn: (video: VideoResultItem) => string,
-  selectVideo: (video: VideoResultItem) => void
+  metricsFn: (video: VideoResultItem) => string
 }
 
-export const VideoList = ({videos, metricsFn, selectVideo}: VideoListProps) => (
+export const VideoList = ({videos, metricsFn}: VideoListProps) => (
   <div className="video-list">
     {videos.map((video) => (
-      <VideoCard key={video.id} video={video} metricsFn={metricsFn} selectVideo={selectVideo} />
+      <VideoCard key={video.id} video={video} metricsFn={metricsFn} />
     ))}
   </div>
 );

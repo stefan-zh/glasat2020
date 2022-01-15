@@ -69,7 +69,7 @@ export const App = () => {
 
       // set lastUpdated, the body and clear loading
       setLastUpdatedAt(resp.data.lastUpdatedAt);
-      setBody(() => (<VideoList videos={videos} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />));
+      setBody(() => (<VideoList videos={videos} metricsFn={viewCountFn} />));
       setIsLoading(false);
     }
     
@@ -86,12 +86,12 @@ export const App = () => {
     switch (sortOrder) {
       case 1: {
         const sortedVideos = [...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]
-        setBody(() => (<VideoList videos={sortedVideos} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />));
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={viewCountFn} />));
         break;
       }
       case 2: {
         const sortedVideos = [...videos.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)];
-        setBody(() => (<VideoList videos={sortedVideos} metricsFn={likeCountFn} selectVideo={setSelectedVideo} />));
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={likeCountFn} />));
         break;
       }
       case 3: {
@@ -113,7 +113,7 @@ export const App = () => {
           const second = moment(b.snippet.publishedAt, moment.ISO_8601);
           return second.diff(first);
         })];
-        setBody(() => (<VideoList videos={sortedVideos} metricsFn={dateFn} selectVideo={setSelectedVideo} />));
+        setBody(() => (<VideoList videos={sortedVideos} metricsFn={dateFn} />));
         break;
       }
     }

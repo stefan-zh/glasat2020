@@ -2,7 +2,6 @@ import * as React from 'react';
 import axios from 'axios';
 import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
-import { Grid } from '@material-ui/core';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
@@ -97,13 +96,11 @@ export const App = () => {
       case 3: {
         const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
         setBody(() => (
-          <Grid container justify="flex-start" spacing={2}>
+          <div className="flex gap-16">
             {sortedGroups.map((grouping) => (
-              <Grid key={grouping.name} item xs={12}>
-                <ArtistCard grouping={grouping} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />
-              </Grid>
+              <ArtistCard key={grouping.name} grouping={grouping} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />
             ))}
-          </Grid>
+          </div>
         ));
         break;
       }

@@ -8,7 +8,7 @@ interface VideoListProps {
 }
 
 export const VideoList = ({videos, metricsFn}: VideoListProps) => (
-  <div className="video-list">
+  <div className="flex justify-center gap-40">
     {videos.map((video) => (
       <VideoCard key={video.id} video={video} metricsFn={metricsFn} />
     ))}

@@ -1,7 +1,6 @@
 body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
-
 a {
   text-decoration: none;
 }
@@ -25,18 +24,30 @@ h1 {
   letter-spacing: 0.00735em;
   margin: 0;
 }
-
 h5 {
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.334;
-  margin: 0 0 0.35em;
+  margin: 0;
 }
-
 .secondary {
   color: rgba(0, 0, 0, 0.54);
   line-height: 1.5;
   letter-spacing: 0.00938em;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.justify-center {
+  justify-content: center;
+}
+.gap-40 {
+  gap: 40px;
+}
+.gap-16 {
+  gap: 16px;
 }
 
 select {
@@ -80,17 +91,6 @@ select {
   100% { transform: rotate(360deg); }
 }
 
-.video-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-/* makes each card not stretch to the same height as the tallest card in the row */
-.card-container {
-  padding: 20px;
-}
-
 .card {
   width: 345px;
   color: rgba(0, 0, 0, 0.87);
@@ -108,6 +108,15 @@ select {
 
 .card-content {
   padding: 16px;
+}
+
+.artist-card {
+  flex-basis: 100%;
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),
+    0px 1px 1px 0px rgba(0,0,0,0.14),
+    0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 4px;
 }
 
 @media screen and (max-width: 600px) {

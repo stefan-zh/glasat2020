@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Card, CardContent, CardHeader, Grid, Typography, CardActionArea, CardMedia, makeStyles } from '@material-ui/core';
+import { Card, CardContent, Typography, CardActionArea, makeStyles } from '@material-ui/core';
 import { ArtistGrouping, VideoResultItem } from './Types';
 
 const useStyles = makeStyles({
@@ -56,17 +56,18 @@ export const ArtistCard = ({grouping, metricsFn, selectVideo}: ArtistCardProps) 
   const metrics = metricsFn(grouping);
 
   return (
-    <Card>
-      <CardHeader title={name} subheader={metrics} />
-      <CardContent>
-        <Grid container justify="flex-start" spacing={2}>
+    <div className="artist-card">
+      <div className="card-content">
+        <h5>{name}</h5>
+        <span className="secondary">{metrics}</span>
+      </div>
+      <div className="card-content">
+        <div className="flex gap-16">
           {sortedVideos.map((video) => (
-            <Grid key={video.id} item>
-              <ThumbnailCard video={video} selectVideo={selectVideo} />
-            </Grid>
+            <ThumbnailCard key={video.id} video={video} selectVideo={selectVideo} />
           ))}
-        </Grid>
-      </CardContent>
-    </Card>
+        </div>
+      </div>
+    </div>
   );
 }

@@ -1,7 +1,6 @@
 import * as express from 'express';
 import * as http from 'http';
 import * as path from 'path';
-import * as moment from 'moment';
 import axios from 'axios';
 import { videosInfo } from './videos-info';
 import { VideoStatistics, VideoResult } from './src/Types'
@@ -60,7 +59,7 @@ fetchVideoStatistics().then((stats: {[id: string]: VideoStatistics}) => {
   for (const video of videos.items) {
     video.statistics = (video.id in stats) ? stats[video.id] : video.statistics
   }
-  videos.lastUpdatedAt = moment().toISOString();
+  videos.lastUpdatedAt = new Date().toISOString();
 });
 
 // In production, we serve the contents from /dist

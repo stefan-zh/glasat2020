@@ -1,6 +1,5 @@
 import * as React from 'react';
 import axios from 'axios';
-import * as moment from 'moment';
 import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
 import { Header } from './Header';
 import { Footer } from './Footer';
@@ -16,8 +15,9 @@ const likeCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
   return `${item.statistics.likeCount.toLocaleString()} харесвания`;
 }
 const dateFn = (item: VideoResultItem) => {
-  const date = moment(item.snippet.publishedAt, moment.ISO_8601);
-  return date.format("D MMMM YYYY");
+  const date = new Date(item.snippet.publishedAt).toLocaleString("bg-BG", {dateStyle: "long"});
+  // includes 3 characters at the back of year: "14 юни 2020 г."
+  return date.slice(0, -3);
 }
 
 export const App = () => {
@@ -104,9 +104,9 @@ export const App = () => {
       }
       case 4: {
         const sortedVideos = [...videos.sort((a, b) => {
-          const first = moment(a.snippet.publishedAt, moment.ISO_8601);
-          const second = moment(b.snippet.publishedAt, moment.ISO_8601);
-          return second.diff(first);
+          const first = new Date(a.snippet.publishedAt).getTime();
+          const second  = new Date(b.snippet.publishedAt).getTime();
+          return first < second ? 1 : -1;
         })];
         setBody(() => (<VideoList videos={sortedVideos} metricsFn={dateFn} />));
         break;

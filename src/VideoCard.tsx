@@ -13,7 +13,7 @@ export const VideoCard = (props: VideoCardProps) => {
 
   return (
     <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id} data-caption={title}>
-      <div className="card">
+      <div className="card" style={{width: "345px"}}>
         <img src={video.snippet.thumbnails['medium'].url} />
         <div className="card-content">
           <h5 style={{marginBottom: "0.35em"}}>{video.snippet.title}</h5>

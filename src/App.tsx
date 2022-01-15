@@ -98,7 +98,7 @@ export const App = () => {
         setBody(() => (
           <div className="flex gap-16">
             {sortedGroups.map((grouping) => (
-              <ArtistCard key={grouping.name} grouping={grouping} metricsFn={viewCountFn} selectVideo={setSelectedVideo} />
+              <ArtistCard key={grouping.name} grouping={grouping} metricsFn={viewCountFn} />
             ))}
           </div>
         ));

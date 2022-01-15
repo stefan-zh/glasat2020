@@ -1,43 +1,21 @@
 import * as React from 'react';
-import { Card, CardContent, Typography, CardActionArea, makeStyles } from '@material-ui/core';
 import { ArtistGrouping, VideoResultItem } from './Types';
-
-const useStyles = makeStyles({
-  root: {
-    width: 135,
-  },
-});
 
 /**
  * The Thumbnail Video Card inside the Artist Card
  */
-interface ThumbnailCardProps {
-  video: VideoResultItem,
-  selectVideo: (video: VideoResultItem) => void
-}
-
-const ThumbnailCard = (props: ThumbnailCardProps) => {
-  const classes = useStyles();
-  const video = props.video;
+const ThumbnailCard = ({video}: {video: VideoResultItem}) => {
   const title = video.snippet.title;
-  const cardOnClick = () => props.selectVideo(video);
 
   return (
-    <Card className={classes.root}>
-      <CardActionArea onClick={cardOnClick}>      
-        <CardMedia
-          component="img"
-          alt={title}
-          image={video.snippet.thumbnails['medium'].url}
-          title={title}
-        />
-        <CardContent>
-          <Typography variant="body2">
-            {title}
-          </Typography>
-        </CardContent>
-      </CardActionArea>
-    </Card>
+    <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id} data-caption={title}>
+      <div className="card" style={{width: "135px"}}>
+        <img width="100%" src={video.snippet.thumbnails['medium'].url} />
+          <div className="card-content">
+            <span className="small-title">{title}</span>
+          </div>
+      </div>
+    </a>
   );
 }
 
@@ -46,17 +24,16 @@ const ThumbnailCard = (props: ThumbnailCardProps) => {
  */
 interface ArtistCardProps {
   grouping: ArtistGrouping,
-  metricsFn: (grouping: ArtistGrouping) => string,
-  selectVideo: (video: VideoResultItem) => void
+  metricsFn: (grouping: ArtistGrouping) => string
 }
 
-export const ArtistCard = ({grouping, metricsFn, selectVideo}: ArtistCardProps) => {
+export const ArtistCard = ({grouping, metricsFn}: ArtistCardProps) => {
   const {name, videos} = {...grouping};
   const sortedVideos = videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
   const metrics = metricsFn(grouping);
 
   return (
-    <div className="artist-card">
+    <div className="card">
       <div className="card-content">
         <h5>{name}</h5>
         <span className="secondary">{metrics}</span>
@@ -64,7 +41,7 @@ export const ArtistCard = ({grouping, metricsFn, selectVideo}: ArtistCardProps) 
       <div className="card-content">
         <div className="flex gap-16">
           {sortedVideos.map((video) => (
-            <ThumbnailCard key={video.id} video={video} selectVideo={selectVideo} />
+            <ThumbnailCard key={video.id} video={video} />
           ))}
         </div>
       </div>

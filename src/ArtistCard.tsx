@@ -4,20 +4,16 @@ import { ArtistGrouping, VideoResultItem } from './Types';
 /**
  * The Thumbnail Video Card inside the Artist Card
  */
-const ThumbnailCard = ({video}: {video: VideoResultItem}) => {
-  const title = video.snippet.title;
-
-  return (
-    <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id} data-caption={title}>
-      <div className="card" style={{width: "135px"}}>
-        <img width="100%" src={video.snippet.thumbnails['medium'].url} />
-          <div className="card-content">
-            <span className="small-title">{title}</span>
-          </div>
-      </div>
-    </a>
-  );
-}
+const ThumbnailCard = ({video}: {video: VideoResultItem}) => (
+  <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id}>
+    <div className="card" style={{width: "135px"}}>
+      <img width="100%" src={video.snippet.thumbnails['medium'].url} />
+        <div className="card-content">
+          <span className="small-title">{video.snippet.title}</span>
+        </div>
+    </div>
+  </a>
+);
 
 /**
  * The Artist Card

@@ -8,11 +8,10 @@ interface VideoCardProps {
 
 export const VideoCard = (props: VideoCardProps) => {
   const video = props.video;
-  const title = video.snippet.title;
   const metrics = props.metricsFn(video);
 
   return (
-    <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id} data-caption={title}>
+    <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id}>
       <div className="card" style={{width: "345px"}}>
         <img src={video.snippet.thumbnails['medium'].url} />
         <div className="card-content">

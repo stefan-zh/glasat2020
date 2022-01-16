@@ -1,11 +1,10 @@
 import * as React from 'react';
-import axios from 'axios';
-import { VideoResultItem, ArtistGrouping, VideoStatistics } from './Types';
+import { VideoResultItem, ArtistGrouping, VideoStatistics, VideoResult } from './Types';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { VideoList } from './VideoList';
 import { ArtistCard } from './ArtistCard';
-
+const videosFile = require('./videos-info.json');
 
 // selectors
 const viewCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
@@ -36,8 +35,9 @@ export const App = () => {
   React.useEffect(() => {
     // fetch videos from backend
     const fetchVideos = async () => {
-      const resp = await axios.get('/videos');
-      const videos: VideoResultItem[] = resp.data.items;
+      const resp = await fetch(videosFile);
+      const data = await resp.json() as VideoResult;
+      const videos: VideoResultItem[] = data.items;
 
       // set the videos from the backend sorted by viewCount
       setVideos([...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]);
@@ -65,7 +65,7 @@ export const App = () => {
       setByArtist(byArtist);
 
       // set lastUpdated, the body and clear loading
-      setLastUpdatedAt(resp.data.lastUpdatedAt);
+      setLastUpdatedAt(data.lastUpdatedAt);
       setBody(() => (<VideoList videos={videos} metricsFn={viewCountFn} />));
       setIsLoading(false);
     }

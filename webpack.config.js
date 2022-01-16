@@ -5,6 +5,13 @@ module.exports = {
   entry: './src/index.tsx',
   module: {
     rules: [
+      {
+        test: /\.json/,
+        type: 'asset/resource',
+        generator: {
+          filename: '[name][ext][query]'
+        }
+      },
       { 
         test: /\.css$/, 
         use: ['style-loader', 'css-loader']

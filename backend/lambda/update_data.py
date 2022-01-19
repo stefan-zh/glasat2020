@@ -56,6 +56,6 @@ def lambda_handler(event, context):
     for video in videos["items"]:
         if video["id"] in stats:
             video["statistics"] = stats[video["id"]]
-    videos["lastUpdatedAt"] = datetime.datetime.now().isoformat()
+    videos["lastUpdatedAt"] = datetime.datetime.utcnow().isoformat()
     # write data to S3 bucket
     s3.put_object(Body=json.dumps(videos), Bucket='www.glasat2020.com', Key='videos-info.json')

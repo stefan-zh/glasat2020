@@ -41,9 +41,6 @@ module.exports = {
       directory: path.join(__dirname, 'dist')
     },
     compress: true,
-    port: 3000,
-    proxy: {
-      '*': 'http://localhost:5000'
-    }
+    port: 3000
   }
 };

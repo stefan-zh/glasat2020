@@ -57,5 +57,7 @@ def lambda_handler(event, context):
         if video["id"] in stats:
             video["statistics"] = stats[video["id"]]
     videos["lastUpdatedAt"] = datetime.datetime.utcnow().isoformat()
+    # encode the data without Unicode escape characters: https://stackoverflow.com/a/54277164/9698467
+    data = json.dumps(videos, ensure_ascii=False)
     # write data to S3 bucket
-    s3.put_object(Body=json.dumps(videos), Bucket='www.glasat2020.com', Key='videos-info.json')
+    s3.put_object(Body=data, Bucket='www.glasat2020.com', Key='videos-info.json')

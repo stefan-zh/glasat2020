@@ -18,7 +18,7 @@ to the backend server.
 There is no need for proxy on production (Heroku) since there is only one server in production and it serves the `/videos` endpoint 
 and the static files.
 
-To push to Heroku: `git push heroku main`.
+To push `for-heroku` branch to Heroku `main`, run: `git push heroku for-heroku:main`.
 
 ### Fetching statistics
 
@@ -26,3 +26,9 @@ When the backend server starts, it fetches the statistics information for the Yo
 them onto the `videosInfo` array that it reads from disk. The `videosInfo` array only contains data that doesn't change, such as song 
 title, performer, upload date, etc. This data merge happens when the server starts, but Heroku recycles its dynos after 30 minutes of
 inactivity, so after each restart the latest statistics are fetched again.
+
+### Difference with `main-mui` branch
+This branch removes Material UI and momentjs from the repo. All visual components from Material UI have been replaced with regular
+HTML tags and CSS. All momentjs invocations have been replaced with the use of regular JavaScript time functions.
+
+This optimization reduced the bundle size from 890KB down to 156KB.

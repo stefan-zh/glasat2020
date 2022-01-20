@@ -1,7 +1,8 @@
 import json
 import boto3
+# this http library is available on AWS Lamda
 import urllib3
-import datetime
+from datetime import datetime, timezone
 
 s3 = boto3.client("s3")
 response = s3.get_object(Bucket='www.glasat2020.com', Key='videos-info.json')
@@ -56,7 +57,9 @@ def lambda_handler(event, context):
     for video in videos["items"]:
         if video["id"] in stats:
             video["statistics"] = stats[video["id"]]
-    videos["lastUpdatedAt"] = datetime.datetime.utcnow().isoformat()
+    # lastUpdatedAt must include timezone information to be properly parsed later:
+    # https://stackoverflow.com/a/63731605/9698467
+    videos["lastUpdatedAt"] = datetime.now(timezone.utc).isoformat()
     # encode the data without Unicode escape characters: https://stackoverflow.com/a/54277164/9698467
     data = json.dumps(videos, ensure_ascii=False)
     # write data to S3 bucket

@@ -1,34 +1,24 @@
 ## The Voice of Bulgaria on YouTube 2020
 
+For other versions of this project, look at the branches:
+* [original implementation with Material UI and momentjs](https://github.com/stefan-zh/yt-glasat/tree/main-mui)
+* [optimization removing Material UI and momentjs and replacing them with regular HTML, CSS and JavaScript](https://github.com/stefan-zh/yt-glasat/tree/for-heroku)
+
 ### Dev environment
 
-In dev the app uses two servers: one that serves the front-end and one that serves the backend. This is because I can hot-reload 
-changes on the front-end without having to restart the backend server.
-
-The backend server can be started with `npm start` locally. It runs `server.ts` on port `5000`.
-
-The front-end server serves the front-end files and can be started with `npm run start:dev`. It is by default on port `3000`.
-
-It is a [webpack-dev-server](https://webpack.js.org/configuration/dev-server/) that serves the content (HTML, JS, etc). There is 
-one endpoint `/videos`, which cannot be served statically locally. The webpack-dev-server redirects requests to it via a _proxy_ 
-to the backend server.
+In dev the app uses the [webpack-dev-server](https://webpack.js.org/configuration/dev-server/) to serve the files locally.
+The server can be started with `npm start`. The app is served on port `:3000`.
 
 ### Production
 
-There is no need for proxy on production (Heroku) since there is only one server in production and it serves the `/videos` endpoint 
-and the static files.
+To build the app for production, run `npm run build`. The build appears in the `/dist` folder. All TypeScript is bundled
+together. The custom CSS is minified and injected in a `<script>` tag in index.html.
 
-To push `for-heroku` branch to Heroku `main`, run: `git push heroku for-heroku:main`.
+The data for the app originates from the `videos-info.json` file. This file is included in the `/dist` folder and a URL to it
+is emitted by Webpack. This way the file can be loaded dynamically into the app. More on this here: 
+https://stackoverflow.com/q/70730055/9698467
 
-### Fetching statistics
+The `videos-info.json` is refreshed by an AWS Lambda function every 6 hours. The lambda runs the script `/backend/lambda/update_data.py`, 
+which fetches the latest statistics from YouTube for all videos listed in `videos-info.json` and merges them into the file.
 
-When the backend server starts, it fetches the statistics information for the YouTube videos for the Voice of Bulgaria, and merges 
-them onto the `videosInfo` array that it reads from disk. The `videosInfo` array only contains data that doesn't change, such as song 
-title, performer, upload date, etc. This data merge happens when the server starts, but Heroku recycles its dynos after 30 minutes of
-inactivity, so after each restart the latest statistics are fetched again.
-
-### Difference with `main-mui` branch
-This branch removes Material UI and momentjs from the repo. All visual components from Material UI have been replaced with regular
-HTML tags and CSS. All momentjs invocations have been replaced with the use of regular JavaScript time functions.
-
-This optimization reduced the bundle size from 890KB down to 156KB.
+The website is hosted on AWS in an S3 bucket. This is its URL: https://www.glasat2020.com.

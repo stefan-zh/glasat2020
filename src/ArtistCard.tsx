@@ -4,8 +4,8 @@ import { ArtistGrouping, VideoResultItem } from './Types';
 /**
  * The Thumbnail Video Card inside the Artist Card
  */
-const ThumbnailCard = ({video}: {video: VideoResultItem}) => (
-  <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={video?.id}>
+const ThumbnailCard = ({video, name}: {video: VideoResultItem, name: string}) => (
+  <a href={`https://www.youtube.com/watch?v=${video?.id}`} data-fancybox={name}>
     <div className="card" style={{width: "135px"}}>
       <img width="100%" src={video.snippet.thumbnails['medium'].url} />
         <div className="card-content">
@@ -37,7 +37,7 @@ export const ArtistCard = ({grouping, metricsFn}: ArtistCardProps) => {
       <div className="card-content">
         <div className="flex gap-16">
           {sortedVideos.map((video) => (
-            <ThumbnailCard key={video.id} video={video} />
+            <ThumbnailCard key={video.id} video={video} name={name} />
           ))}
         </div>
       </div>

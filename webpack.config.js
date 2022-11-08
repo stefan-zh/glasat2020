@@ -9,7 +9,7 @@ module.exports = {
         test: /\.json/,
         type: 'asset/resource',
         generator: {
-          filename: '[name][ext][query]'
+          filename: '[name][ext]'
         }
       },
       { 

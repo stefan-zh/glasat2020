@@ -1,9 +1,5 @@
 ## The Voice of Bulgaria on YouTube 2020
 
-For other versions of this project, look at the branches:
-* [original implementation with Material UI and momentjs](https://github.com/stefan-zh/yt-glasat/tree/main-mui)
-* [optimization removing Material UI and momentjs and replacing them with regular HTML, CSS and JavaScript](https://github.com/stefan-zh/yt-glasat/tree/for-heroku)
-
 ### Dev environment
 
 In dev the app uses the [webpack-dev-server](https://webpack.js.org/configuration/dev-server/) to serve the files locally.

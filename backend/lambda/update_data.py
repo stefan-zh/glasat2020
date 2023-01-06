@@ -5,7 +5,7 @@ import urllib3
 from datetime import datetime, timezone
 
 s3 = boto3.client("s3")
-response = s3.get_object(Bucket='www.glasat2020.com', Key='videos-info.json')
+response = s3.get_object(Bucket='glasat2020.stefanzh.com', Key='videos-info.json')
 content = response['Body'].read().decode('utf-8')
 videos = json.loads(content)
 
@@ -26,7 +26,7 @@ def fetch_video_statistics(videos):
             'GET', 
             'https://www.googleapis.com/youtube/v3/videos',
             headers={
-                "Referer": "www.glasat2020.com",
+                "Referer": "glasat2020.stefanzh.com",
                 "Content-Type": "application/json"
             },
             fields={
@@ -63,4 +63,4 @@ def lambda_handler(event, context):
     # encode the data without Unicode escape characters: https://stackoverflow.com/a/54277164/9698467
     data = json.dumps(videos, ensure_ascii=False)
     # write data to S3 bucket
-    s3.put_object(Body=data, Bucket='www.glasat2020.com', Key='videos-info.json')
+    s3.put_object(Body=data, Bucket='glasat2020.stefanzh.com', Key='videos-info.json')

@@ -63,8 +63,8 @@ h5 {
 }
 
 select {
-  height: 30px;
-  font-size: 1rem;
+  min-height: 25px;
+  font-size: 1em;
   letter-spacing: 0.00938em;
   border: none;
   background: none;

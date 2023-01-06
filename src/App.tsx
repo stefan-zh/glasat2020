@@ -1,10 +1,12 @@
 import * as React from 'react';
 import { VideoResultItem, ArtistGrouping, VideoStatistics, VideoResult } from './Types';
 import { Header } from './Header';
-import { Footer } from './Footer';
 import { VideoList } from './VideoList';
 import { ArtistCard } from './ArtistCard';
 const videosFile = require('./videos-info.json');
+
+// goes into footer
+const currYear = new Date().getFullYear();
 
 // selectors
 const viewCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
@@ -15,18 +17,16 @@ const likeCountFn = <T extends {statistics: VideoStatistics}>(item: T) => {
 }
 const dateFn = (item: VideoResultItem) => {
   const date = new Date(item.snippet.publishedAt).toLocaleString("bg-BG", {dateStyle: "long"});
-  // includes 3 characters at the back of year: "14 юни 2020 г."
+  // drop the last 3 characters from "14 юни 2020 г." to become "14 юни 2020"
   return date.slice(0, -3);
 }
 
 export const App = () => {
   const [isLoading, setIsLoading] = React.useState<boolean>(true);
-  const [sortOrder, setSortOrder] = React.useState<number>(1);
-  // native data objects
+  const [sortOrder, setSortOrder] = React.useState<string>("1");
   const [videos, setVideos] = React.useState<VideoResultItem[]>([]);
   const [byArtist, setByArtist] = React.useState<{[name: string]: ArtistGrouping}>({});
   const [lastUpdatedAt, setLastUpdatedAt] = React.useState<string | undefined>();
-  // produced data objects
   const [body, setBody] = React.useState<JSX.Element | undefined>();
 
   /**
@@ -81,17 +81,17 @@ export const App = () => {
       return
     }
     switch (sortOrder) {
-      case 1: {
+      case "1": {
         const sortedVideos = [...videos.sort((a, b) => b.statistics.viewCount - a.statistics.viewCount)]
         setBody(() => (<VideoList videos={sortedVideos} metricsFn={viewCountFn} />));
         break;
       }
-      case 2: {
+      case "2": {
         const sortedVideos = [...videos.sort((a, b) => b.statistics.likeCount - a.statistics.likeCount)];
         setBody(() => (<VideoList videos={sortedVideos} metricsFn={likeCountFn} />));
         break;
       }
-      case 3: {
+      case "3": {
         const sortedGroups = Object.values(byArtist).sort((a, b) => b.statistics.viewCount - a.statistics.viewCount);
         setBody(() => (
           <div className="flex gap-16">
@@ -102,7 +102,7 @@ export const App = () => {
         ));
         break;
       }
-      case 4: {
+      case "4": {
         const sortedVideos = [...videos.sort((a, b) => {
           const first = new Date(a.snippet.publishedAt).getTime();
           const second  = new Date(b.snippet.publishedAt).getTime();
@@ -118,7 +118,11 @@ export const App = () => {
     <div id="container">
       <Header sortFn={setSortOrder} lastUpdatedAt={lastUpdatedAt} />
       {isLoading ? <div className="loader" /> : body}
-      <Footer />
+      <footer className="secondary">
+        © 2020 - {currYear} Автор <a href="https://www.stefanzh.com" target="_blank">Стефан Желязков</a>.<br/>
+        Гласът на България е запазена търговска марка на "БТВ Медиа Груп" ЕAД.<br />
+        YouTube е платформа за споделяне на видео клипове и е запазена търговска марка на Google LLC.
+      </footer>
     </div>
   );
 }
